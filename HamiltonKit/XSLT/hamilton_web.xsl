@@ -50,7 +50,6 @@
         </html>
     </xsl:template>
     
-    <xsl:template match="tei:castlist"/>
     
     <xsl:template match="tei:head">
         <h1 xmlns="http://www.w3.org/1999/xhtml">
@@ -120,13 +119,7 @@
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
-    
- 
- <xml:template match="tei:div/tei:list/tei:item">
-             <xsl:apply-templates/> 
-     <br />
-                
- </xml:template>
+
     
     <xsl:template match="tei:persName">
         <font color="blue">
@@ -158,49 +151,27 @@
         </font>
     </xsl:template>
     
+    <!-- Styles TOC 
     
-<!--   
-    <xsl:template match="tei:span">
-        <br xmlns="http://www.w3.org/1999.xhtml"/>
-    </xsl:template>
-    
-   <xsl:template match="tei:pb">
-        <img src="{@facs}">
+    <xsl:template match="tei:div/tei:head/tei:list[@type='toc']">
+        <hr/>
+        <h2>
             <xsl:apply-templates/>
-        </img>
-    </xsl:template>
+        </h2>
+    </xsl:template>-->
     
-    <xsl:template match="tei:span">
-        <xsl:value-of select="tei:persName | tei:placeName | tei:date" />
-        <xsl:if test="not(position()=last())">
-            <br />
-        </xsl:if>
-    </xsl:template>
-    
-    \*This section handles the position of the note and its link*\
-    
-    <xsl:template match="tei:note">
-        <a xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:attribute name="href">
-                <xsl:text>#</xsl:text>
-                <xsl:value-of select="@n"/>
-            </xsl:attribute>
-            <sup xmlns="http://www.w3.org/1999/xhtml">
-                <xsl:value-of select="@n"/>
-            </sup>
-        </a>
-        <xsl:text> </xsl:text>
-    </xsl:template>
-    
- -->   
-    <xsl:template match="tei:note" mode="endNotes">
-        <p xmlns="http://www.w3.org/1999/xhtml">
-            <a name="{@n}"/>
-            <xsl:value-of select="@n"/>
-            <xsl:text>. </xsl:text>
+    <xsl:template match="tei:div/tei:head/tei:list[@type='toc']">
+        <ol>
             <xsl:apply-templates/>
-        </p>
+        </ol>
     </xsl:template>
+    
+    <xsl:template match="tei:div/tei:list[@type='toc']/tei:item">
+        <li>
+            <xsl:apply-templates/>
+        </li>        
+    </xsl:template>
+
     
     <!--
     <xsl:template match="tei:anchor">
@@ -223,6 +194,8 @@
             <xsl:apply-templates/>
         </a>
     </xsl:template>
+    
+
     
 </xsl:stylesheet>
 
