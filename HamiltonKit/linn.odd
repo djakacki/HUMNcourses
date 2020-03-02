@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Linn Schema</title>
+        <author>Diane Jakacki</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <p>TEI material can be licensed differently depending on the use you intend to make of it.
+            Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is
+            generally appropriate for usages which treat TEI content as data or documentation. The
+            BSD-2 licence is generally appropriate for usage of TEI content in a software
+            environment. For further information or clarification, please contact the TEI Consortium
+            (info@tei-c.org).</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Written from scratch.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>TEI Complete</head>
+      <p>This TEI customization describes a schema that includes <emph>all</emph> of the TEI (P5)
+        modules. This is a very useful starting place for manually creating your own customizations
+        — it is much easier to delete the modules you do not want than to add the modules you do.
+        Furthermore this customization often proves helpful for testing TEI software.</p>
+      <p>However, this particular TEI customization is <emph>not recommended</emph> for actual use
+        for encoding documents. It produces schemas and reference documentation that will be much
+        larger, and include many more elements, than almost anyone could conceivably ever need.
+        Tempting though it may be simply to have absolutely everything, and <q>just ignore</q>
+        elements not required, experience has shown that their presence makes the documentation
+        harder to read and use, and makes a schema that is far more lax than desired.</p>
+      <schemaSpec ident="tei_all" start="TEI teiCorpus" prefix="tei_" targetLang="en" docLang="en">
+        <moduleRef key="tei"/>
+        <!-- required -->
+        <moduleRef key="core"
+          except="analytic gb imprint meeting milestone monogr orig postBox postCode reg relatedItem series sic soCalled stage unclear"/>
+        <!-- required -->
+        <moduleRef key="analysis" except="m pc phr w"/>
+        <moduleRef key="certainty" except="precision"/>
+        <moduleRef key="corpus" except="activity channel preparedness purpose"/>
+        <moduleRef key="dictionaries"
+          except="case dictScrap gram gramGrp hom hyph mood oRef orth pRef per pos pron sense stress subc superEntry syll tns usg"/>
+        <moduleRef key="drama" except="actor camera move performance prologue set sound tech view"/>
+        <moduleRef key="figures" except="formula notatedMusic"/>
+        <moduleRef key="gaiji"/>
+        <moduleRef key="header"
+          except="abstract appInfo application conversion handNote hyphenation normalization punctuation scriptNote seriesStmt unitDecl unitDef"/>
+        <!-- required -->
+        <moduleRef key="iso-fs"
+          except="bicond fs fsConstraints fsDecl fsDescr fsdDecl fsdLink fvLib if iff"/>
+        <moduleRef key="linking" except="join joinGrp"/>
+        <moduleRef key="msdescription"
+          except="accMat acquisition adminInfo binding bindingDesc custEvent custodialHist filiation finalRubric handDesc incipit material msFrag musicNotation objectType origDate origPlace origin recordHist scriptDesc seal sealDesc secFol stamp summary support supportDesc surrogates typeDesc typeNote watermark"/>
+        <moduleRef key="namesdates" except="age listNym listObject objectIdentifier offset"/>
+        <moduleRef key="nets" except="arc graph iNode listForest root tree triangle"/>
+        <moduleRef key="spoken"
+          except="broadcast equipment incident kinesic pause recording recordingStmt scriptStmt shift u vocal writing"/>
+        <moduleRef key="textcrit" except="app lacunaEnd lacunaStart lem listWit"/>
+        <moduleRef key="textstructure" except="group imprimatur"/>
+        <!-- required -->
+        <moduleRef key="transcr"
+          except="addSpan am handNotes handShift listTranspose metamark mod redo restore retrace secl space subst substJoin surplus transpose undo"/>
+        <moduleRef key="verse" except="metDecl metSym rhyme"/>
+
+        <moduleRef key="tagdocs"
+          except="memberOf model modelGrp modelSequence outputRendition param paramList paramSpec remarks sequence"/>
+        
+        <elementSpec ident="name" mode="change" module="core">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="event"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>        
+        <elementSpec ident="persName" mode="change" module="namesdates">
+          <attList>
+            <attDef ident="select" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="observed"/>                 
+                <valItem ident="inferred"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="placeName" mode="change">
+            <attList>
+              <attDef ident="select" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="observed"/>                 
+                  <valItem ident="inferred"/>
+                </valList>
+              </attDef>
+            </attList>
+        </elementSpec>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
