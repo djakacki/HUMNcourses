@@ -1734,15 +1734,820 @@
                </lg>
             </sp>
          </div>
-         <!--
-         11. "Satisfied"
+
+         
+<!-- 11. "Satisfied" -->
+         <div type="song">            
+                    <head>11. "Satisfied"</head>
+            
+            <sp who="#laurens">
+            <speaker>[LAURENS]</speaker>
+            <lg><l>Alright, alright. That’s what I’m talkin’ about!
+            Now everyone give it up for the maid of honor
+            <persName>Angelica Schuyler</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA, ALL MEN, ALL WOMEN]</speaker>
+            <lg><l>A toast to the groom!
+            To the groom!
+            To the groom!
+            To the groom!
+            To the bride!
+            To the bride!
+            To the bride!
+            To the bride!</l></lg>
+            </sp>
+         
+            <sp who="#angelica">
+            <speaker>[ANGELICA, ALL MEN, ELIZA AND WOMEN]</speaker>
+            <lg><l>From your sister
+            <persName>Angelica</persName>!
+            <persName>Angelica</persName>!
+            <persName>Angelica</persName>!
+            Who is always by your side
+            By your side!
+            By your side!
+            To your union
+            To the union! To the revolution!
+            And the hope that you provide
+            You provide!
+            You provide!</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA, HAMILTON AND MEN, ELIZA AND WOMEN]</speaker>
+            <lg><l>May you always... (Always)
+            Be satisfied (Rewind)
+            
+            [Recorded Samples]
+            Rewind, Rewind
+            Helpless, sky's, sky's
+            Drownin' in em
+            Drownin', rewind
+            
+            I remember that <time>night</time>, I just might (rewind)
+            I remember that <time>night</time>, I just might (rewind)
+            I remember that <time>night</time>, I remember that—</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I remember that <time>night</time>, I just might
+            Regret that <time>night</time> for the rest of my days
+            
+            I remember those soldier boys
+            Tripping over themselves to win our praise
+            
+            I remember that dreamlike candlelight
+            Like a dream that you can’t quite place
+            
+            But <persName>Alexander</persName>, I’ll never forget the first
+            Time I saw your face
+            
+            I have never been the same
+            Intelligent eyes in a hunger-pang frame
+            And when you said “Hi,” I forgot my dang name
+            Set my heart aflame, ev’ry part aflame</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[FULL COMPANY]</speaker>
+            <lg><l>This is not a game…</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>You strike me as a woman who has never been satisfied</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I’m sure I don’t know what you mean. You forget yourself</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>You’re like me. I’m never satisfied</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>Is that right?</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>I have never been satisfied</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>My name is <persName>Angelica Schuyler</persName></l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l><persName>Alexander Hamilton</persName></l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>Where’s your fam’ly from?</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>Unimportant. There’s a million things I haven’t done but
+            Just you wait, just you wait…</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>So so so—
+            So this is what it feels like to match wits
+            With someone at your level! What the hell is the catch? It’s
+            The feeling of freedom, of seein’ the light
+            It’s <persName>Ben Franklin</persName> with a <objectName>key</objectName> and a <objectName>kite</objectName>! You see it, right?
+            The conversation lasted <time>two minutes</time>, maybe <time>three minutes</time>
+            Ev’rything we said in total agreement, it’s
+            A dream and it’s a bit of a dance
+            A bit of a posture, it’s a bit of a stance. He’s a
+            Bit of a flirt, but I’m ‘a give it a chance
+            I asked about his fam’ly, did you see his answer?
+            His <objectName>hands</objectName> started fidgeting, he looked askance?
+            He’s penniless, he’s flying by the seat of his <objectName>pants</objectName>
+            
+            Handsome, boy, does he know it!
+            <objectName>Peach fuzz</objectName>, and he can’t even grow it!
+            I wanna take him far away from this place
+            Then I turn and see my sister’s face and she is…</l></lg>
+            </sp>
+            
+            <sp who="#eliza">
+            <speaker>[ELIZA]</speaker>
+            <lg><l>Helpless…</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>And I know she is…</l></lg>
+            </sp>
+            
+            <sp who="#eliza">
+            <speaker>[ELIZA]</speaker>
+            <lg><l>Helpless…</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>And her <objectName>eyes</objectName> are just…</l></lg>
+            </sp>
+            
+            <sp who="#eliza">
+            <speaker>[ELIZA]</speaker>
+            <lg><l>Helpless…</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>And I realize</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[ANGELICA AND COMPANY]</speaker>
+            <lg><l>Three fundamental truths at the exact same time…</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>Where are you taking me?</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I’m about to change your life</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>Then by all means, lead the way</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[COMPANY (EXCEPT ANGELICA)]</speaker>
+            <lg><l>Number one!</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I’m a girl in a <placeName>world</placeName> in which
+            My only job is to marry rich
+            <persName>My father</persName> has no sons so I’m the one
+            Who has to social climb for one
+            So I’m the oldest and the wittiest and the gossip in
+            <placeName>New York City</placeName> is insidious
+            And <persName>Alexander</persName> is penniless
+            Ha! That doesn’t mean I want him any less</l></lg>
+            </sp>
+            
+            <sp who="#eliza">
+            <speaker>[ELIZA]</speaker>
+            <lg><l><persName>Elizabeth Schuyler</persName>. It’s a pleasure to meet you</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l><persName>Schuyler</persName>?</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l><persName>My sister</persName></l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[COMPANY]</speaker>
+            <lg><l>Number two!</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>He’s after me cuz I’m a <persName>Schuyler sister</persName>
+            That elevates his status, I’d
+            Have to be naïve to set that aside
+            Maybe that is why I introduce him to <persName>Eliza</persName>
+            Now that’s his bride
+            Nice going, <persName>Angelica</persName>, he was right
+            You will never be satisfied</l></lg>
+            </sp>
+            
+            <sp who="#eliza">
+            <speaker>[ELIZA]</speaker>
+            <lg><l>Thank you for all your service</l></lg>
+            </sp>
+            
+            <sp who="#hamilton">
+            <speaker>[HAMILTON]</speaker>
+            <lg><l>If it takes fighting a <name type="event">war</name> for us to meet, it will have been worth it</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I’ll leave you to it</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[COMPANY]</speaker>
+            <lg><l>Number three!</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>I know <persName>my sister</persName> like I know my own mind
+            You will never find anyone as trusting or as kind
+            If I tell her that I love him she’d be silently resigned
+            He’d be mine
+            She would say, “I’m fine”</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA AND COMPANY]</speaker>
+            <lg><l>She’d be lying</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>But when I fantasize at <time>night</time>
+            It’s <persName>Alexander’s</persName> eyes
+            As I romanticize what might
+            Have been if I hadn’t sized him
+            Up so quickly
+            At least my dear <persName>Eliza’s</persName> his wife;
+            At least I keep his eyes in my life…</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA]</speaker>
+            <lg><l>He will never be satisfied
+            I will never be satisfied</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[ANGELICA, ALL MEN (EXCEPT HAMILTON), ALL WOMEN (EXCEPT ELIZA)]</speaker>
+            <lg><l>To the groom!
+            To the groom!
+            To the groom!
+            To the groom!
+            To the bride!
+            To the bride!
+            To the bride!
+            To the bride!</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[ANGELICA, ALL MEN, ELIZA AND WOMEN]</speaker>
+            <lg><l>From your sister
+            <persName>Angelica!</persName>
+            <persName>Angelica!</persName>
+            <persName>Angelica!</persName>
+            Who is always by your side
+            By your side!
+            By your side!
+            To your union
+            To the union! To the <name type="event">revolution</name>!
+            And the hope that you provide
+            You provide!
+            You provide!</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+            <speaker>[ANGELICA, HAMILTON AND MEN, ELIZA AND WOMEN]</speaker>
+            <lg><l>May you always... (Always)
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            Be satisfied</l></lg>
+            </sp>
+            
+            <sp who="#angelica">
+            <speaker>[ANGELICA, MEN, WOMEN]</speaker>
+            <lg><l>And I know
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            She'll be happy as his bride
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            And I know
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            Be satisfied
+            He will never be satisfied
+            I will never be satisfied</l></lg>
+            </sp>
+         </div>
+<!--
          12. "The Story of Tonight (Reprise)"
          13. "Wait For It"
-         14. "Stay Alive"
-         15. "Ten Duel Commandments"
+         14. "Stay Alive"-->
+         
+        <!-- 15. "Ten Duel Commandments"-->
+            <div type="song">               
+               <head>15. "Ten Duel Commandments"</head>
+               
+               <sp who="#ensemble">
+               <speaker>[MEN]</speaker>
+               <lg><l>One, two, three, four</l></lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[FULL COMPANY]</speaker>
+               <lg><l>Five, six, seven, eight, nine…</l></lg>
+               </sp>
+               
+              <sp who="#burr">          
+               <speaker>[BURR/HAMILTON/LAURENS/LEE]</speaker>
+                  <lg>
+               <l>It’s the Ten Duel Commandments</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[FULL COMPANY]</speaker>
+                  <lg>
+               <l>It’s the Ten Duel Commandments
+               Number one!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#laurens">
+               <speaker>[LAURENS]</speaker>
+                  <lg>
+               <l>The challenge: demand satisfaction
+               If they apologize, no need for further action</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Number two!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#laurens">
+               <speaker>[LAURENS]</speaker>
+                  <lg>
+               <l>If they don’t, grab a <persName>friend</persName>, that’s your second</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#hamilton">
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Your <persName>lieutenant</persName> when there’s reckoning to be reckoned</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Number three!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#lead">
+               <speaker>[LEE]</speaker>
+                  <lg>
+               <l>Have your seconds meet face to face</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#burr">
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>Negotiate a peace…</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#hamilton">
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Or negotiate a time and place</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#burr">
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>This is commonplace, ‘specially ‘tween recruits</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Most disputes die, and no one shoots
+               Number four!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#hamilton">
+               <speaker>[LAURENS]</speaker>
+                  <lg>
+               <l>If they don’t reach a peace, that’s alright
+               Time to get some <objectName>pistols</objectName> and a <persName>doctor</persName> on site</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#hamilton">
+               <speaker>[HAMILTON]</speaker>
+                  <lg><l>You pay him in advance, you treat him with civility</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#burr">
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>You have him turn around so he can have deniability</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Five!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#lead">
+               <speaker>[LEE]</speaker>
+                  <lg>
+               <l>Duel before the <objectName>sun</objectName> is in the <placeName>sky</placeName></l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Pick a place to die where it’s high and dry
+               Number six!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#hamilton">
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Leave a note for your next of kin
+               Tell ‘em where you been. Pray that <placeName>hell</placeName> or <placeName>heaven</placeName> lets you in</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Seven!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#lead">
+               <speaker>[LEE]</speaker>
+                  <lg>
+               <l>Confess your sins. Ready for the moment
+               Of adrenaline when you finally face your opponent</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Number eight!</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#laurens">
+               <speaker>[LAURENS/LEE/HAMILTON/BURR]</speaker>
+                  <lg>
+               <l>Your last chance to negotiate
+               Send in your seconds, see if they can set the record straight…</l>
+                  </lg>
+               </sp>
+               
+               <sp who="#burr">
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l><persName>Alexander</persName></l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l><persName>Aaron Burr</persName>, sir</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>Can we agree that duels are dumb and immature?</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Sure
+               But your man has to answer for his words, <persName>Burr</persName></l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>With his life? We both know that’s absurd, <persName>sir</persName></l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Hang on, how many men died because <persName>Lee</persName> was inexperienced and ruinous?</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[BURR]</speaker>
+                  <lg>
+               <l>Okay, so we’re doin’ this</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Number nine!</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON]</speaker>
+                  <lg>
+               <l>Look ‘em in the <objectName>eye</objectName>, aim no higher
+               Summon all the courage you require
+               Then count</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[MEN]</speaker>
+                  <lg>
+               <l>One two three four</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[FULL COMPANY]</speaker>
+                  <lg>
+               <l>Five six seven eight nine</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON/BURR]</speaker>
+                  <lg>
+               <l>Number</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[COMPANY]</speaker>
+                  <lg>
+               <l>Ten paces!</l>
+                  </lg>
+               </sp>
+               
+               <sp>
+               <speaker>[HAMILTON/BURR]</speaker>
+                  <lg>
+               <l>Fire!</l>
+                  </lg>
+               </sp>
+            </div>
+<!--            
          16. "Meet Me Inside"
-         17. "That Would Be Enough"
-         18. "Guns and Ships"-->
+         17. "That Would Be Enough"-->
+
+         <!--18. "Guns and Ships"-->
+         <div type="song">
+            <head>18. "Guns and Ships"</head>
+            
+            <sp who="#burr">
+               <speaker>[BURR]</speaker>
+               <lg><l>How does a ragtag <objectName>volunteer army</objectName> in need of a <objectName>shower</objectName>
+                  Somehow defeat a global superpower?
+                  How do we emerge victorious from the quagmire?
+                  Leave the <placeName>battlefield</placeName> waving <persName>Betsy Ross’</persName> flag higher?
+                  Yo. Turns out we have a <objectName>secret weapon</objectName>!
+                  An <persName>immigrant</persName> you know and love who’s unafraid to step in!
+                  He’s constantly confusin’, confoundin’ the <persName>British henchmen</persName>
+                  Ev’ryone give it up for <persName>America’s favorite fighting Frenchman</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+               <lg><l><persName>Lafayette</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>I’m takin this <objectName>horse</objectName> by the reins makin’
+                  <persName>Redcoats</persName> redder with bloodstains</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+               <lg><l><persName>Lafayette</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>And I’m never gonna stop until I make ‘em
+                  Drop and burn ‘em up and scatter their remains, I’m</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+               <lg><l><persName>Lafayette</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>Watch me engagin’ em! Escapin’ em!
+                  Enragin’ em! I’m—</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+               <lg><l><persName>Lafayette</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>I go to <placeName>France</placeName> for more funds</l></lg>
+            </sp>
+            
+            <sp who="#ensemble">
+               <speaker>[COMPANY]</speaker>
+               <lg><l><persName>Lafayette</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>I come back with more</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE AND ENSEMBLE]</speaker>
+               <lg><l><objectName>Guns</objectName>
+                  And <objectName>ships</objectName>
+                  And so the balance shifts</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON]</speaker>
+               <lg><l>We rendezvous with Rochambeau, consolidate their gifts</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>We can end this <name type="event">war</name> at <placeName>Yorktown</placeName>, cut them off at <placeName>sea</placeName>, but
+                  For this to succeed, there is someone else we need:</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON]</speaker>
+               <lg><l>I know</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON AND COMPANY]</speaker>
+               <lg><l><persName>Hamilton</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l><persName>Sir</persName>, he knows what to do in a trench
+                  Ingenuitive and fluent in French, I mean—</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON AND COMPANY]</speaker>
+               <lg><l><persName>Hamilton</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l><persName>Sir</persName>, you’re gonna have to use him eventually
+                  What’s he gonna do on the <objectName>bench</objectName>? I mean—</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON AND COMPANY]</speaker>
+               <lg><l><persName>Hamilton</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE]</speaker>
+               <lg><l>No one has more resilience
+                  Or matches my practical tactical brilliance—</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON AND COMPANY]</speaker>
+               <lg><l><persName>Hamilton</persName>!</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE AND COMPANY]</speaker>
+               <lg><l>You wanna fight for your land back? (Hamilton!)</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON AND WOMEN]</speaker>
+               <lg><l>I need my right hand man back! (Hamilton!)</l></lg>
+            </sp>
+            
+            <sp who="#lafayette">
+               <speaker>[LAFAYETTE, WOMEN, MEN]</speaker>
+               <lg><l>Ah! Uh, get ya right hand man back
+                  Get your right hand man back!
+                  <persName>Hamilton</persName>!
+                  You know you gotta get ya right hand man back
+                  Your right hand man back!
+                  <persName>Hamilton,</persName>!
+                  I mean you gotta put some thought into the letter
+                  Ha—ha—Hamilton
+                  But the sooner the better to get your right hand man back!
+                  <persName>Hamilton</persName>, ha—ha—</l></lg>
+            </sp>
+            
+            <sp who="#washington">
+               <speaker>[WASHINGTON]</speaker>
+               <lg><l><persName>Alexander Hamilton</persName>
+                  Troops are waiting in the field for you
+                  If you join us right now, together we can turn the tide
+                  Oh, <persName>Alexander Hamilton</persName>
+                  I have soldiers that will yield for you
+                  If we manage to get this right
+                  They’ll surrender by early light
+                  The <placeName>world</placeName> will never be the same, <persName>Alexander</persName>…</l></lg>
+            </sp>
+         </div>
          <!-- 19. "History Has Its Eyes on You" -->
          <div type="song" n="19">
             <head>19. "History Has Its Eyes on You"</head>
@@ -2762,6 +3567,7 @@
             21. "Best of Wives and Best of Women"
             22. "The World Was Wide Enough"
             23. "Who Lives, Who Dies, Who Tells Your Story"-->
+      
       </body>
    </text>
 </TEI>
