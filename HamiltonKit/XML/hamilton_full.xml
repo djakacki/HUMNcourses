@@ -231,7 +231,7 @@
          <div type="songList" n="act1">
             <head> Act I </head>
             <list type="toc">
-               <item>1. "Alexander Hamilton"</item>
+               <item xml:id="act1song01">1. "Alexander Hamilton"</item>
                <item>2. "Aaron Burr, Sir"</item>
                <item>3. "My Shot"</item>
                <item>4. "The Story Of Tonight"</item>
@@ -285,7 +285,7 @@
             </list>
          </div>
          <!--1. "Alexander Hamilton" (Ryans)-->
-         <div type="song">
+         <div type="song" corresp="#act1song01">
             <head>"Alexander Hamilton"</head>
             <byline>Symone Ryans</byline>
             <sp who="#burr">
