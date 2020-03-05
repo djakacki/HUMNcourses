@@ -4086,7 +4086,105 @@
                </lg>
             </sp>
          </div>
-         <!--17. "That Would Be Enough" (Jakacki - to come)-->
+         <!--17. "That Would Be Enough" (Jakacki)-->
+         <div type="song">
+            <head>17. "That Would Be Enough"</head>
+            <byline>Diane Jakacki</byline>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <lg><l>Look around, look around at how lucky we are</l>
+                  <l>To be alive right now</l>
+                  <l>Look around, look around…</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>How long have you known?</l></lg></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <lg><l>A month or so</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Eliza, you should have told me</l></lg></sp>
+            
+            <sp> 
+               <speaker>[ELIZA]</speaker>
+               <lg><l>I wrote to the General a month ago</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>No</l></lg></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <lg><l>I begged him to send you home</l></lg></sp>
+            
+            <sp> 
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>You should have told me</l></lg></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <lg><l>I’m not sorry</l></lg></sp>
+            
+            <sp>
+               <speaker>[ELIZA &amp; HAMILTON]</speaker>
+               <lg><l>I knew you’d fight</l>
+                  <l>Until the war was won</l>
+                  <l>The war’s not done</l>
+                  <l>But you deserve a chance to meet your son</l>
+                  <l>Look around, look around at how lucky we are</l>
+                  <l>To be alive right now</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Will you relish being a poor man’s wife</l>
+                  <l>Unable to provide for your life?</l></lg></sp>
+            
+            <sp>
+               <speaker> [ELIZA]</speaker>
+               <lg><l>I relish being your wife</l>
+                  <l> Look around, look around…</l></lg>
+               
+               <lg>
+                  <l>Look at where you are</l>
+                  <l>Look at where you started</l>
+                  <l>The fact that you’re alive is a miracle</l>
+                  <l>Just stay alive, that would be enough</l></lg>
+               
+               <lg>
+                  <l>And if this child</l>
+                  <l>Shares a fraction of your smile</l>
+                  <l>Or a fragment of your mind, look out world!</l>
+                  <l>That would be enough</l></lg>
+               
+               <lg>
+                  <l>I don’t pretend to know</l>
+                  <l>The challenges you’re facing</l>
+                  <l>The worlds you keep erasing and creating in your mind</l></lg>
+               
+               <lg><l>But I’m not afraid</l>
+                  <l>I know who I married</l>
+                  <l>So long as you come home at the end of the day</l>
+                  <l>That would be enough</l></lg>
+               
+               <lg><l>We don’t need a legacy</l>
+                  <l>We don’t need money</l>
+                  <l>If I could grant you peace of mind</l>
+                  <l>If you could let me inside your heart…</l></lg>
+               
+               <lg>
+                  <l>Oh, let me be a part of the narrative</l>
+                  <l>In the story they will write someday</l>
+                  <l>Let this moment be the first chapter:</l>
+                  <l>Where you decide to stay</l>
+                  <l>And I could be enough</l>
+                  <l>And we could be enough</l>
+                  <l>That would be enough</l></lg>
+            </sp>
+         </div>         
          <!--18. "Guns and Ships" (Stoops)-->
          <div type="song">
             <head>18. "Guns and Ships"</head>
@@ -4679,7 +4777,42 @@
                </lg>
             </sp>
          </div>
-         <!--21. "What Comes Next" (Jakacki - to come) -->
+         <!--21. "What Comes Next" (Jakacki) -->
+         <div type="song">
+            <head>21. "What Comes Next?"</head>
+            <byline>Diane Jakacki</byline>
+            
+            <sp> 
+               <speaker> [King George]</speaker>
+               <lg><l>They say</l>
+                  <l>The price of my war’s not a price that they’re willing to pay</l>
+                  <l>Insane</l>
+                  <l>You cheat with the French, now I’m fighting with France and with Spain</l>
+                  <l>I’m so blue</l>
+                  <l>I thought that we’d made an arrangement</l>
+                  <l>When you went away</l>
+                  <l>You were mine to subdue</l>
+                  <l>Well, even despite our estrangement, I’ve got</l>
+                  <l>A small query for you:</l></lg>
+               
+               <lg><l>What comes next?</l>
+                  <l>You’ve been freed</l>
+                  <l>Do you know how hard it is to lead?</l></lg>
+               
+               <lg><l>You’re on your own</l>
+                  <l>Awesome. Wow</l>
+                  <l>Do you have a clue what happens now?</l></lg>
+               
+               <lg><l>Oceans rise</l>
+                  <l>Empires fall</l>
+                  <l>It’s much harder when it’s all your call</l></lg>
+               
+               <lg><l>All alone, across the sea</l>
+                  <l>When your people say they hate you</l>
+                  <l>Don’t come crawling back to me</l></lg>
+               
+               <lg><l>You’re on your own…</l></lg></sp>
+         </div>
          <!-- 22. "Dear Theodosia" (Orzell)-->
          <div type="song">
             <head>22. "Dear Theodosia"</head>
@@ -7826,7 +7959,157 @@
                <l>Hamilton’s a host unto himself. As long as he can hold a pen, he’s a threat. Let’s let him know what we know</l>
             </sp>
          </div>
-         <!--12. "We Know" (Jakacki - to come)-->
+         <!--12. "We Know" (Jakacki)-->
+         <div type="song">
+            <head>12. "We Know"</head>
+            <byline>Diane Jakacki</byline>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Mr. Vice President</l>
+                  <l>Mr. Madison</l>
+                  <l>Senator Burr</l>
+                  <l>What is this?</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON]</speaker>
+               <lg><l>We have the check stubs from separate accounts</l></lg></sp>
+            
+            <sp>
+               <speaker>[MADISON]</speaker>
+               <lg><l>Almost a thousand dollars, paid in different amounts</l></lg></sp>
+            
+            <sp>
+               <speaker>[BURR]</speaker>
+               <lg><l>To a Mr. James Reynolds way back in</l>
+                  <l>Seventeen ninety-one</l></lg></sp>
+            
+            <sp>
+               <speaker> [HAMILTON]</speaker>
+               <lg><l>Is that what you have? Are you done?</l></lg></sp>
+            
+            <sp>
+               <speaker>[MADISON]</speaker>
+               <lg><l>You are uniquely situated by virtue of your position</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON]</speaker>
+               <lg><l>Though virtue is not a word I’d apply to this situation</l></lg></sp>
+            
+            <sp>
+               <speaker>[MADISON]</speaker>
+               <lg><l>To seek financial gain, to stray from your sacred mission</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON]</speaker>
+               <lg><l>And the evidence suggests you’ve engaged in speculation</l></lg></sp>
+            
+            <sp>
+               <speaker>[BURR]</speaker>
+               <lg><l>An immigrant embezzling our government funds</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON/MADISON]</speaker>
+               <lg><l>I can almost see the headline, your career is done</l></lg></sp>
+            
+            <sp>
+               <speaker>[BURR]</speaker>
+               <lg><l>I hope you saved some money for your daughter and sons</l></lg></sp>
+            
+            <sp> 
+               <speaker>[BURR/JEFFERSON/MADISON]</speaker>
+               <lg><l>Ya best g'wan run back where ya come from</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Ha, you don’t even know what you’re asking me to confess</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON/MADISON/BURR]</speaker>
+               <lg><l>Confess</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>You have nothing, I don’t have to tell you anything at all</l>
+                  <l>Unless</l></lg></sp>
+            
+            <sp>
+               <speaker> [JEFFERSON/MADISON/BURR]</speaker>
+               <lg><l>Unless</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>If I can prove that I never broke the law</l>
+                  <l>Do you promise not to tell another soul what you saw?</l></lg></sp>
+            
+            <sp> 
+               <speaker>[BURR]</speaker>
+               <lg><l>No one else was in the room where it happened</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Is that a yes?</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON/MADISON/BURR]</speaker>
+               <lg><l>Um, yes</l></lg></sp>
+            
+            <sp>
+               <speaker>[BURR]</speaker>
+               <lg><l>“Dear Sir, I hope this letter finds you in good health</l>
+                  <l>And in a prosperous enough position to put wealth</l>
+                  <l>In the pockets of people like me, down on their luck</l>
+                  <l>You see, that was my wife who you decided to”</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON]</speaker>
+               <lg><l>Whaaaat</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>She courted me</l>
+                  <l>Escorted me to bed and when she had me in a corner</l>
+                  <l>That’s when Reynolds extorted me</l>
+                  <l>For a sordid fee</l>
+                  <l>I paid him quarterly</l>
+                  <l>I may have mortally wounded my prospects</l>
+                  <l>But my papers are orderly</l>
+                  <l>As you can see I kept a record of every check in my checkered history</l>
+                  <l>Check it again against your list and see consistency</l>
+                  <l>I never spent a cent th You sent the dogs after my scent, that’s fineat wasn’t mine</l>
+                  <l>You sent the dogs after my scent, that’s fine</l>
+                  <l>Yes, I have reasons for shame</l>
+                  <l>But I have not committed treason and sullied my good name</l>
+                  <l>As you can see I have done nothing to provoke legal action</l>
+                  <l>Are my answers to your satisfaction?</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON]</speaker>
+               <lg><l>My God</l></lg></sp>
+            
+            <sp>
+               <speaker>[MADISON]</speaker>
+               <lg><l>Gentlemen, let’s go</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>So?</l></lg></sp>
+            
+            <sp>
+               <speaker>[JEFFERSON AND MADISON]</speaker>
+               <lg><l>The people won't know what we know</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <lg><l>Burr</l>
+                  <l>How do I know you won’t use this against me</l>
+                  <l>The next time we go toe to toe?</l></lg></sp>
+            
+            <sp>
+               <speaker>[BURR]</speaker>
+               <lg><l>Alexander, rumors only grow</l>
+                  <l>And we both know what we know</l></lg></sp>
+         </div>
          <!--13. "Hurricane" (Donohue)-->
          <div type="song">
             <head>"Hurricane"</head>
@@ -8957,8 +9240,130 @@
                <l>Five six seven—</l>
             </sp>
          </div>
-         <!--17. "Stay Alive (Reprise)" (Jakacki - to come) -->
-         <!--18. "It's Quiet Uptown" (Lanciano?) -->
+         <!--17. "Stay Alive (Reprise)" (Jakacki) -->
+         <div type="song">
+            <head>17. "Stay Alive (Reprise)"</head>
+            <byline>Diane Jakacki</byline>
+            
+            <sp>
+               <speaker>[ENSEMBLE WOMEN, HAMILTON, &amp; DOCTOR]</speaker>
+               <lg><l>Stay alive…</l>
+                  <l>Stay alive… (Where’s my son?)</l>
+                  <l>Mr. Hamilton, come in. They brought him in a half an hour ago. He lost a lot of blood on the way over</l>
+                  <l>Stay alive...</l>
+                  <l>Is he alive?</l></lg></sp>
+            
+            <sp>
+               <speaker> [DOCTOR]</speaker>
+               <lg><l>Yes. But you have to understand</l>
+                  <l>The bullet entered just above his hip and</l>
+                  <l> Lodged in his right arm</l></lg></sp>
+            
+            <sp> 
+               <speaker>[HAMILTON]</speaker>
+               <l>Can I see him please?</l></sp>
+            
+            <sp>
+               <speaker> [DOCTOR]</speaker>
+               <lg><l>I’m doing ev’rything I can, but the wound was</l>
+                  <l>Already infected when he arrived—</l></lg></sp>
+            
+            <sp>
+               <speaker> [HAMILTON]</speaker>
+               <l>Philip</l></sp>
+            
+            <sp>
+               <speaker>[PHILIP]</speaker>
+               <lg> <l>Pa</l>
+                  <l>I did exactly as you said, Pa</l>
+                  <l>I held my head up high</l></lg></sp>
+            
+            <sp>
+               <speaker>[HAMILTON &amp; PHILIP]</speaker>
+               <lg><l>I know, I know. Shh</l>
+                  <l>I know, I know (High)</l>
+                  <l>Shh. I know you did</l>
+                  <l>Ev’rything just right</l>
+                  <l>Shh (Even before we got to ten—)</l>
+                  <l>I know, I know (I was aiming for the sky)</l>
+                  <l> I know, I know (I was aiming for the sky)</l>
+                  <l>I know</l>
+                  <l>Save your strength and</l>
+                  <l>Stay alive…</l></lg></sp>
+            
+            <sp>
+               <speaker>[ENSEMBLE MEN]</speaker>
+               <l>Stay alive...</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l>No!</l></sp>
+            
+            <sp>
+               <speaker>[HAMILTON]</speaker>
+               <l>Eliza</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA &amp; ENSEMBLE MEN]</speaker>
+               <l>Is he breathing? Is he going to survive this? (Stay alive...)</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l>Who did this, Alexander, did you know?</l></sp>
+            
+            <sp> 
+               <speaker>[PHILIP]</speaker>
+               <l>Mom, I’m so sorry for forgetting what you taught me</l></sp>
+            
+            <sp>
+               <speaker> [ELIZA]</speaker>
+               <l> My son—</l></sp>
+            
+            <sp>
+               <speaker>[PHILIP]</speaker>
+               <l>We played piano</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l> I taught you piano</l></sp>
+            
+            <sp>
+               <speaker>[PHILIP]</speaker>
+               <l>You would put your hands on mine</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l> You changed the melody every time</l></sp>
+            
+            <sp>
+               <speaker>[PHILIP]</speaker>
+               <l>Ha. I would always change the line</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l>Shh. I know, I know</l></sp>
+            
+            <sp>
+               <speaker>[PHILIP]</speaker>
+               <l>I would always change the line</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA]</speaker>
+               <l>I know, I know</l></sp>
+            
+            <sp>
+               <speaker>[ELIZA &amp; PHILIP]</speaker>
+               <lg><l>Un deux trois quatre (Un deux trois quatre)</l>
+                  <l>Cinq six sept huit neuf (Cinq six sept huit neuf)</l>
+                  <l>Good</l>
+                  <l>Un deux trois quatre</l>
+                  <l>Cinq six sept</l>
+                  <l> (Un deux trois…)</l>
+                  <l>Huit neuf</l>
+                  <l>Sept huit neuf—</l>
+                  <l>Sept huit…</l></lg></sp>
+         </div>
+         <!--18. "It's Quiet Uptown" (Lanciano - to come?) -->
          <!--19. "Election of 1800" (Orzell) -->
          <div type="song">
             <head>"The Election of 1800"</head>
