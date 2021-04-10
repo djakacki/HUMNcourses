@@ -195,7 +195,12 @@
         </a>
     </xsl:template>
     
-
+    <xsl:template match="tei:div/tei:corresp">
+        <a href="{@xml:id}">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+    
     
 </xsl:stylesheet>
 

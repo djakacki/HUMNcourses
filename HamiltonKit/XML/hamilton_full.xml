@@ -231,7 +231,7 @@
          <div type="songList" n="act1">
             <head> Act I </head>
             <list type="toc">
-               <item>1. "Alexander Hamilton"</item>
+               <item xml:id="act1song01">1. "Alexander Hamilton"</item>
                <item>2. "Aaron Burr, Sir"</item>
                <item>3. "My Shot"</item>
                <item>4. "The Story Of Tonight"</item>
@@ -285,7 +285,7 @@
             </list>
          </div>
          <!--1. "Alexander Hamilton" (Ryans)-->
-         <div type="song">
+         <div type="song" corresp="#act1song01">
             <head>"Alexander Hamilton"</head>
             <byline>Symone Ryans</byline>
             <sp who="#burr">
@@ -4434,7 +4434,7 @@
          </div>
          <!--20. "Yorktown (The World Turned Upside Down)" (Baber)-->
          <div type="song">
-            <head>"Yorktown (The World Turned Upside Down)"</head>
+            <head>"Yorktown (The World Turned Upside Down)"</head> <!--Link to Wikipedia page-->
             <byline>John Baber</byline>
             <sp who="#ensemble">
                <speaker>[COMPANY]</speaker>
@@ -5017,7 +5017,7 @@
             </sp>
             <sp>
                <speaker>[BURR]</speaker>
-               <l>Hamilton, at the Constitutional Convention:</l>
+               <l>Hamilton, at the Constitutional Convention:</l> <!--Link to Wikipedia-->
             </sp>
             <sp>
                <speaker>[HAMILTON]</speaker>
@@ -7535,7 +7535,7 @@
                </lg>
             </sp>
          </div>
-         <!-- 9. "One Last Time" (Torres) -->
+         <!-- 9. "One Last Time" (Torres) --> <!--Link to YouTube video of cast at White House-->
          <div type="song" n="9">
             <head>9. "One Last Time"</head>
             <byline>Guillermo Torres</byline>
