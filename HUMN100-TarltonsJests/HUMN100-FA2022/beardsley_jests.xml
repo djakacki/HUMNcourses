@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUR06">
+            <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+            <div type="old">
+               <head><title>How a Parsonage fell into Tarltons hands.</title></head>
+               <ab>HEr Maiesty dining in the Strand at the Lord Treasurers, the Lords were very
+                  desirous that she would vouchsafe to stay all night, but nothing could preuaile
+                  with her: Tarlton was in his Clownes apparell, being all dinner while in the
+                  presence with her, to make her merry, and hearing the sorrow that the Noblemen
+                  made that they could not worke her stay, he asked the Nobles what they would
+                  giue him to worke her stay: the Lords promised him any thing, to performe it:
+                  quoth hee, procure me the Parsonage of Shard. They caused the Patent to be
+                  drawne presently, he got on a Parsons gowne, and a corner cap, and standing
+                  vpon the staires where the Quéene should descend, he repeated these words: a
+                  Parson or no Parson? a Parson or no Parson? but after she knew his meaning, she
+                  not onely stayed all night, but the next day willed he should haue possession
+                  of the benefice: a madder Parson was neuer, for hee threatned to turne the
+                  Bel-mettel into lyning for his purse, which hee did, the Parsonage and all,
+                  into ready money.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR07">
+            <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton proued two Gentlewomen dishonest by their owne
+                  words.</title></head>
+               <ab>TArlton séeing in Gréenwitch two Gentlewomen in the Garden together, to moue
+                  myrth, comes to them, and enquires thus: Gentlewomen, which of you two is the
+                  honester? I, saies the one, I hope without exceptions: and I quoth the other,
+                  since we must speake for our selues: so then saies Tarlton, one of you by your
+                  owne words is dishonest, one being honester then the other, else you would
+                  answere otherwise: but as I found you, so I leaue you.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR08">
+            <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton answered a wanton Gentlewoman.</title></head>
+               <ab>A Gentlewoman merily disposed, being crost by Tarlton, &amp; halfe angry,
+                  said, sirra▪ a little thing would make me requite you with a cuffe: with a
+                  cuffe Lady, sayes Tarlton, so would you spel my sorrow forward, but spell my
+                  sorrow backward, then cuffe me and spare not: when the Gentlemen by, considered
+                  of the Word, their laughing made the simple-meaning Gentlewoman to blush for
+                  shame.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR09">
+            <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton dared a Lady.</title></head>
+               <ab>AT the dinner in the great Chamber where Tarlton iested, the Ladies were
+                  daring one another: quoth one I euer durst any thing that is honest and
+                  honourable: a French crowne of that, sayes Tarlton: ten pound of that sayes the
+                  Lady: done sayes one, done sayes another. Tarlton put a two-pence betwixt his
+                  lips, and dared her to take it away with her lips. Fye saies she, that is
+                  immodestie. What, tokisse saies Tarlton? then immodesty beares a great hand
+                  ouer all: but once in your life say, you haue béene beaten at your owne weapon.
+                  Well sir, saies she, you may say any thing. Then sayes Tarlton, remember I say
+                  you dare not, and so my wager is good.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

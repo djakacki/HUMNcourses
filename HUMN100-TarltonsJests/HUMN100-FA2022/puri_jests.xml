@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN08">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton escaped imprisonment.</title></head>
+               <ab>TArlton hauing béene dominéering very late one Night, with two of his friends,
+                  and comming homewards along Cheapside, the watch being then set: Master
+                  Constable asked, who goes there? thrée merry men, quoth Tarlton: that is not
+                  sufficient, what are you, quoth M. Constable? why saies Tarlton, one of vs is
+                  an eye-maker, and the other a light maker: what sayst thou knaue, doest mocke
+                  me? the one is an eye-maker, the other a light maker, which two properties
+                  belong vnto God onely: commit these blasphemers quoth the Constable: Nay, I
+                  pray you good M. Constable be good in your Office, I will approue what I haue
+                  sayd to be true. If thou canst, sayes the Constable, you shall passe, otherwise
+                  you shall be all thrée punished. Why quoth Tarlton, this fellow is an
+                  eye-maker, because a Spectacle maker, and this other a maker of light, because
+                  a Chandler, that makes your darkest night as light as your Lanthorne. The
+                  Constable séeing them so pleasant, was we'l contented, the rest of the Watchmen
+                  laughed, and Tarlton with his two companions went home quietly.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN09">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton deceiued a Countrey wench.</title></head>
+               <ab>THe Quéenes Plaiers trauelling into the West country to play, and lodging in a
+                  little village, some ten miles from Bristow, in which village dwelt a pretty
+                  nut-browne Lasse▪ to whom Tarlton made proffer of marriage, protesting that he
+                  came from London, purposely to marry her: the simple Maide being proud, to be
+                  beloued by such a one, whom she knew to be the Quéenes man, without more
+                  intreaty yéelded, &amp; being both at the Church together, and M. Parson ready
+                  to performe his dutie, and comming to the words of I Richard take thée Ioane:
+                  nay, stay good Master Parson, I will goe and call my fellowes, and come to you
+                  againe: so going out of the Church in haste, returned at leisure; for hauing
+                  his horse ready sadled, hee rode toward Bristow, and by the way told his
+                  fellowes▪ of his successe with his wench.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN10">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton went to kill Crowes.</title></head>
+               <ab>IT chanced vpon a time, as Tarlton went foorth with a birding péece into the
+                  fields to kill Crowes, hée espied a Daw sitting in a Trée, at which he meant to
+                  shoot; but at the same instant, there came one by, to whom he spake in this
+                  manner: Sir, quoth he, yonder I sée a Daw, which I will shoot at if shée sit:
+                  if shée sit, said the other, then she is a Daw indéed: but quoth Tarlton, if
+                  she sit not, what is she then? Marry quoth the other, a Daw also: at which
+                  words shée immediatly flew away: whereupon Tarlton spake merrily in a Rime, as
+                  followeth:</ab>
+               <lg>
+                  <l>Whether a Daw sit, or whether a Daw flie,</l>
+                  <l>Whether a Daw stand, or whether a Daw lie,</l>
+                  <l>Whether a daw creeke, or whether a Daw crie,</l>
+                  <l>In what case soeuer a Daw perseuer.</l>
+                  <l>A Daw is a Daw, and a Daw shall be euer.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

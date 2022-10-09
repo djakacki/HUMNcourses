@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY05">
+            <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton and one in the Gallerie fell out.</title></head>
+               <ab>IT chanced that in the midst of a Play, after long expectation for Tarlton,
+                  (being much desired of the people) at length he came forth: where at his
+                  entrance, one in the gallerie pointed his finger at him, saying to a friend
+                  that had neuer séene him, that is he: Tarlton to make sport at the least
+                  occasion giuen him, and séeing the man point with one finger, he in loue againe
+                  held vp two fingers: the captious fellow iealous of his wife (for he was
+                  maried) and because a Player did it, tooke the matter more hainously, and askt
+                  him why hee made Hornes at him: No quoth Tarlton, they be fingers:</ab>
+               <lg>
+                  <l>For there is no man which in loue to mee</l>
+                  <l>Lends me one finger, but he shall haue three.</l>
+               </lg>
+               <ab>No, no, sayes the fellow, you gaue me the hornes: true saies Tarlton, for my
+                  fingers are tipt with nailes which are like hornes, and I must make a shew of
+                  that which you are sure of: this matter grew so, that the more he medled, the
+                  more it was for his disgrace: wherefore the standers by counselled him to
+                  depart, both he and his hornes, lest his cause grew desperate: so the poore
+                  fellow plucking his Hat ouer his eyes, went his wayes.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY06">
+            <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+            <div type="old">
+               <head><title>How Fiddlers fidled away Tarltons apparell.</title></head>
+               <ab>IT chanced that one Fancie and Nancie, a Musition in London, vsed often with
+                  their Boyes to visite Tarlton, when he dwelt in Gracious-stréet, at the signe
+                  of the Saba, a Tauern▪ he being one of their best friends or benefactors, by
+                  reason of old acquaintance: to requite which, they came one summers morning to
+                  play him the Hunts' vp with such Musicke as they had: Tarlton, to requite them
+                  would open his Chamber doore, and for their paines would giue them Muskadine:
+                  which a Cony-catcher noting, and séeing Tarlton come foorth in his shirt and
+                  night-gowne to drinke with these Musitions, the while this nimble fellow stept
+                  in, and tooke Tarltons apparell which euery day he wore, thinking that if he
+                  were espied to turne it to a iest, but it past for currant and he goes his
+                  waies: Not long after Tarlton returned to his Chamber, and looked for his
+                  clothes, but they were safe enough from him. The next day this was noysed
+                  abroad, and one in the mockage threw him this Theam, he playing then at the
+                  Curtaine.</ab>
+               <lg>
+                  <l>Tarlton I will tell thee a iest,</l>
+                  <l>Which after turned to earnest:</l>
+                  <l>One there was as I heard say,</l>
+                  <l>Who in his shirt heard Musicke play,</l>
+                  <l>While all his clothes were stolne away.</l>
+               </lg>
+               <ab>Tarlton I will tell thee a iest, Which after turned to earnest: One there was
+                  as I heard say, Who in his shirt heard Musicke play, While all his clothes were
+                  stolne away.</ab>
+               <lg>
+                  <l>Tarlton I will tell thee a iest,</l>
+                  <l>Which after turned to earnest:</l>
+                  <l>One there was as I heard say,</l>
+                  <l>Who in his shirt heard Musicke play,</l>
+                  <l>While all his clothes were stolne away.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

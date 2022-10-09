@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY07">
+            <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+            <div type="old">
+               <head><title>Of Tarlton and a Begger.</title></head>
+               <ab>Tarlton I will tell thee a iest, Which after turned to earnest: One there was
+                  as I heard say, Who in his shirt heard Musicke play, While all his clothes were
+                  stolne away.</ab>
+               <lg>
+                  <l>Of all other Beggers most happy thou art,</l>
+                  <l>For to thee my hand is better then my heart.</l>
+               </lg>
+               <ab>Quoth the Begger.</ab>
+               <lg>
+                  <l>True it is Master, as it chanceth now,</l>
+                  <l>The better for me, and the worse for you.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY08">
+            <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton deceiued a Doctor of Phisicke.</title></head>
+               <ab>TArlton to satisfie the humors of certaine Gentlemen, his familiar
+                  acquaintance, went about for to try the skill of a simple Doctor of Phisicke,
+                  that dwelt not farre from I slington, and thus it was: hee tooke a faire
+                  Vrinall, and filled it halfe full of good wine, and bore it to this doctor,
+                  saying, it was a sicke mans water: who viewed it and tossing it vp and downe,
+                  as though he had great knowledge: quoth he, the patient whose water it is, is
+                  full of grosse humors, and hath néed of purging, and to be let some ten ounces
+                  of bloud. No you Dunce replyed Tarlton, it is good pisse, and with that drunke
+                  it off, and threw the Vrinall at his head.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY09">
+            <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton frighted a Country fellow.</title></head>
+               <ab>TArlton passing through London, by chance hee heard a simple Country fellow in
+                  an Ale-house, calling for a Kingstone pot of Ale, stept into him and threatned
+                  to accuse him of treason, saying: Sirra, I haue séene and tasted of a penny pot
+                  of Ale, and haue found good of the price, but of a Kingstone coine I neuer
+                  heard, therefore it is some counterfait, and I must know how thou camest by it:
+                  hereupon the Countrey fellow was driuen into such a maze, that out of doores he
+                  got, and tooke him to his héeles, as though wildfire had followed him.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY10">
+            <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton was deceiued by his wife in London.</title></head>
+               <ab>TArlton being merrily disposed, as his wife and he sate together, he said vnto
+                  her, Kate answere me to one question without a lye, and take this crowne of
+                  gold: which she tooke on condition, that if she lost, to restore it backe
+                  againe. Quoth Tarlton, am I a Cuckold or no Kate? Whereat she answered not a
+                  word, but stood silent: notwithstanding he vrged her many waies: Tarlton séeing
+                  she would not speak, askt his gold againe: why quoth she, haue I made any lye?
+                  no sayes Tarlton: why then goodman foole I haue won the wager: Tarlton mad with
+                  anger, made this Rime:</ab>
+               <lg>
+                  <l>As women in speech can reuile a man,</l>
+                  <l>So can they in silence beguile a man.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

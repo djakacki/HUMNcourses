@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN11">
+            <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+            <div type="old">
+               <head><title>How a poore Beggerman ouer-reached Tarlton by his wit.</title></head>
+               <ab>AS Tarlton vpon a day sate at his owne doore, to whom came a poore old man,
+                  &amp; begged a penny for the Lords sake, wherupon Tarlton hauing no single
+                  money about him, askt the begger what money he had, no more money master but
+                  one single penny. Tarlton being merrily disposed, called for this penny, and
+                  hauing receiued it, gaue it to his boy to fetch a pot of Ale, whereat▪ the
+                  Begger grew blancke, and began to gather vp his wits how to get it againe: the
+                  pot of Ale for the Beggers penny being brought, he proferred to drinke to the
+                  begger: nay stay awhile Master, quoth the begger, the vse is where I was borne,
+                  that he that paies for the drinke, must drinke first: thou saist well quoth
+                  Tarlton, goe to, Drinke to me then: Whereupon the Begger tooke the Pot, saying,
+                  here Master I drinke to you, (and therewithall dranke off euery droppe) now
+                  Maister, if you will pledge me, send for it as I haue done: Tarlton séeing
+                  himselfe so ouer-reacht, greatly commended the Beggers wit, and withall in
+                  recompence thereof, gaue him a Teastor: with that the Begger said, that he
+                  would most truely pray to God for him: no answered Tarlton, I pray thée pray
+                  for thy selfe, for I take no vsury for Almes déeds.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN12">
+            <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+            <div type="old">
+               <head><title>Of Tarltons pleasant answere to a Gallant, by the high-way
+                  side.</title></head>
+               <ab>IT was Tarltons occasion another time to ride into Suffolke, being furnished
+                  with a very leane large horse: and by the way a lustie gallant met him, and in
+                  mockage, asked him, what a yard of his horse was worth? marry sit, quoth
+                  Tarlton, I pray you alight and lift vp my horses taile, and they in that shop
+                  will tell you the price of a yard.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN13">
+            <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton would haue drowned his wife.</title></head>
+               <ab>VPon a time, Tarlton and his wife (as passengers) came sailing from
+                  Southampton towards London, a mightie storme arose, and endangered the Ship,
+                  whereupon the Captaine thereof, charged euery man to throw into the sea the
+                  heauiest thing he could best spare, to the end to lighten somewhat the Ship:
+                  Tarlton, that had his wife there, offered to throw her ouer-board, but the
+                  company rescued her, and being asked wherefore he meant so to do? he answered
+                  shée was the heauiest thing I haue, and I can best spare her.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN14">
+            <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton made his Will and Testament.</title></head>
+               <ab>OF late there was a Gentleman liuing in England, that wheresoeuer he dined,
+                  would of euery dish conuey a modicum thereof into his Gownesléeue: which
+                  Gentleman being vpon a time at dinner at a Gentlemans house in the Country,
+                  there he vsed his aforesaid quality, in the cōpany of M. Tarlton, who
+                  perceiuing it, said thus vnto the company: My masters, I am now determined
+                  before you all, to make my last Will and Testament: and first, I bequeath my
+                  soule to God my creator, and my body to be buried in the sléeue of yonder
+                  Gentlemans Gowne: and with that stepping to him, he turned vp the Gowne sléeue,
+                  whereout here dropt a bird, and there a bird, with choise of much other good
+                  chéere, hée still shaking it, saying, I meant this sléeue Gentleman, this
+                  sléeue I meant.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

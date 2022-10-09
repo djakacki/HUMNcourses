@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN06">
+            <byline resp="#PAPA1"><persName>Lucas Papaleo</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton made one of his company vtterly forsweare
+                  drunkennesse.</title></head>
+               <ab>AT Salisbury Tarlton &amp; his fellowes were to play before the Maior &amp;
+                  his brethren: but one of his company, a yong man was so drunke that he could
+                  not: whereat Tarlton as mad angry, as he was mad drunke, claps me on his legs a
+                  huge payre of boults: the fellow dead asléep felt nothing: when all was done,
+                  they conuaied him to the Iayle on a mans backe, and intreated the Iayler to doe
+                  God good seruice, and let him lie there till he waked. While they were about
+                  their sport the fellow waked, and finding himselfe in durance, and the Iayle
+                  hung round with bolts and shakels, he began to blesse himselfe, and thought
+                  sure in his drunkennes he had done some mischiefe: with that he called to know,
+                  but none came to him, then he thought verely his fault was capitall, and that
+                  hee was close prisoner: by and by comes the Kéeper, and moaned him, that one so
+                  yong should come to so shamefull a death as hanging: anone, another comes, and
+                  another with the like, which further put him in a puzzle: but at last comes
+                  Tarlton and others, intreating the Kéeper, yet if it might be, that they might
+                  sée their fellow ere they went, but hee very hardly was intreated, but at
+                  length the poore drunken Signior cal'd out for them: in they come. Oh Tom,
+                  sayes Tarlton, hard was thy hap in drunkennesse to murder this honest man, and
+                  our hard hap too, to haue it reported any of our company is hangd for it. O
+                  God, O God saies the fellow, is my fault so great? then commend me to all my
+                  friends. Well, short tale to make, the fellow forswore drunkennesse if he could
+                  escape, and by as cunning a wile to his thinking, they got him out of prison by
+                  an escape, and sent him to London before, who was not a litle glad he was gone:
+                  but sée how this Iest wrought, by little and little the fellow left his
+                  excessiue drinking, and in timealtered his desire of drunkennesse.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN07">
+            <byline resp="#PAPA1"><persName>Lucas Papaleo</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton saued his head from cutting off.</title></head>
+               <ab>TArlton vpon a time being in the Countrie, &amp; lodging in an homely Inne,
+                  during which time there was a gentleman dwelling in the same towne, somewhat
+                  frantick and distraught of his wits: which mad man on a suddaine rusht into
+                  Tarltons bed-chamber with his sword drawne, and finding him there in bed, would
+                  haue slain him: saying, villain, were it not valiantly done to strike off thy
+                  knaues head at one blowe? Tarlton answered, tut sir, thats nothing with your
+                  worship to do, you can as easily strike off two heads at one blow as one:
+                  wherefore, if you please▪ Ile go downe and call vp another, and so you may
+                  strike off both our heads at once: the mad-man beleeued him, and so let him
+                  slip away.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
