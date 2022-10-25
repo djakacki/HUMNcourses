@@ -709,21 +709,21 @@
             <div type="jest" xml:id="CITY16"> <!-- don't have Viveka's file -->
                <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
                <div type="old">
-                  <head><title>How Tarlton bid himselfe to dinner to my Lord Mayors.</title></head>
-                  <ab>A Iest came in Tarltons head where to dine, and thought he, in all that a man
-                     does, let him ayme at the fairest, for sure if. I bid my selfe any where this
-                     day, it shall be to my Lord Maiors: and vpon this, goes to the Counter and
-                     entred his action against my Lord Maior, who was presently told of it, and
-                     sends for him. Tarlton waits dinner time, and then comes, who was admitted
-                     presently. Master Tarlton, sayes my Lord Maior, haue you entred an action
-                     against me in the Poultry Counter? My Lord, sayes Tarlton, haue you entred an
-                     action against me in Woodstréet Counter? Not I in troth, saies my Lord. No
-                     saies Tarlton, he was a villaine that told me so then: but if it be not so,
+                  <head><title>How <persName type = "man">Tarlton</persName> <state type = "bid"><desc>bid himselfe</desc></state>to dinner to my <persName type = "Lord">Lord Mayors</persName>.</title></head>
+                  <ab>A Iest came in <persName type = "man">Tarlton</persName> head where <state type = "dine"><desc>to dine</desc></state>, and thought he, in all that a man
+                     does, let him ayme at the fairest, for sure if. I <state type = "bid"><desc>bid my selfe</desc></state>bany where this
+                     day, it shall be to my Lord <persName type = "Lord">Lord Maiors</persName>: and vpon this, goes to the <placeName type = "Counter">Counter</placeName>and
+                     entred his action against my <persName type = "Lord">Lord Maior</persName>, who was presently told of it, and
+                     sends for him. <persName type = "man">Tarlton</persName> <state type = "waits"><desc>waits dinner time</desc></state>, and then comes, who was admitted
+                     presently. <persName type = "man"> Master Tarlton</persName>, sayes my <persName type = "Lord">Lord Maior</persName>, haue you entred an action
+                     against me in the <placeName type = "Poultry\Counter">Poultry Counter</placeName>? My Lord, sayes <persName type = "man">Tarlton</persName>, haue you entred an
+                     action against me in <placeName type = "Woodstréet\Counter"> Woodstréet Counter</placeName>? Not I in troth, saies my Lord. No
+                     saies <persName type = "man">Tarlton</persName>, he was a <trait type = "villan"><desc>villaine</desc></trait>that told me so then: but if it be not so,
                      forgiue me this fault my Lord, and I will neuer offend in the next: but in the
-                     end he begins to sweare, how he will bee reuenged on him that mockt him, and
-                     flings out in a rage, But my Lord sayd, stay M. Tarlton, dine with me, and no
-                     doubt but after dinner you will be better minded. I will try that my Lord,
-                     saies Tarlton, and if it alter mine anger, both mine enemie &amp; I will thanke
+                     end he begins to sweare, how he will <state type = "revenged"><desc>bee reunged on</desc></state>him that mockt him, and
+                     <state type = "rage"><desc>flings out in a rage</desc></state>, But my Lord sayd, stay <persName type = "man"> M. Tarlton</persName>, <state type = "dine"><desc>dine with me</desc></state>and no
+                     doubt but after dinner you will be <state type = "bettter\minded"><desc>better minded</desc></state>. I will try that my Lord,
+                     saies <persName type = "man">Tarlton</persName>, and if it alter mine <state type = "anger"><desc>anger</desc></state>, both mine enemie &amp; I will thanke
                      you together for this curtesie.</ab>
                </div>
             </div>
@@ -731,13 +731,13 @@
             <div type="jest" xml:id="CITY17"> <!-- don't have Viveka's file -->
                <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
                <div type="old">
-                  <head><title>Tarltons Iest of a box on the eare.</title></head>
-                  <ab>ONe that fell out with his friend, méets him in the stréet, and calling him
-                     into a corner, gaue him a boxe on the eare, and feld him, getting him gone, and
-                     neuer told wherefore he did so: which Tarlton beholding, raised vp the fellow,
+                  <head><title><persName type = "man">Tarlton</persName> Iest of a <objectName type = "box">box</objectName>on the eare.</title></head>
+                  <ab>ONe that fell out with his <persName type = "friend">friend</persName>, méets him in the <placeName type = "street">stréet</placeName>, and calling him
+                     into <placeName type = "corner">a corner</placeName>, gaue him a <objectName type = "box">boxe</objectName> on the eare, and feld him, getting him gone, and
+                     neuer told wherefore he did so: which <persName type = "man">Tarlton</persName> beholding, raised vp <persName type = "fellow">the fellow</persName>,
                      and askt him the reason of their suddaine falling out? can you tell Sir said
-                     the fellow, for by my troth as yet I cannot? Well said Tarlton, the more foole
-                     you, for had I such féeling of the cause, my wit would remember the iniurie,
+                     the fellow, for by my troth as yet I cannot? Well said <persName type = "man">Tarlton</persName>, the more <trait type = "foole"><desc>foole</desc></trait>
+                     you, for had I such féeling of the cause, <trait type = "wit"><desc>my wit</desc></trait> would remember the iniurie,
                      but many men are goslings, the more they féele the lesse they conceiue.</ab>
                </div>
             </div>
@@ -745,15 +745,15 @@
             <div type="jest" xml:id="CITY18"> <!-- don't have Viveka's file -->
                <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
                <div type="old">
-                  <head><title>Tarltons Iest to two Taylors.</title></head>
-                  <ab>TArlton méeting two Tailors (friends of his) in the euening, in mirth cryes,
-                     who goes there? A man answered a Taylor: How many is there? one: Yea said
-                     Tarlton, two said the other Taylor: then you say true, said Tarlton: for two
-                     Taylors goes to a man. But before they parted, they foxt Tarlton, at the Castle
-                     in Paternoster Row, that Tarlton confest them two Taylors to be honest men: so
-                     what they spent in the purse they got in the person: comming but one by
-                     Tarltons account, they returned two: but Tarlton comming one, returned lesse by
-                     his wit, for that was shrunk in the whetting.</ab>
+                  <head><title><persName type = "man">Tarlton</persName>Iest to two <persName type = "friends">Taylors</persName>.</title></head>
+                  <ab><persName type = "man">Tarlton</persName> méeting two <persName type = "friends">Tailors</persName>(friends of his) in the euening, in mirth cryes,
+                     who goes there? A man answered a <persName type = "friends">Taylor</persName>: How many is there? one: Yea said
+                     <persName type = "man">Tarlton</persName>, two said the other <persName type = "man">Taylor</persName>: then you say true, said <persName type = "man">Tarlton</persName>: for two
+                     <persName type = "man">Taylors</persName>goes to a man. But before they parted, they foxt <persName type = "man">Tarlton</persName>, at the <placeName type = "Castle">Castle</placeName>
+                     in <placeName type = "Pasternoster\Row">Paternoster Row</placeName>, that <persName type = "man">Tarlton</persName> confest them two <persName type = "friends">Taylors</persName>to be honest men: so
+                     what they spent in the <objectName type = "purse">purse</objectName>they got in the person: comming but one by
+                     <persName type = "man">Tarltons</persName> account, they returned two: but <persName type = "man">Tarlton</persName> comming one, returned lesse by
+                     his<trait type = "wit"><desc>wit</desc></trait> , for that was shrunk in the whetting.</ab>
                </div>
             </div>
             
@@ -1112,42 +1112,42 @@
                </div>
             </div>
             
-            <div type="jest" xml:id="COUN08"><!-- don't have Livy's file -->
+            <div type="jest" xml:id="COUN08">
                <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
                <div type="old">
                   <head><title>How Tarlton escaped imprisonment.</title></head>
-                  <ab>TArlton hauing béene dominéering very late one Night, with two of his friends,
-                     and comming homewards along Cheapside, the watch being then set: Master
-                     Constable asked, who goes there? thrée merry men, quoth Tarlton: that is not
-                     sufficient, what are you, quoth M. Constable? why saies Tarlton, one of vs is
-                     an eye-maker, and the other a light maker: what sayst thou knaue, doest mocke
-                     me? the one is an eye-maker, the other a light maker, which two properties
-                     belong vnto God onely: commit these blasphemers quoth the Constable: Nay, I
-                     pray you good M. Constable be good in your Office, I will approue what I haue
-                     sayd to be true. If thou canst, sayes the Constable, you shall passe, otherwise
-                     you shall be all thrée punished. Why quoth Tarlton, this fellow is an
-                     eye-maker, because a Spectacle maker, and this other a maker of light, because
-                     a Chandler, that makes your darkest night as light as your Lanthorne. The
-                     Constable séeing them so pleasant, was we'l contented, the rest of the Watchmen
-                     laughed, and Tarlton with his two companions went home quietly.</ab>
+                  <ab><persName>TArlton</persName> hauing béene dominéering very late one Night, with two of his <orgName>friends,</orgName>
+                     and <state type="emplacement"><desc>comming homewards</desc></state> along <placeName>Cheapside,</placeName> the watch being then set: Master
+                     <persName>Constable </persName>asked, who goes there? <orgName>thrée merry men</orgName>, quoth <persName>Tarlton</persName>: that is not
+                     sufficient, what are you, quoth <persName>M. Constable</persName>? why saies <persName>Tarlton</persName>, one of vs is
+                     an <trait><desc>eye-maker</desc></trait>, and the other a <trait><desc>light maker</desc></trait>: what sayst thou knaue, doest mocke
+                     me? the one is an <trait><desc>eye-maker</desc></trait>, the other a <trait><desc>light maker</desc></trait>, which two properties
+                     belong vnto God onely: commit these blasphemers quoth the <persName>Constable:</persName> Nay, I
+                     pray you good <persName>M. Constable</persName> be good in your <orgName>Office,</orgName> I will approue what I haue
+                     sayd to be true. If thou canst, sayes the<persName> Constable</persName>, you shall passe, otherwise
+                     you shall be all thrée punished. Why quoth <persName>Tarlton,</persName> this fellow is an
+                     <trait><desc>eye-maker</desc></trait>, because a <trait><desc>Spectacle maker</desc></trait>, and this other a maker of light, because
+                     a <objectName>Chandler</objectName>, that makes your darkest night as light as your <persName>Lanthorne</persName>. The
+                     <persName> Constable</persName> séeing them so <state><desc>pleasant</desc></state>, was we'l <state><desc>contented</desc></state>, the rest of the <orgName>Watchmen</orgName>
+                     laughed, and <persName>Tarlton </persName>with his two <orgName>companions</orgName> went home <state><desc>quietly</desc></state>.</ab>
                </div>
             </div>
             
-            <div type="jest" xml:id="COUN09"><!-- don't have Livy's file -->
+            <div type="jest" xml:id="COUN09">
                <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
                <div type="old">
                   <head><title>How Tarlton deceiued a Countrey wench.</title></head>
-                  <ab>THe Quéenes Plaiers trauelling into the West country to play, and lodging in a
-                     little village, some ten miles from Bristow, in which village dwelt a pretty
-                     nut-browne Lasse▪ to whom Tarlton made proffer of marriage, protesting that he
-                     came from London, purposely to marry her: the simple Maide being proud, to be
-                     beloued by such a one, whom she knew to be the Quéenes man, without more
-                     intreaty yéelded, &amp; being both at the Church together, and M. Parson ready
-                     to performe his dutie, and comming to the words of I Richard take thée Ioane:
-                     nay, stay good Master Parson, I will goe and call my fellowes, and come to you
-                     againe: so going out of the Church in haste, returned at leisure; for hauing
-                     his horse ready sadled, hee rode toward Bristow, and by the way told his
-                     fellowes▪ of his successe with his wench.</ab>
+                  <ab>THe <orgName>Quéenes Plaiers</orgName> <state type="emplacement"><desc>trauelling</desc></state> into the <placeName>West country</placeName> to play, and <state type="emplacement"><desc>lodging </desc></state>in a
+                     <placeName>little village,</placeName> some ten miles from <placeName>Bristow,</placeName> in which <placeName>village</placeName> dwelt a <trait><desc>pretty
+                        nut-browne</desc></trait> <persName>Lasse▪</persName> to whom <persName>Tarlton</persName> made proffer of marriage, protesting that he
+                     came from <placeName>London,</placeName> purposely to marry her: the <trait><desc>simple</desc></trait> <persName>Maide</persName> being <state><desc>proud,</desc></state> to be
+                     beloued by such a one, whom she knew to be the <persName>Quéenes man,</persName> without more
+                     intreaty yéelded, &amp; being both at the <placeName>Church</placeName> together, and <persName>M. Parson</persName> ready
+                     to performe his dutie, and comming to the words of <persName>I Richard</persName> take thée <persName>Ioane</persName>:
+                     nay, stay good<persName> Master Parson</persName>, I will goe and call my <orgName>fellowes</orgName>, and come to you
+                     againe: so going out of the <placeName>Church</placeName> in haste, returned at leisure; for hauing
+                     his <objectName type="animal">horse</objectName> ready sadled, hee rode toward <placeName>Bristow,</placeName> and by the way told his
+                     <orgName>fellowes▪</orgName> of his successe with his <persName>wench.</persName></ab>
                </div>
             </div>
             
@@ -1155,20 +1155,20 @@
                <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
                <div type="old">
                   <head><title>How Tarlton went to kill Crowes.</title></head>
-                  <ab>IT chanced vpon a time, as Tarlton went foorth with a birding péece into the
-                     fields to kill Crowes, hée espied a Daw sitting in a Trée, at which he meant to
+                  <ab>IT chanced vpon a time, as <persName>Tarlton</persName> went foorth with a birding péece into the
+                     <placeName>fields</placeName> to kill <objectName type="animal">Crowes</objectName>, hée espied a <objectName type="animal">Daw</objectName> sitting in a <objectName>Trée,</objectName> at which he meant to
                      shoot; but at the same instant, there came one by, to whom he spake in this
-                     manner: Sir, quoth he, yonder I sée a Daw, which I will shoot at if shée sit:
-                     if shée sit, said the other, then she is a Daw indéed: but quoth Tarlton, if
-                     she sit not, what is she then? Marry quoth the other, a Daw also: at which
-                     words shée immediatly flew away: whereupon Tarlton spake merrily in a Rime, as
+                     manner: Sir, quoth he, yonder I sée a <objectName type="animal">Daw</objectName>, which I will shoot at if shée sit:
+                     if shée sit, said the other, then she is a <objectName type="animal">Daw</objectName> indéed: but quoth <persName>Tarlton</persName>, if
+                     she sit not, what is she then? Marry quoth the other, a <objectName type="animal">Daw</objectName> also: at which
+                     words shée immediatly flew away: whereupon <persName>Tarlton</persName> spake merrily in a Rime, as
                      followeth:</ab>
                   <lg>
-                     <l>Whether a Daw sit, or whether a Daw flie,</l>
-                     <l>Whether a Daw stand, or whether a Daw lie,</l>
-                     <l>Whether a daw creeke, or whether a Daw crie,</l>
-                     <l>In what case soeuer a Daw perseuer.</l>
-                     <l>A Daw is a Daw, and a Daw shall be euer.</l>
+                     <l>Whether a <objectName type="animal">Daw</objectName> sit, or whether a <objectName type="animal">Daw</objectName> flie,</l>
+                     <l>Whether a <objectName type="animal">Daw</objectName> stand, or whether a <objectName type="animal">Daw</objectName> lie,</l>
+                     <l>Whether a <objectName type="animal">daw</objectName> creeke, or whether a <objectName type="animal">Daw</objectName> crie,</l>
+                     <l>In what case soeuer a <objectName type="animal">Daw </objectName>perseuer.</l>
+                     <l>A <objectName type="animal">Daw</objectName> is a <objectName type="animal">Daw,</objectName> and a <objectName type="animal">Daw</objectName> shall be euer.</l>
                   </lg>
                </div>
             </div>
