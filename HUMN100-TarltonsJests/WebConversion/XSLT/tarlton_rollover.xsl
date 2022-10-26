@@ -31,30 +31,32 @@
                     @import url("../CSS/tarlton_style.css");
                 </style>
             </head>
-
+            
             <body>
                 
                 
-                <xsl:apply-templates select="tei:text/tei:front"/>
-                <hr />
                 <xsl:apply-templates select="tei:text/tei:body"/>
-                <hr />
-                <xsl:apply-templates select="tei:text/tei:back"/>
-                <xsl:apply-templates select="tei:text//*/tei:note" mode="endNotes"/>
-                <div>
-                    <br />
-                    <br />
-                    <br />
-                </div>
             </body>
         </html>
     </xsl:template>
     
     
-    <xsl:template match="tei:head">
+<!--    <xsl:template match="tei:head">
         <h1 xmlns="http://www.w3.org/1999/xhtml">
             <xsl:apply-templates/>
         </h1>
+    </xsl:template>-->
+
+    <xsl:template match="tei:div[@type='section']/tei:head/tei:title">
+        <h1>
+            <xsl:apply-templates/>
+        </h1>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type='old']/tei:head/tei:title">
+        <h3 align="left">
+            <xsl:apply-templates/>
+        </h3>
     </xsl:template>
     
     <xsl:template match="tei:byline">
@@ -74,29 +76,13 @@
         <br xmlns="http://www.w3.org/1999/xhtml"/>
     </xsl:template>
     
-    <xsl:template match="tei:opener">
-        <h3 xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:apply-templates/>
-        </h3>
-    </xsl:template>
-    
-    <xsl:template match="tei:sp">
-            <xsl:apply-templates/> 
-        <br/>
-    </xsl:template>
-    
-    <xsl:template match="tei:speaker">
-       <h4>
-           <xsl:apply-templates/>
-       </h4>
-    </xsl:template>
     
     <xsl:template match="tei:l">
         <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-
+    
     
     <xsl:template match="tei:p">
         <p xmlns="http://www.w3.org/1999/xhtml">
@@ -119,85 +105,20 @@
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
-
     
-    <xsl:template match="tei:persName">
-        <font color="blue">
+    <xsl:template match="tei:persName[@type] | tei:placeName[@type] | tei:orgName[@type] | tei:objectName[@type] | tei:stait[@type] | tei:trait[@type]">
+        <span class="hovertext" data-hover="{@type}">
             <xsl:apply-templates/>
-        </font>
-    </xsl:template>    
-    
-    <xsl:template match="tei:placeName">
-        <font color="green">
-            <xsl:apply-templates/>
-        </font>
+        </span>
     </xsl:template>
     
-    <xsl:template match="tei:orgName">
-        <font color="yellow">
-            <xsl:apply-templates/>
-        </font>
-    </xsl:template>
     
-    <xsl:template match="tei:objectName">
+<!--    <xsl:template match="tei:name[@type='event']">
         <font color="orange">
             <xsl:apply-templates/>
         </font>
-    </xsl:template>
-    
-    <xsl:template match="tei:trait">
-        <font color="pink">
-            <xsl:apply-templates/>
-        </font>
-    </xsl:template>
-    
-    <xs:template match="tei:state">
-        <font color="purple">
-            <xsl:apply-templates/>
-        </font>
-    </xs:template>
-    
-    <xsl:template match="tei:name[@type='event']">
-        <font color="orange">
-            <xsl:apply-templates/>
-        </font>
-    </xsl:template>
-    
-    <!-- Styles TOC 
-    
-    <xsl:template match="tei:div/tei:head/tei:list[@type='toc']">
-        <hr/>
-        <h2>
-            <xsl:apply-templates/>
-        </h2>
     </xsl:template>-->
     
-    <xsl:template match="tei:div/tei:head/tei:list[@type='toc']">
-        <ol>
-            <xsl:apply-templates/>
-        </ol>
-    </xsl:template>
-    
-    <xsl:template match="tei:div/tei:list[@type='toc']/tei:item">
-        <li>
-            <xsl:apply-templates/>
-        </li>        
-    </xsl:template>
-
-    
-    <!--
-    <xsl:template match="tei:anchor">
-        <a>
-            <xsl:attribute name="name"><xsl:value-of select="@xml:id"/>
-            </xsl:attribute>
-        </a>
-    </xsl:template>
- -->
-    <xsl:template match="tei:anchor">
-        <a xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
-        </a>
-    </xsl:template>
     
     <xsl:template match="tei:ref">
         <a>
