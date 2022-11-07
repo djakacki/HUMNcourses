@@ -372,8 +372,8 @@ By darkening my clear sun. My lord, farewell.
 Exeunt
 
 SCENE II. The same. The council-chamber.
-Cornets. Enter KING HENRY VIII, leaning on CARDINAL WOLSEY's shoulder, the Nobles, and LOVELL; CARDINAL WOLSEY places himself under KING HENRY VIII's feet on his right side
-KING HENRY VIII
+Cornets. Enter KH8, leaning on CARDINAL WOLSEY's shoulder, the Nobles, and LOVELL; CARDINAL WOLSEY places himself under KH8's feet on his right side
+KH8
 My life itself, and the best heart of it,
 Thanks you for this great care: I stood i' the level
 Of a full-charged confederacy, and give thanks
@@ -382,24 +382,24 @@ That gentleman of Buckingham's; in person
 I'll hear him his confessions justify;
 And point by point the treasons of his master
 He shall again relate.
-A noise within, crying 'Room for the Queen!' Enter QUEEN KATHARINE, ushered by NORFOLK, and SUFFOLK: she kneels. KING HENRY VIII riseth from his state, takes her up, kisses and placeth her by him
+A noise within, crying 'Room for the Queen!' Enter QK, ushered by NORFOLK, and SUFFOLK: she kneels. KH8 riseth from his state, takes her up, kisses and placeth her by him
 
-QUEEN KATHARINE
+QK
 Nay, we must longer kneel: I am a suitor.
-KING HENRY VIII
+KH8
 Arise, and take place by us: half your suit
 Never name to us; you have half our power:
 The other moiety, ere you ask, is given;
 Repeat your will and take it.
-QUEEN KATHARINE
+QK
 Thank your majesty.
 That you would love yourself, and in that love
 Not unconsider'd leave your honour, nor
 The dignity of your office, is the point
 Of my petition.
-KING HENRY VIII
+KH8
 Lady mine, proceed.
-QUEEN KATHARINE
+QK
 I am solicited, not by a few,
 And those of true condition, that your subjects
 Are in great grievance: there have been commissions
@@ -423,7 +423,7 @@ Unfit for other life, compell'd by hunger
 And lack of other means, in desperate manner
 Daring the event to the teeth, are all in uproar,
 And danger serves among then!
-KING HENRY VIII
+KH8
 Taxation!
 Wherein? and what taxation? My lord cardinal,
 You that are blamed for it alike with us,
@@ -433,7 +433,7 @@ Please you, sir,
 I know but of a single part, in aught
 Pertains to the state; and front but in that file
 Where others tell steps with me.
-QUEEN KATHARINE
+QK
 No, my lord,
 You know no more than others; but you frame
 Things that are known alike; which are not wholesome
@@ -444,11 +444,11 @@ Most pestilent to the bearing; and, to bear 'em,
 The back is sacrifice to the load. They say
 They are devised by you; or else you suffer
 Too hard an exclamation.
-KING HENRY VIII
+KH8
 Still exaction!
 The nature of it? in what kind, let's know,
 Is this exaction?
-QUEEN KATHARINE
+QK
 I am much too venturous
 In tempting of your patience; but am bolden'd
 Under your promised pardon. The subjects' grief
@@ -463,7 +463,7 @@ This tractable obedience is a slave
 To each incensed will. I would your highness
 Would give it quick consideration, for
 There is no primer business.
-KING HENRY VIII
+KH8
 By my life,
 This is against our pleasure.
 CARDINAL WOLSEY
@@ -488,7 +488,7 @@ For our best act. If we shall stand still,
 In fear our motion will be mock'd or carp'd at,
 We should take root here where we sit, or sit
 State-statues only.
-KING HENRY VIII
+KH8
 Things done well,
 And with a care, exempt themselves from fear;
 Things done without example, in their issue
@@ -518,10 +518,10 @@ Exit Secretary
 
 Enter Surveyor
 
-QUEEN KATHARINE
+QK
 I am sorry that the Duke of Buckingham
 Is run in your displeasure.
-KING HENRY VIII
+KH8
 It grieves many:
 The gentleman is learn'd, and a most rare speaker;
 To nature none more bound; his training such,
@@ -545,7 +545,7 @@ CARDINAL WOLSEY
 Stand forth, and with bold spirit relate what you,
 Most like a careful subject, have collected
 Out of the Duke of Buckingham.
-KING HENRY VIII
+KH8
 Speak freely.
 Surveyor
 First, it was usual with him, every day
@@ -561,10 +561,10 @@ This dangerous conception in this point.
 Not friended by by his wish, to your high person
 His will is most malignant; and it stretches
 Beyond you, to your friends.
-QUEEN KATHARINE
+QK
 My learn'd lord cardinal,
 Deliver all with charity.
-KING HENRY VIII
+KH8
 Speak on:
 How grounded he his title to the crown,
 Upon our fail? to this point hast thou heard him
@@ -572,13 +572,13 @@ At any time speak aught?
 Surveyor
 He was brought to this
 By a vain prophecy of Nicholas Hopkins.
-KING HENRY VIII
+KH8
 What was that Hopkins?
 Surveyor
 Sir, a Chartreux friar,
 His confessor, who fed him every minute
 With words of sovereignty.
-KING HENRY VIII
+KH8
 How know'st thou this?
 Surveyor
 Not long before your highness sped to France,
@@ -602,14 +602,14 @@ This pausingly ensued: neither the king nor's heirs,
 Tell you the duke, shall prosper: bid him strive
 To gain the love o' the commonalty: the duke
 Shall govern England.'
-QUEEN KATHARINE
+QK
 If I know you well,
 You were the duke's surveyor, and lost your office
 On the complaint o' the tenants: take good heed
 You charge not in your spleen a noble person
 And spoil your nobler soul: I say, take heed;
 Yes, heartily beseech you.
-KING HENRY VIII
+KH8
 Let him on.
 Go forward.
 Surveyor
@@ -623,18 +623,18 @@ It can do me no damage;' adding further,
 That, had the king in his last sickness fail'd,
 The cardinal's and Sir Thomas Lovell's heads
 Should have gone off.
-KING HENRY VIII
+KH8
 Ha! what, so rank? Ah ha!
 There's mischief in this man: canst thou say further?
 Surveyor
 I can, my liege.
-KING HENRY VIII
+KH8
 Proceed.
 Surveyor
 Being at Greenwich,
 After your highness had reproved the duke
 About Sir William Blomer,--
-KING HENRY VIII
+KH8
 I remember
 Of such a time: being my sworn servant,
 The duke retain'd him his. But on; what hence?
@@ -646,14 +646,14 @@ The usurper Richard; who, being at Salisbury,
 Made suit to come in's presence; which if granted,
 As he made semblance of his duty, would
 Have put his knife to him.'
-KING HENRY VIII
+KH8
 A giant traitor!
 CARDINAL WOLSEY
 Now, madam, may his highness live in freedom,
 and this man out of prison?
-QUEEN KATHARINE
+QK
 God mend all!
-KING HENRY VIII
+KH8
 There's something more would out of thee; what say'st?
 Surveyor
 After 'the duke his father,' with 'the knife,'
@@ -663,7 +663,7 @@ He did discharge a horrible oath; whose tenor
 Was,--were he evil used, he would outgo
 His father by as much as a performance
 Does an irresolute purpose.
-KING HENRY VIII
+KH8
 There's his period,
 To sheathe his knife in us. He is attach'd;
 Call him to present trial: if he may
@@ -910,7 +910,7 @@ Exit Chamberlain, attended. All rise, and tables removed
 You have now a broken banquet; but we'll mend it.
 A good digestion to you all: and once more
 I shower a welcome on ye; welcome all.
-Hautboys. Enter KING HENRY VIII and others, as masquers, habited like shepherds, ushered by the Chamberlain. They pass directly before CARDINAL WOLSEY, and gracefully salute him
+Hautboys. Enter KH8 and others, as masquers, habited like shepherds, ushered by the Chamberlain. They pass directly before CARDINAL WOLSEY, and gracefully salute him
 
 A noble company! what are their pleasures?
 Chamberlain
@@ -926,9 +926,9 @@ CARDINAL WOLSEY
 Say, lord chamberlain,
 They have done my poor house grace; for which I pay 'em
 A thousand thanks, and pray 'em take their pleasures.
-They choose Ladies for the dance. KING HENRY VIII chooses ANNE
+They choose Ladies for the dance. KH8 chooses ANNE
 
-KING HENRY VIII
+KH8
 The fairest hand I ever touch'd! O beauty,
 Till now I never knew thee!
 Music. Dance
@@ -957,7 +957,7 @@ CARDINAL WOLSEY
 Let me see, then.
 By all your good leaves, gentlemen; here I'll make
 My royal choice.
-KING HENRY VIII
+KH8
 Ye have found him, cardinal:
 Unmasking
 
@@ -967,13 +967,13 @@ I should judge now unhappily.
 CARDINAL WOLSEY
 I am glad
 Your grace is grown so pleasant.
-KING HENRY VIII
+KH8
 My lord chamberlain,
 Prithee, come hither: what fair lady's that?
 Chamberlain
 An't please your grace, Sir Thomas Bullen's daughter--
 The Viscount Rochford,--one of her highness' women.
-KING HENRY VIII
+KH8
 By heaven, she is a dainty one. Sweetheart,
 I were unmannerly, to take you out,
 And not to kiss you. A health, gentlemen!
@@ -986,12 +986,12 @@ Yes, my lord.
 CARDINAL WOLSEY
 Your grace,
 I fear, with dancing is a little heated.
-KING HENRY VIII
+KH8
 I fear, too much.
 CARDINAL WOLSEY
 There's fresher air, my lord,
 In the next chamber.
-KING HENRY VIII
+KH8
 Lead in your ladies, every one: sweet partner,
 I must not yet forsake you: let's be merry:
 Good my lord cardinal, I have half a dozen healths
@@ -1339,15 +1339,15 @@ You'll find a most unfit time to disturb him:
 Health to your lordships.
 NORFOLK
 Thanks, my good lord chamberlain.
-Exit Chamberlain; and KING HENRY VIII draws the curtain, and sits reading pensively
+Exit Chamberlain; and KH8 draws the curtain, and sits reading pensively
 
 SUFFOLK
 How sad he looks! sure, he is much afflicted.
-KING HENRY VIII
+KH8
 Who's there, ha?
 NORFOLK
 Pray God he be not angry.
-KING HENRY VIII
+KH8
 Who's there, I say? How dare you thrust yourselves
 Into my private meditations?
 Who am I? ha?
@@ -1356,7 +1356,7 @@ A gracious king that pardons all offences
 Malice ne'er meant: our breach of duty this way
 Is business of estate; in which we come
 To know your royal pleasure.
-KING HENRY VIII
+KH8
 Ye are too bold:
 Go to; I'll make ye know your times of business:
 Is this an hour for temporal affairs, ha?
@@ -1378,7 +1378,7 @@ CARDINAL WOLSEY
 Sir, you cannot.
 I would your grace would give us but an hour
 Of private conference.
-KING HENRY VIII
+KH8
 [To NORFOLK and SUFFOLK]
 We are busy; go.
 NORFOLK
@@ -1409,7 +1409,7 @@ Invited by your noble self, hath sent
 One general tongue unto us, this good man,
 This just and learned priest, Cardinal Campeius;
 Whom once more I present unto your highness.
-KING HENRY VIII
+KH8
 And once more in mine arms I bid him welcome,
 And thank the holy conclave for their loves:
 They have sent me such a man I would have wish'd for.
@@ -1420,7 +1420,7 @@ I tender my commission; by whose virtue,
 The court of Rome commanding, you, my lord
 Cardinal of York, are join'd with me their servant
 In the unpartial judging of this business.
-KING HENRY VIII
+KH8
 Two equal men. The queen shall be acquainted
 Forthwith for what you come. Where's Gardiner?
 CARDINAL WOLSEY
@@ -1428,7 +1428,7 @@ I know your majesty has always loved her
 So dear in heart, not to deny her that
 A woman of less place might ask by law:
 Scholars allow'd freely to argue for her.
-KING HENRY VIII
+KH8
 Ay, and the best she shall have; and my favour
 To him that does best: God forbid else. Cardinal,
 Prithee, call Gardiner to me, my new secretary:
@@ -1445,7 +1445,7 @@ GARDINER
 [Aside to CARDINAL WOLSEY]
 But to be commanded
 For ever by your grace, whose hand has raised me.
-KING HENRY VIII
+KH8
 Come hither, Gardiner.
 Walks and whispers
 
@@ -1476,7 +1476,7 @@ For he would needs be virtuous: that good fellow,
 If I command him, follows my appointment:
 I will have none so near else. Learn this, brother,
 We live not to be grip'd by meaner persons.
-KING HENRY VIII
+KH8
 Deliver this with modesty to the queen.
 Exit GARDINER
 
@@ -1658,11 +1658,11 @@ What do you think me?
 Exeunt
 
 SCENE IV. A hall in Black-Friars.
-Trumpets, sennet, and cornets. Enter two Vergers, with short silver wands; next them, two Scribes, in the habit of doctors; after them, CANTERBURY alone; after him, LINCOLN, Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a Gentleman bearing the purse, with the great seal, and a cardinal's hat; then two Priests, bearing each a silver cross; then a Gentleman-usher bare-headed, accompanied with a Sergeant-at-arms bearing a silver mace; then two Gentlemen bearing two great silver pillars; after them, side by side, CARDINAL WOLSEY and CARDINAL CAMPEIUS; two Noblemen with the sword and mace. KING HENRY VIII takes place under the cloth of state; CARDINAL WOLSEY and CARDINAL CAMPEIUS sit under him as judges. QUEEN KATHARINE takes place some distance from KING HENRY VIII. The Bishops place themselves on each side the court, in manner of a consistory; below them, the Scribes. The Lords sit next the Bishops. The rest of the Attendants stand in convenient order about the stage
+Trumpets, sennet, and cornets. Enter two Vergers, with short silver wands; next them, two Scribes, in the habit of doctors; after them, CANTERBURY alone; after him, LINCOLN, Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a Gentleman bearing the purse, with the great seal, and a cardinal's hat; then two Priests, bearing each a silver cross; then a Gentleman-usher bare-headed, accompanied with a Sergeant-at-arms bearing a silver mace; then two Gentlemen bearing two great silver pillars; after them, side by side, CARDINAL WOLSEY and CARDINAL CAMPEIUS; two Noblemen with the sword and mace. KH8 takes place under the cloth of state; CARDINAL WOLSEY and CARDINAL CAMPEIUS sit under him as judges. QK takes place some distance from KH8. The Bishops place themselves on each side the court, in manner of a consistory; below them, the Scribes. The Lords sit next the Bishops. The rest of the Attendants stand in convenient order about the stage
 CARDINAL WOLSEY
 Whilst our commission from Rome is read,
 Let silence be commanded.
-KING HENRY VIII
+KH8
 What's the need?
 It hath already publicly been read,
 And on all sides the authority allow'd;
@@ -1673,15 +1673,15 @@ Scribe
 Say, Henry King of England, come into the court.
 Crier
 Henry King of England, & c.
-KING HENRY VIII
+KH8
 Here.
 Scribe
 Say, Katharine Queen of England, come into the court.
 Crier
 Katharine Queen of England, & c.
-QUEEN KATHARINE makes no answer, rises out of her chair, goes about the court, comes to KING HENRY VIII, and kneels at his feet; then speaks
+QK makes no answer, rises out of her chair, goes about the court, comes to KH8, and kneels at his feet; then speaks
 
-QUEEN KATHARINE
+QK
 Sir, I desire you do me right and justice;
 And to bestow your pity on me: for
 I am a most poor woman, and a stranger,
@@ -1742,12 +1742,12 @@ Hath spoken well and justly: therefore, madam,
 It's fit this royal session do proceed;
 And that, without delay, their arguments
 Be now produced and heard.
-QUEEN KATHARINE
+QK
 Lord cardinal,
 To you I speak.
 CARDINAL WOLSEY
 Your pleasure, madam?
-QUEEN KATHARINE
+QK
 Sir,
 I am about to weep; but, thinking that
 We are a queen, or long have dream'd so, certain
@@ -1755,7 +1755,7 @@ The daughter of a king, my drops of tears
 I'll turn to sparks of fire.
 CARDINAL WOLSEY
 Be patient yet.
-QUEEN KATHARINE
+QK
 I will, when you are humble; nay, before,
 Or God will punish me. I do believe,
 Induced by potent circumstances, that
@@ -1790,7 +1790,7 @@ Remove these thoughts from you: the which before
 His highness shall speak in, I do beseech
 You, gracious madam, to unthink your speaking
 And to say so no more.
-QUEEN KATHARINE
+QK
 My lord, my lord,
 I am a simple woman, much too weak
 To oppose your cunning. You're meek and
@@ -1809,29 +1809,29 @@ I do refuse you for my judge; and here,
 Before you all, appeal unto the pope,
 To bring my whole cause 'fore his holiness,
 And to be judged by him.
-She curtsies to KING HENRY VIII, and offers to depart
+She curtsies to KH8, and offers to depart
 
 CARDINAL CAMPEIUS
 The queen is obstinate,
 Stubborn to justice, apt to accuse it, and
 Disdainful to be tried by't: 'tis not well.
 She's going away.
-KING HENRY VIII
+KH8
 Call her again.
 Crier
 Katharine Queen of England, come into the court.
 GRIFFITH
 Madam, you are call'd back.
-QUEEN KATHARINE
+QK
 What need you note it? pray you, keep your way:
 When you are call'd, return. Now, the Lord help,
 They vex me past my patience! Pray you, pass on:
 I will not tarry; no, nor ever more
 Upon this business my appearance make
 In any of their courts.
-Exeunt QUEEN KATHARINE and her Attendants
+Exeunt QK and her Attendants
 
-KING HENRY VIII
+KH8
 Go thy ways, Kate:
 That man i' the world who shall report he has
 A better wife, let him in nought be trusted,
@@ -1857,7 +1857,7 @@ Have to you, but with thanks to God for such
 A royal lady, spake one the least word that might
 Be to the prejudice of her present state,
 Or touch of her good person?
-KING HENRY VIII
+KH8
 My lord cardinal,
 I do excuse you; yea, upon mine honour,
 I free you from't. You are not to be taught
@@ -1915,7 +1915,7 @@ How under my oppression I did reek,
 When I first moved you.
 LINCOLN
 Very well, my liege.
-KING HENRY VIII
+KH8
 I have spoke long: be pleased yourself to say
 How far you satisfied me.
 LINCOLN
@@ -1926,7 +1926,7 @@ And consequence of dread, that I committed
 The daring'st counsel which I had to doubt;
 And did entreat your highness to this course
 Which you are running here.
-KING HENRY VIII
+KH8
 I then moved you,
 My Lord of Canterbury; and got your leave
 To make this present summons: unsolicited
@@ -1948,7 +1948,7 @@ That we adjourn this court till further day:
 Meanwhile must be an earnest motion
 Made to the queen, to call back her appeal
 She intends unto his holiness.
-KING HENRY VIII
+KH8
 [Aside] I may perceive
 These cardinals trifle with me: I abhor
 This dilatory sloth and tricks of Rome.
@@ -1959,9 +1959,9 @@ I say, set on.
 Exeunt in manner as they entered
 
 ACT III
-SCENE I. London. QUEEN KATHARINE's apartments.
-Enter QUEEN KATHARINE and her Women, as at work
-QUEEN KATHARINE
+SCENE I. London. QK's apartments.
+Enter QK and her Women, as at work
+QK
 Take thy lute, wench: my soul grows sad with troubles;
 Sing, and disperse 'em, if thou canst: leave working.
 SONG
@@ -1980,16 +1980,16 @@ Killing care and grief of heart
 Fall asleep, or hearing, die.
 Enter a Gentleman
 
-QUEEN KATHARINE
+QK
 How now!
 Gentleman
 An't please your grace, the two great cardinals
 Wait in the presence.
-QUEEN KATHARINE
+QK
 Would they speak with me?
 Gentleman
 They will'd me say so, madam.
-QUEEN KATHARINE
+QK
 Pray their graces
 To come near.
 Exit Gentleman
@@ -2003,7 +2003,7 @@ Enter CARDINAL WOLSEY and CARDINAL CAMPEIUS
 
 CARDINAL WOLSEY
 Peace to your highness!
-QUEEN KATHARINE
+QK
 Your graces find me here part of a housewife,
 I would be all, against the worst may happen.
 What are your pleasures with me, reverend lords?
@@ -2011,7 +2011,7 @@ CARDINAL WOLSEY
 May it please you noble madam, to withdraw
 Into your private chamber, we shall give you
 The full cause of our coming.
-QUEEN KATHARINE
+QK
 Speak it here:
 There's nothing I have done yet, o' my conscience,
 Deserves a corner: would all other women
@@ -2026,7 +2026,7 @@ Out with it boldly: truth loves open dealing.
 CARDINAL WOLSEY
 Tanta est erga te mentis integritas, regina
 serenissima,--
-QUEEN KATHARINE
+QK
 O, good my lord, no Latin;
 I am not such a truant since my coming,
 As not to know the language I have lived in:
@@ -2058,7 +2058,7 @@ Forgetting, like a good man your late censure
 Both of his truth and him, which was too far,
 Offers, as I do, in a sign of peace,
 His service and his counsel.
-QUEEN KATHARINE
+QK
 [Aside] To betray me.--
 My lords, I thank you both for your good wills;
 Ye speak like honest men; pray God, ye prove so!
@@ -2076,7 +2076,7 @@ Alas, I am a woman, friendless, hopeless!
 CARDINAL WOLSEY
 Madam, you wrong the king's love with these fears:
 Your hopes and friends are infinite.
-QUEEN KATHARINE
+QK
 In England
 But little for my profit: can you think, lords,
 That any Englishman dare give me counsel?
@@ -2090,7 +2090,7 @@ In mine own country, lords.
 CARDINAL CAMPEIUS
 I would your grace
 Would leave your griefs, and take my counsel.
-QUEEN KATHARINE
+QK
 How, sir?
 CARDINAL CAMPEIUS
 Put your main cause into the king's protection;
@@ -2100,14 +2100,14 @@ For if the trial of the law o'ertake ye,
 You'll part away disgraced.
 CARDINAL WOLSEY
 He tells you rightly.
-QUEEN KATHARINE
+QK
 Ye tell me what ye wish for both,--my ruin:
 Is this your Christian counsel? out upon ye!
 Heaven is above all yet; there sits a judge
 That no king can corrupt.
 CARDINAL CAMPEIUS
 Your rage mistakes us.
-QUEEN KATHARINE
+QK
 The more shame for ye: holy men I thought ye,
 Upon my soul, two reverend cardinal virtues;
 But cardinal sins and hollow hearts I fear ye:
@@ -2121,7 +2121,7 @@ The burthen of my sorrows fall upon ye.
 CARDINAL WOLSEY
 Madam, this is a mere distraction;
 You turn the good we offer into envy.
-QUEEN KATHARINE
+QK
 Ye turn me into nothing: woe upon ye
 And all such false professors! would you have me--
 If you have any justice, any pity;
@@ -2135,7 +2135,7 @@ To me above this wretchedness? all your studies
 Make me a curse like this.
 CARDINAL CAMPEIUS
 Your fears are worse.
-QUEEN KATHARINE
+QK
 Have I lived thus long--let me speak myself,
 Since virtue finds no friends--a wife, a true one?
 A woman, I dare say without vain-glory,
@@ -2152,14 +2152,14 @@ And to that woman, when she has done most,
 Yet will I add an honour, a great patience.
 CARDINAL WOLSEY
 Madam, you wander from the good we aim at.
-QUEEN KATHARINE
+QK
 My lord, I dare not make myself so guilty,
 To give up willingly that noble title
 Your master wed me to: nothing but death
 Shall e'er divorce my dignities.
 CARDINAL WOLSEY
 Pray, hear me.
-QUEEN KATHARINE
+QK
 Would I had never trod this English earth,
 Or felt the flatteries that grow upon it!
 Ye have angels' faces, but heaven knows your hearts.
@@ -2195,7 +2195,7 @@ Such doubts, as false coin, from it. The king loves you;
 Beware you lose it not: for us, if you please
 To trust us in your business, we are ready
 To use our utmost studies in your service.
-QUEEN KATHARINE
+QK
 Do what ye will, my lords: and, pray, forgive me,
 If I have used myself unmannerly;
 You know I am a woman, lacking wit
@@ -2208,7 +2208,7 @@ That little thought, when she set footing here,
 She should have bought her dignities so dear.
 Exeunt
 
-SCENE II. Ante-chamber to KING HENRY VIII's apartment.
+SCENE II. Ante-chamber to KH8's apartment.
 Enter NORFOLK, SUFFOLK, SURREY, and Chamberlain
 NORFOLK
 If you will now unite in your complaints,
@@ -2400,11 +2400,11 @@ He is vex'd at something.
 SURREY
 I would 'twere something that would fret the string,
 The master-cord on's heart!
-Enter KING HENRY VIII, reading of a schedule, and LOVELL
+Enter KH8, reading of a schedule, and LOVELL
 
 SUFFOLK
 The king, the king!
-KING HENRY VIII
+KH8
 What piles of wealth hath he accumulated
 To his own portion! and what expense by the hour
 Seems to flow from him! How, i' the name of thrift,
@@ -2420,7 +2420,7 @@ Springs out into fast gait; then stops again,
 Strikes his breast hard, and anon he casts
 His eye against the moon: in most strange postures
 We have seen him set himself.
-KING HENRY VIII
+KH8
 It may well be;
 There is a mutiny in's mind. This morning
 Papers of state he sent me to peruse,
@@ -2435,7 +2435,7 @@ NORFOLK
 It's heaven's will:
 Some spirit put this paper in the packet,
 To bless your eye withal.
-KING HENRY VIII
+KH8
 If we did think
 His contemplation were above the earth,
 And fix'd on spiritual object, he should still
@@ -2447,7 +2447,7 @@ King HENRY VIII takes his seat; whispers LOVELL, who goes to CARDINAL WOLSEY
 CARDINAL WOLSEY
 Heaven forgive me!
 Ever God bless your highness!
-KING HENRY VIII
+KH8
 Good my lord,
 You are full of heavenly stuff, and bear the inventory
 Of your best graces in your mind; the which
@@ -2464,13 +2464,13 @@ I bear i' the state; and nature does require
 Her times of preservation, which perforce
 I, her frail son, amongst my brethren mortal,
 Must give my tendence to.
-KING HENRY VIII
+KH8
 You have said well.
 CARDINAL WOLSEY
 And ever may your highness yoke together,
 As I will lend you cause, my doing well
 With my well saying!
-KING HENRY VIII
+KH8
 'Tis well said again;
 And 'tis a kind of good deed to say well:
 And yet words are no deeds. My father loved you:
@@ -2484,7 +2484,7 @@ CARDINAL WOLSEY
 [Aside] What should this mean?
 SURREY
 [Aside] The Lord increase this business!
-KING HENRY VIII
+KH8
 Have I not made you,
 The prime man of the state? I pray you, tell me,
 If what I now pronounce you have found true:
@@ -2505,7 +2505,7 @@ Can nothing render but allegiant thanks,
 My prayers to heaven for you, my loyalty,
 Which ever has and ever shall be growing,
 Till death, that winter, kill it.
-KING HENRY VIII
+KH8
 Fairly answer'd;
 A loyal and obedient subject is
 Therein illustrated: the honour of it
@@ -2529,7 +2529,7 @@ Appear in forms more horrid,--yet my duty,
 As doth a rock against the chiding flood,
 Should the approach of this wild river break,
 And stand unshaken yours.
-KING HENRY VIII
+KH8
 'Tis nobly spoken:
 Take notice, lords, he has a loyal breast,
 For you have seen him open't. Read o'er this;
@@ -2537,7 +2537,7 @@ Giving him papers
 
 And after, this: and then to breakfast with
 What appetite you have.
-Exit KING HENRY VIII, frowning upon CARDINAL WOLSEY: the Nobles throng after him, smiling and whispering
+Exit KH8, frowning upon CARDINAL WOLSEY: the Nobles throng after him, smiling and whispering
 
 CARDINAL WOLSEY
 What should this mean?
@@ -3448,14 +3448,14 @@ LOVELL
 Many good nights, my lord: I rest your servant.
 Exeunt GARDINER and Page
 
-Enter KING HENRY VIII and SUFFOLK
+Enter KH8 and SUFFOLK
 
-KING HENRY VIII
+KH8
 Charles, I will play no more tonight;
 My mind's not on't; you are too hard for me.
 SUFFOLK
 Sir, I did never win of you before.
-KING HENRY VIII
+KH8
 But little, Charles;
 Nor shall not, when my fancy's on my play.
 Now, Lovell, from the queen what is the news?
@@ -3465,19 +3465,19 @@ What you commanded me, but by her woman
 I sent your message; who return'd her thanks
 In the great'st humbleness, and desired your highness
 Most heartily to pray for her.
-KING HENRY VIII
+KH8
 What say'st thou, ha?
 To pray for her? what, is she crying out?
 LOVELL
 So said her woman; and that her sufferance made
 Almost each pang a death.
-KING HENRY VIII
+KH8
 Alas, good lady!
 SUFFOLK
 God safely quit her of her burthen, and
 With gentle travail, to the gladding of
 Your highness with an heir!
-KING HENRY VIII
+KH8
 'Tis midnight, Charles;
 Prithee, to bed; and in thy prayers remember
 The estate of my poor queen. Leave me alone;
@@ -3487,7 +3487,7 @@ SUFFOLK
 I wish your highness
 A quiet night; and my good mistress will
 Remember in my prayers.
-KING HENRY VIII
+KH8
 Charles, good night.
 Exit SUFFOLK
 
@@ -3497,11 +3497,11 @@ Well, sir, what follows?
 DENNY
 Sir, I have brought my lord the archbishop,
 As you commanded me.
-KING HENRY VIII
+KH8
 Ha! Canterbury?
 DENNY
 Ay, my good lord.
-KING HENRY VIII
+KH8
 'Tis true: where is he, Denny?
 DENNY
 He attends your highness' pleasure.
@@ -3512,7 +3512,7 @@ LOVELL
 I am happily come hither.
 Re-enter DENNY, with CRANMER
 
-KING HENRY VIII
+KH8
 Avoid the gallery.
 LOVELL seems to stay
 
@@ -3523,13 +3523,13 @@ CRANMER
 [Aside]
 I am fearful: wherefore frowns he thus?
 'Tis his aspect of terror. All's not well.
-KING HENRY VIII
+KH8
 How now, my lord! you desire to know
 Wherefore I sent for you.
 CRANMER
 [Kneeling] It is my duty
 To attend your highness' pleasure.
-KING HENRY VIII
+KH8
 Pray you, arise,
 My good and gracious Lord of Canterbury.
 Come, you and I must walk a turn together;
@@ -3556,7 +3556,7 @@ Most throughly to be winnow'd, where my chaff
 And corn shall fly asunder: for, I know,
 There's none stands under more calumnious tongues
 Than I myself, poor man.
-KING HENRY VIII
+KH8
 Stand up, good Canterbury:
 Thy truth and thy integrity is rooted
 In us, thy friend: give me thy hand, stand up:
@@ -3573,7 +3573,7 @@ If they shall fail, I, with mine enemies,
 Will triumph o'er my person; which I weigh not,
 Being of those virtues vacant. I fear nothing
 What can be said against me.
-KING HENRY VIII
+KH8
 Know you not
 How your state stands i' the world, with the whole world?
 Your enemies are many, and not small; their practises
@@ -3593,7 +3593,7 @@ CRANMER
 God and your majesty
 Protect mine innocence, or I fall into
 The trap is laid for me!
-KING HENRY VIII
+KH8
 Be of good cheer;
 They shall no more prevail than we give way to.
 Keep comfort to you; and this morning see
@@ -3622,7 +3622,7 @@ I'll not come back; the tidings that I bring
 Will make my boldness manners. Now, good angels
 Fly o'er thy royal head, and shade thy person
 Under their blessed wings!
-KING HENRY VIII
+KH8
 Now, by thy looks
 I guess thy message. Is the queen deliver'd?
 Say, ay; and of a boy.
@@ -3634,11 +3634,11 @@ Promises boys hereafter. Sir, your queen
 Desires your visitation, and to be
 Acquainted with this stranger 'tis as like you
 As cherry is to cherry.
-KING HENRY VIII
+KH8
 Lovell!
 LOVELL
 Sir?
-KING HENRY VIII
+KH8
 Give her an hundred marks. I'll to the queen.
 Exit
 
@@ -3690,22 +3690,22 @@ To quench mine honour: they would shame to make me
 Wait else at door, a fellow-counsellor,
 'Mong boys, grooms, and lackeys. But their pleasures
 Must be fulfill'd, and I attend with patience.
-Enter the KING HENRY VIII and DOCTOR BUTTS at a window above
+Enter the KH8 and DOCTOR BUTTS at a window above
 
 DOCTOR BUTTS
 I'll show your grace the strangest sight--
-KING HENRY VIII
+KH8
 What's that, Butts?
 DOCTOR BUTTS
 I think your highness saw this many a day.
-KING HENRY VIII
+KH8
 Body o' me, where is it?
 DOCTOR BUTTS
 There, my lord:
 The high promotion of his grace of Canterbury;
 Who holds his state at door, 'mongst pursuivants,
 Pages, and footboys.
-KING HENRY VIII
+KH8
 Ha! 'tis he, indeed:
 Is this the honour they do one another?
 'Tis well there's one above 'em yet. I had thought
@@ -3915,7 +3915,7 @@ The chief aim of his honour; and, to strengthen
 That holy duty, out of dear respect,
 His royal self in judgment comes to hear
 The cause betwixt her and this great offender.
-KING HENRY VIII
+KH8
 You were ever good at sudden commendations,
 Bishop of Winchester. But know, I come not
 To hear such flattery now, and in my presence;
@@ -3932,7 +3932,7 @@ By all that's holy, he had better starve
 Than but once think this place becomes thee not.
 SURREY
 May it please your grace,--
-KING HENRY VIII
+KH8
 No, sir, it does not please me.
 I had thought I had had men of some understanding
 And wisdom of my council; but I find none.
@@ -3955,7 +3955,7 @@ Concerning his imprisonment, was rather,
 If there be faith in men, meant for his trial,
 And fair purgation to the world, than malice,
 I'm sure, in me.
-KING HENRY VIII
+KH8
 Well, well, my lords, respect him;
 Take him, and use him well, he's worthy of it.
 I will say thus much for him, if a prince
@@ -3971,7 +3971,7 @@ CRANMER
 The greatest monarch now alive may glory
 In such an honour: how may I deserve it
 That am a poor and humble subject to you?
-KING HENRY VIII
+KH8
 Come, come, my lord, you'ld spare your spoons: you
 shall have two noble partners with you; the old
 Duchess of Norfolk, and Lady Marquess Dorset: will
@@ -3984,7 +3984,7 @@ And brother-love I do it.
 CRANMER
 And let heaven
 Witness, how dear I hold this confirmation.
-KING HENRY VIII
+KH8
 Good man, those joyful tears show thy true heart:
 The common voice, I see, is verified
 Of thee, which says thus, 'Do my Lord of Canterbury
@@ -4124,7 +4124,7 @@ Garter
 Heaven, from thy endless goodness, send prosperous
 life, long, and ever happy, to the high and mighty
 princess of England, Elizabeth!
-Flourish. Enter KING HENRY VIII and Guard
+Flourish. Enter KH8 and Guard
 
 CRANMER
 [Kneeling] And to your royal grace, and the good queen,
@@ -4132,20 +4132,20 @@ My noble partners, and myself, thus pray:
 All comfort, joy, in this most gracious lady,
 Heaven ever laid up to make parents happy,
 May hourly fall upon ye!
-KING HENRY VIII
+KH8
 Thank you, good lord archbishop:
 What is her name?
 CRANMER
 Elizabeth.
-KING HENRY VIII
+KH8
 Stand up, lord.
-KING HENRY VIII kisses the child
+KH8 kisses the child
 
 With this kiss take my blessing: God protect thee!
 Into whose hand I give thy life.
 CRANMER
 Amen.
-KING HENRY VIII
+KH8
 My noble gossips, ye have been too prodigal:
 I thank ye heartily; so shall this lady,
 When she has so much English.
@@ -4192,7 +4192,7 @@ Shall be, and make new nations: he shall flourish,
 And, like a mountain cedar, reach his branches
 To all the plains about him: our children's children
 Shall see this, and bless heaven.
-KING HENRY VIII
+KH8
 Thou speakest wonders.
 CRANMER
 She shall be, to the happiness of England,
@@ -4202,7 +4202,7 @@ Would I had known no more! but she must die,
 She must, the saints must have her; yet a virgin,
 A most unspotted lily shall she pass
 To the ground, and all the world shall mourn her.
-KING HENRY VIII
+KH8
 O lord archbishop,
 Thou hast made me now a man! never, before
 This happy child, did I get any thing:
