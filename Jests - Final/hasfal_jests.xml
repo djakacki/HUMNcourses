@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY02">
+            <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+            <div type="old">
+               <head><title>A sodaine and dangerous fray, twixt a Gentleman and Tarlton, which he
+                  put off with a Iest.</title></head>
+               <ab>AS <persName type="man">Tarlton</persName> &amp; others passed along <placeName type="street">Fléestréet</placeName>, hee espied <trait type="looks"><desc>a spruce yong
+                  gallant, blacke of complexion, with long haire hanging downe ouer his eares,
+                  and his beard of the Italian cut, in white Satten, very quaintly cut</desc></trait>, and his
+                  body so <trait type="characteristic"><desc>stiffe starcht</desc></trait>, that he could not bend himselfe any way for no <objectName type="thing">gold</objectName>:
+                  <persName type="man">Tarlton</persName>, séeing such a wonder comming, trips before him, and méeting this
+                  gallant tooke the wall of him, knowing that one so <state type="mood"><desc>proud</desc></state>, at least looked for
+                  the prerogatiue. The gallant scorning that a <persName type="man">Player</persName> should take the wall, or so
+                  much indignifie him, turnes himselfe, and presently drew his <objectName type="weapon">Rapier</objectName>, <persName type="man">Tarlton</persName>
+                  drew likewise: The <persName type="man">Gentleman</persName> fell to it roundly, but <persName type="man">Tarlton</persName> in his owne
+                  <state type="mood"><desc>defence, compassing and trauersing his ground</desc></state>, <state type="mood"><desc>gaped with a wide mouth</desc></state>, whereat
+                  the people laughed: the <persName type="man">Gentleman</persName> pausing, enquired why he gaped so? O Sir
+                  saies he, in hope to swallow you, for by my troth, you séeme to me like a <objectName type="food">prune</objectName>
+                  <state type="mood"><desc>in a Mesle of white Broth</desc></state>: at this the people parted them, the <persName type="man">Gentleman</persName> noting
+                  his mad humour, went his way well contented, for he knew not how to amend
+                  it.</ab>
+            </div>
+            <div type="modern">
+               <head><title>A sudden and dangerous altercation , between a Gentleman and Tarlton, which he put off with a hypothetical consequence.</title></head>
+               <ab>As <persName type="man">Tarlton</persName> and others passed along <placeName type="street">Flee Street</placeName>, he saw a <trait><desc>young strong man with long dark hair and an Italian cut beard, and a built body</desc></trait>: 
+                  <persName type="man">Tarlton</persName> is amazed by this man went up to him to test his character. He looks <trait><desc>to have royal family ties</desc></trait>. <persName type="man">Tarlton</persName> and the man got into a scuffle and 
+               both drew their <objectName type="weapon">swords</objectName>. <persName type="man">Tarlton</persName> diffused the tension by laughing at the man. After an awkward pause they dispersed.
+                </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY03">
+            <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+            <div type="old">
+               <head><title>Tarltons Iest of a Pippin.</title></head>
+               <ab><persName type="man">Tarltons</persName> Iest of a <objectName type="food">Pippin</objectName>. AT the <placeName type="location">Bull</placeName> in <placeName type="street">Bishopsgate stréet</placeName>, where the
+                  <orgName type="group">Quéenes Plaiers</orgName> oftentimes played: <persName type="man">Tarlton</persName> comming on the <placeName type="location">Stage</placeName>, one from the
+                  <placeName type="location">Gallerie</placeName> threw a <objectName type="food">Pippin</objectName> at him, <persName type="man">Tarlton</persName> tooke vp the <objectName type="food">Pip</objectName>, &amp; looking on it
+                  made this sodaine iest.</ab>
+               
+               <ab><objectName type="food">Pip</objectName> in or nose in, chuse you whether, Put yours in, ere I put in the other:
+                  <objectName type="food">Pippin</objectName> you haue put in, then for my grace, Would I might put your nose in
+                  another place.</ab>
+            </div>
+            <div type="modern">
+               <head><title>Tarltons consequences of a Apple.</title></head>
+               <ab>At the <placeName type="location">Bull</placeName> in <placeName type="street">Bishopsgate street</placeName>, where the <orgName type="group">Queen’s Players</orgName> often played, has <persName type="man">Tarlton</persName> is comming on <placeName type="location">stage</placeName>, 
+               someone from the <placeName type="location">gallerie</placeName> threw an <objectName type="food">apple</objectName> at him. <persName type="man">Tarlton</persName> took up the <objectName type="food">apple</objectName> and looked at it thinking of the sudden 
+               consequnces of the thrower. <objectName type="food">Apple</objectName> or nose, choose either, put yours in and I put the other. <objectName type="food">Apple</objectName> you have chosen, 
+               so I will put my nose in another place.
+                 </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY04">
+            <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+            <div type="old">
+               <head><title>A Iest of an Apple hitting Tarlton on the face.</title></head>
+               <ab><persName type="man">Tarlton</persName> hauing flouted the <persName type="man">fellow</persName> for his <objectName type="food">Pippin</objectName> which he threw, he thought to
+                  be méet with <persName type="man">Tarlton</persName> at length, so in the Play Tarltons part was to trauell,
+                  who knéeling downe to aske his Father blessing: the <persName type="man">fellow</persName> threwe an <objectName type="food">Apple</objectName> at
+                  him, which hit him on the chéeke: <persName type="man">Tarlton</persName> taking vp the <objectName type="food">Apple</objectName> made this
+                  Iest.</ab>
+               <lg>
+                  <l><persName type="man">Gentlemen</persName>, this <persName type="man">fellow</persName> with <trait><desc>his face of Mapple</desc></trait>.</l>
+                  <l>In stead of a <objectName type="food">Pippin</objectName> hath throwne me an <objectName type="food">Apple</objectName>:</l>
+                  <l>But as for an <objectName type="food">Apple</objectName> he hath cast a <objectName type="food">Crab</objectName>,</l>
+                  <l>So in stead of an honest woman <persName>God</persName> hath sent him a <trait type="characteristic"><desc>Drab</desc></trait>.</l>
+               </lg>
+               <ab>The people laughed heartily, for he had a <trait type="characteristic"><desc>Queane</desc></trait> to his <persName type="woman">Wife</persName></ab>
+            </div>
+            <div type="modern">
+               <head><title>The consequence of ana Apple hitting Tarlton on the face.</title></head>
+               <ab><persName type="man">Tarlton</persName> is taunting the gentlemen for the <objectName type="food">apple</objectName> he threw. <persName type="man">Tarlton</persName> kneeled down and asked 
+                  god for a blessong for the man who thre the <objectName type="food">apple</objectName> at his cheeke. 
+               <persName type="man">Tarlton</persName> grabs the <objectName type="food">apple</objectName> and began to roast the man.
+                  The man with the <trait type="characteristic"><desc>maple face</desc></trait>. Insteasd of a <desc>nice rich</desc> <objectName type="food">apple</objectName> through me a regualar one. 
+                  But as for an <objectName type="food">apple</objectName> throw me a <objectName type="food">crab</objectName>. And instead of an honest woman, <persName>God </persName>send him a whore. The people laughed, becasue he had a prostitute as a wife.    
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

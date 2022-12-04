@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY16">
+            <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+            <div type="old">
+               <head><title>How <persName type = "man">Tarlton</persName> <state type = "bid"><desc>bid himselfe</desc></state>to dinner to my <persName type = "Lord">Lord Mayors</persName>.</title></head>
+               <ab>A Iest came in <persName type = "man">Tarlton</persName> head where <state type = "dine"><desc>to dine</desc></state>, and thought he, in all that a man
+                  does, let him ayme at the fairest, for sure if. I <state type = "bid"><desc>bid my selfe</desc></state>bany where this
+                  day, it shall be to my Lord <persName type = "Lord">Lord Maiors</persName>: and vpon this, goes to the <placeName type = "Counter">Counter</placeName>and
+                  entred his action against my <persName type = "Lord">Lord Maior</persName>, who was presently told of it, and
+                  sends for him. <persName type = "man">Tarlton</persName> <state type = "waits"><desc>waits dinner time</desc></state>, and then comes, who was admitted
+                  presently. <persName type = "man"> Master Tarlton</persName>, sayes my <persName type = "Lord">Lord Maior</persName>, haue you entred an action
+                  against me in the <placeName type = "Poultry\Counter">Poultry Counter</placeName>? My Lord, sayes <persName type = "man">Tarlton</persName>, haue you entred an
+                  action against me in <placeName type = "Woodstréet\Counter"> Woodstréet Counter</placeName>? Not I in troth, saies my Lord. No
+                  saies <persName type = "man">Tarlton</persName>, he was a <trait type = "villan"><desc>villaine</desc></trait>that told me so then: but if it be not so,
+                  forgiue me this fault my Lord, and I will neuer offend in the next: but in the
+                  end he begins to sweare, how he will <state type = "revenged"><desc>bee reunged on</desc></state>him that mockt him, and
+                  <state type = "rage"><desc>flings out in a rage</desc></state>, But my Lord sayd, stay <persName type = "man"> M. Tarlton</persName>, <state type = "dine"><desc>dine with me</desc></state>and no
+                  doubt but after dinner you will be <state type = "bettter\minded"><desc>better minded</desc></state>. I will try that my Lord,
+                  saies <persName type = "man">Tarlton</persName>, and if it alter mine <state type = "anger"><desc>anger</desc></state>, both mine enemie &amp; I will thanke
+                  you together for this curtesie.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY17">
+            <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+            <div type="old">
+               <head><title><persName type = "man">Tarlton</persName> Iest of a <objectName type = "box">box</objectName>on the eare.</title></head>
+               <ab>ONe that fell out with his <persName type = "friend">friend</persName>, méets him in the <placeName type = "street">stréet</placeName>, and calling him
+                  into <placeName type = "corner">a corner</placeName>, gaue him a <objectName type = "box">boxe</objectName> on the eare, and feld him, getting him gone, and
+                  neuer told wherefore he did so: which <persName type = "man">Tarlton</persName> beholding, raised vp <persName type = "fellow">the fellow</persName>,
+                  and askt him the reason of their suddaine falling out? can you tell Sir said
+                  the fellow, for by my troth as yet I cannot? Well said <persName type = "man">Tarlton</persName>, the more <trait type = "foole"><desc>foole</desc></trait>
+                  you, for had I such féeling of the cause, <trait type = "wit"><desc>my wit</desc></trait> would remember the iniurie,
+                  but many men are goslings, the more they féele the lesse they conceiue.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY18">
+            <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+            <div type="old">
+               <head><title><persName type = "man">Tarlton</persName>Iest to two <persName type = "friends">Taylors</persName>.</title></head>
+               <ab><persName type = "man">Tarlton</persName> méeting two <persName type = "friends">Tailors</persName>(friends of his) in the euening, in mirth cryes,
+                  who goes there? A man answered a <persName type = "friends">Taylor</persName>: How many is there? one: Yea said
+                  <persName type = "man">Tarlton</persName>, two said the other <persName type = "man">Taylor</persName>: then you say true, said <persName type = "man">Tarlton</persName>: for two
+                  <persName type = "man">Taylors</persName>goes to a man. But before they parted, they foxt <persName type = "man">Tarlton</persName>, at the <placeName type = "Castle">Castle</placeName>
+                  in <placeName type = "Pasternoster\Row">Paternoster Row</placeName>, that <persName type = "man">Tarlton</persName> confest them two <persName type = "friends">Taylors</persName>to be honest men: so
+                  what they spent in the <objectName type = "purse">purse</objectName>they got in the person: comming but one by
+                  <persName type = "man">Tarltons</persName> account, they returned two: but <persName type = "man">Tarlton</persName> comming one, returned lesse by
+                  his<trait type = "wit"><desc>wit</desc></trait> , for that was shrunk in the whetting.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

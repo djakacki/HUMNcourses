@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY22">
+            <byline resp="#MIYA1"><persName>Tsugu Miyake</persName></byline>
+            <div type="old">
+               <head><title><persName type="tarleton">Tarltons</persName> greeting with <persName type="bankes">Bankes</persName> his horse.</title></head>
+               <ab>THere was one <persName type="bankes">Bankes</persName> (in the time of <persName type="tarleton">Tarlton</persName> ) 
+                  who serued the <persName type="earl">Earle of Essex</persName>,
+                  &amp; had a <objectName type="animal">horse</objectName> of strange qualities: 
+                  and being at the <placeName type="pub">Crosse-keyes</placeName> in
+                  <placeName type="street">Gracious stréete</placeName>, getting <objectName type="money">money</objectName>
+                  with him (as he was mightily resorted to:)<persName type="tarleton">Tarlton</persName> then 
+                  (with his fellowes) playing at the <placeName type="playhouse">Bell</placeName> by, came into the
+                  <placeName type="pub">Crosse-keyes</placeName> amongst many <orgName type="audience">people</orgName>) to sée fashions: 
+                  which <persName type="bankes">Bankes</persName> perceiuing (to
+                  make the people <state type="emotion"><desc>laugh</desc></state>) sayes Signior (to his <objectName type="animal">Horse</objectName>) goe fetch mee the veriest
+                  foole in the <orgName type="people">company</orgName>, the <objectName type="horse">Iade</objectName> comes immediatly, and with his mouth drawes
+                  <persName type="tarleton">Tarlton</persName> forth: <persName type="tarleton">Tarlton</persName> with merry words said nothing, but <persName type="god">God</persName> a <objectName type="animal">mercy Horse</objectName>: in
+                  the end, <persName type="tarleton">Tarlton</persName> séeing the <orgName type="audiences">people</orgName> <state type="emotion"><desc>laugh</desc></state> so, was <state type="emotion"><desc>angry</desc></state> inwardly, and said, Sir,
+                  had I power of your <objectName type="animal">horse</objectName>, as you haue, I would doe more then that. 
+                  Where ere it be said <persName type="bankes">Bankes</persName> (to <state type="emotion"><desc>please</desc></state> him) 
+                  I will charge him to do it: then saies <persName type="tarleton">Tarlton</persName>, charge him to bring me the veriest 
+                  <persName type="occupation">whore-master</persName> in this <orgName type="company">company</orgName>.
+                  He shall saies <persName type="bankes">Bankes</persName>: Signior saies he, bring <persName type="tarleton">M. Tarlton</persName> heere the veriest
+                  <persName type="occupation">Whoremaster</persName> in the <orgName type="company">company</orgName>: the <objectName type="animal">Horse</objectName> 
+                  leades his <persName type="owner">master</persName> to him: then <persName type="god">God</persName> a <objectName type="animal">mercy Horse</objectName> 
+                  indéed, sayes <persName type="tarleton">Tarlton</persName>: the <orgName type="audience">people</orgName> had much adoe to kéepe 
+                  <state type="peace"><desc>peace</desc></state>, but <persName type="bankes">Bankes</persName> &amp; <persName type="tarleton">Tarlton</persName> had like to squarde, and 
+                  the <objectName type="animal">horse</objectName> by to giue ayme: but euer after it was a by-word through 
+                  <placeName type="city">London</placeName>, <persName type="god">God</persName> a <objectName type="animal">mercy horse</objectName>, 
+                  and is to this day.</ab>
+            </div>
+            <div type="modern">
+               <head><title><persName type="tarleton">Tarlton</persName> greeting with <persName type="bankes">Bankes</persName>'s
+                     horse.</title></head>
+               <ab>There was a man named Bankes (in the time of <persName type="tarleton">
+                  Tarlton</persName> ) who served the <persName type="earl">Earle of
+                     Essex</persName> and had a <objectName type="animal">horse</objectName> of
+                  strange qualities. Being at the <placeName type="pub">Crosse-keyes</placeName> in
+                     <placeName type="street">Gracious street</placeName>, Bankes earned
+                     <objectName type="money">money</objectName> with him (as he was mightily
+                  resorted to) <persName type="tarleton">Tarlton</persName> then (with his fellows)
+                  playing at the <placeName type="playhouse">Bell</placeName> came into the
+                     <placeName type="pub">Crosse-keyes</placeName> amongst many <orgName
+                     type="audience">people</orgName> to see fashions. <persName type="bankes"
+                        >Bankes</persName> perceiving (to make the people <state type="emotion"><desc>laugh</desc></state>) says "Signior (to his
+                     <objectName type="animal">Horse</objectName>) go fetch me the greatest fool in this
+                     <orgName type="people">group of people</orgName>". The <objectName type="horse">Jade</objectName> 
+                     comes immediatly, and with his mouth drawes <persName type="tarleton">Tarlton</persName> forth: 
+                     <persName type="tarleton">Tarlton</persName> with merry words said nothing, but "
+                  <persName type="god">God</persName> a <objectName type="animal">mercy Horse</objectName>". In the
+                  end, <persName type="tarleton">Tarlton</persName> sees the <orgName type="audiences">people</orgName>
+                  <state type="emotion"><desc>laugh</desc></state>, and was <state type="emotion"><desc>angry</desc></state> 
+                  inwardly, said, "Sir, if I have the power to use your <objectName type="animal">horse</objectName>, I would do more then that." 
+                  <persName type="bankes">Bankes</persName> (to <state type="emotion">
+                     <desc>please</desc>
+                  </state> him) said "I will charge him to do it". Then <persName type="tarleton">Tarlton</persName> 
+                  says, "charge him to bring me the most <persName type="occupation">whore-master</persName> in this
+                  <orgName type="company">group of people</orgName>". The horse says something to <persName type="bankes">Bankes</persName>.
+                  "Signior saies he will bring <persName type="tarleton">Mr.
+                     Tarlton</persName> here the greatest <persName type="occupation">Whoremaster</persName>
+                  in this <orgName type="company">group</orgName>".
+                  Instead, <objectName type="animal">Horse</objectName> leads his <persName type="owner">master</persName>
+                  to him. Then, "<persName type="god">God</persName> a <objectName type="animal">mercy Horse</objectName> indeed,
+                  says <persName type="tarleton">Tarlton</persName>". The <orgName type="audience">people</orgName> 
+                  tried hard to keep <state type="peace">
+                     <desc>peace</desc>
+                  </state>, but <persName type="bankes">Bankes</persName> and <persName type="tarleton">Tarlton</persName> had like to
+                  quarrel about where the <objectName type="animal">horse</objectName> targets at.
+                  Ever after it became a story through <placeName type="city">London</placeName>,
+                  the <persName type="god">God</persName>-like <objectName type="animal">mercy
+                     horse</objectName>, to this day.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY23">
+            <byline resp="#MIYA1"><persName>Tsugu Miyake</persName></byline>
+            <div type="old">
+               <head><title>An excellent Iest of <persName type="tarleton">Tarlton</persName> suddenly spoken.</title></head>
+               <ab>AT the <placeName type="playhouse">Bull</placeName> at <placeName type="street">Bishops-gate</placeName> 
+                  was a play of <name type="play">Henry the fift</name>, wherein the <persName type="play-character">Iudge</persName>
+                  was to take a boxe on the <objectName type="body-part">eare</objectName>, and because he was <state type="existence"><desc>absent</desc></state> that should take the
+                  blow: <persName type="tarleton">Tarlton</persName> himselfe (euer forward to please) tooke upon him to play the same
+                  <persName type="play-character">Iudge</persName>, besides his owne part of the <persName type="play-character">Clowne</persName>: 
+                  and <persName type="actor">Knell</persName> then playing <persName type="play-character">Henry the fift</persName>, hit 
+                  <persName type="tarleton">Tarlton</persName> a sound boxe indéed, which made the <orgName type="audiences">people</orgName>
+                  <state type="emotion"><desc>laugh</desc></state> the more, because it was he: but anone the <persName type="play-character">Iudge</persName> 
+                  goes in, &amp; immediatly <persName type="tarleton">Tarlton</persName> (in his <persName type="play-character">Clownes</persName> <objectName type="clothing">clothes</objectName>) comes out, 
+                  and askes the <orgName type="actors">Actors</orgName> what newes? O saith one,
+                  hadst thou béene here, thou shouldst haue séene <persName type="play-character">Prince Henry</persName> hit the <persName type="play-character">Iudge</persName> a
+                  terribly▪ boxe on the <objectName type="body-part">eare</objectName>: What man, said <persName type="tarleton">Tarlton</persName>, strike a <persName type="play-character">Iudge</persName>? It is true
+                  y faith, said the other: no other like, said <persName type="tarleton">Tarlton</persName>, and it could not be but
+                  <state type="terrible"><desc>terrible</desc></state> to the <persName type="play-character">Iudge</persName>, when the report so <state type="emotion"><desc>terrifies</desc></state> me, that me thinkes the
+                  blow remaines still on my chéeke, that it burnes againe. The <orgName type="audiences">people</orgName> <state type="emotion"><desc>laught</desc></state> at
+                  this mightily, and to this day I haue heard it commended for rare: but no
+                  maruaile, for he had many of these. But I would sée our <persName type="play-character">Clownes</persName> in these dayes
+                  doe the like, no I warrant ye, and yet they thinke <trait type="talent"><desc>well</desc></trait> of themselues too.</ab>
+            </div>
+            <div type="modern">
+               <head><title>An excellent Jest of <persName type="tarleton">Tarleton</persName> suddenly spoken.</title></head>
+               <ab>At the <placeName type="playhouse">Bull</placeName> at <placeName type="street">Bishops-gate</placeName>, there was a play of <name type="play">Henry the fifth</name>
+                  , where the <persName type="play-character">Judge</persName> was to take a box on the <objectName type="body-part">ear</objectName>. Because the <persName type="play-character">Judge</persName> that should take the blow was
+                  <state type="existence"><desc>absent</desc></state>, <persName type="tarleton">Tarlton</persName> himself (ever forward to please) took upon him to to play the
+                  same <persName type="play-character">Judge</persName>, besides his own part of the <persName type="play-character">Clown</persName>. <persName type="actor">Knell</persName>, who plays <persName type="play-character">Henry the Fifth</persName>,
+                  punched  <persName type="tarleton">Tarlton</persName> with a great sound, which made the <orgName type="audiences">people</orgName> <state type="emotion"><desc>laugh</desc></state> because it was
+                  <persName type="tarleton">Tarlton</persName> who plays the <persName type="play-character">Judge</persName>. Immediately after the <persName type="play-character">Judge</persName> disappears, <persName type="tarleton">Tarlton</persName> (in
+                  his <persName type="play-character">Clown</persName> <objectName type="clothing">clothes</objectName>) comes out, and asks the <orgName type="actors">Actors</orgName> "What news? O says one, have you
+                  been here, you should have seen <persName type="play-character">Price Henry</persName> hit the <persName type="play-character">Judge</persName> with a terrible punch on
+                  the <objectName type="body-part">ear</objectName>. "What man", said <persName type="tarleton">Tarlton</persName>, "strike a <persName type="play-character">Judge?</persName>". "It is true with faith",
+                  said the other. "No one is like that ", said <persName type="play-character">Judge</persName>, " and it must be <state type="terrible"><desc>terrible</desc></state>
+                  to the <persName type="play-character">Judge</persName> because the report <state type="emotion"><desc>terrifies</desc></state> me, making me think that the blow
+                  remains still on my cheek and it burns again." The <orgName type="audiences">people</orgName> <state type="emotion"><desc>laughed</desc></state> at this
+                  enormously, and to this day I have heard this story being praised for the
+                  uniqueness. However, it was not rare for <persName type="tarleton">Tarlton</persName> as he had many similar story of
+                  these. I would like to see our <persName type="play-character">Clowns</persName> in these days to do the similar things like
+                  this, and I bet they cannot do better than <persName type="tarleton">Tarlton</persName>, even though these <persName type="play-character">clowns</persName>
+                  think they can do a <trait type="talent"><desc>good job</desc></trait>.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

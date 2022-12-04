@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUR12">
+            <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="man">Tarlton</persName> answered the <orgName type="group">Watchmen</orgName> comming from the
+                  <placeName type="court">Court</placeName>.</title></head>
+               <ab><persName type="man">TArlton</persName> hauing plaied before <persName type="royalty">the Quéen</persName>, till one a clock at midnight, comming
+                  homewards, one of them espied him, calling him, sirra, what art thou? a woman,
+                  sayes <persName type="man">Tarlton</persName>: nay that is lie, saith <orgName type="group">the Watchmen</orgName>, women haue no such <objectName type="hair">beards</objectName>:
+                  <persName type="man">Tarlton</persName> replied, if I should haue said a man, that you know to be true, and
+                  would haue bidden mee tell you that you know not, therefore I sayd a Woman, and
+                  so I am all woman, hauing pleased <persName type="royalty">the Quéene</persName>, being a Woman: Well sirra sayes
+                  another, I present <persName type="royalty">the Quéene</persName>: then am I a woman indéed saies <persName type="man">Tarlton</persName> as well
+                  as you, for you haue a <objectName type="hair">beard</objectName> as well as I, and truly <persName type="woman">Mistris Annis</persName>, my <objectName type="clothing">buske</objectName> is
+                  not done yet, when will yours? leaue thy gybing fellow, saith <orgName type="group">the Watch</orgName>; <objectName type="intangible">the
+                  Quéens will</objectName> is that whosoeuer is taken without doores after ten a clocke, shall
+                  be committed, and now it is past one: commit all such sayes <persName type="Tarlton">Tarlton</persName>, for if it
+                  be past one a clocke, it will not be ten this eight houres: with that one lifts
+                  vp his <objectName type="Lantern">Lanthorne</objectName>, and looks him in the <objectName type="body_part">face</objectName>, and knew him: indéed M. <persName type="man">Tarlton</persName>
+                  you haue more <objectName type="light">wit</objectName> then all we, for it is true that ten was before one, but now
+                  one is before ten, it is true quoth <persName type="man">Tarlton</persName>, <orgName type="group">Watchmen</orgName> had wont to haue more
+                  <objectName type="intangible">wit</objectName>, but for want of sléepe they are turned <trait type="charaterization"><desc>fooles</desc></trait>: so <persName type="man">Tarlton</persName> stole from them,
+                  and they to séeme <trait type="characterization"><desc>wise</desc></trait> went home <state type="bed"><desc>to bed</desc></state>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE_MODERNIZED</title></head>
+               <ab>
+                  Tarlton having played before the Queen, until one o’clock, coming home, one of them spotted him as asked “sir, who is there?”. 
+                  Tarlton answered by saying “a woman” was there and the Watchmen called him out his lie by reasoning that women do not have beards. 
+                  Tarlton replies, explaining that if he had said he said a man, which the watchmen know to be true, they would have reasoned otherwise. 
+                  Therefore, I said woman, and so I am all woman, having pleased the Queen by being a woman. 
+                  Another watchmen responds by saying “I present the Queen”. Then I am a women indeed, Tarlton says, as well as you, 
+                  for you also have a beard and truly Mistris Annis, my buske is not done yet, when will yours be done? Leave the lying fellow, said the Watch. 
+                  The Queen’s order is that whoever is taken without doors after ten o’clock, shall be committed, and now it is past one. Commit all, says Tarlton, 
+                  for it be past one o’clock, it will not ten this eight hours. One of the watchmen lifts up his lantern, and looks him in the face, and knew him. 
+                  Indeed Mr. Tarlton you have more wit then we all do, for it is true that ten was before one, but now one is before ten. 
+                  It is true, said Tarlton, Watchmen don’t have more wit, but for want of sleep they are turned into fools. 
+                  So, Tarlton stole from them and the watchmen that seemed wise went home to bed.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR13">
+            <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+            <div type="old">
+               <head><title><objectName type="intangible">Tarltons answere</objectName> to a <persName type="royalty">Courtier</persName>.</title></head>
+               <ab><persName type="man">TArlton</persName> being at the <placeName type= "court">Court</placeName> all night, in the morning he met a great <persName type="royalty">Courtier</persName>
+                  comming from his <placeName type="court">Chamber</placeName>, who espying <persName type="man">Tarlton</persName>, said: Good morrow <orgName type="nickname">Master Didimus
+                  and Tridimus</orgName>: <persName type = "man">Tarlton</persName> being somewhat <trait type="feeling"><desc>abashed</desc></trait>, not knowing the meaning thereof,
+                  sayd: Sir, I vnderstand you not, expound I pray you: quoth the <persName type="royalty">Courtier</persName> <orgName type="nickname">Didimus
+                     and Tridimus</orgName>, is a <trait type="characterization"><desc>foole</desc></trait> and a <trait type="characterization"><desc>knaue</desc></trait>: you ouer-load me replyed <persName type="man">Tarlton</persName>, for my
+                  <objectName type="body_part">backe</objectName> cannot beare both, therefore take you the one, and I will take the other:
+                  take you the <trait type="characterization"><desc>knaue</desc></trait>, and I will carry the <trait type="characterization"><desc>foole</desc></trait> with me.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE_MODERNIZED</title></head>
+               <ab>
+                  After being at the Court all night, Tarlton met a great Courtier coming from his Chamber in the morning. 
+                  The Courtier said “Good morning Master Didimus and Tridimus”. Tarlton being somewhat abashed, not knowing the meaning of his remark, 
+                  said “Sir, I do not understand you, expound I pray you”. The Courtuer said Didimus and Tridimus is a fool and a knave. 
+                  You overload me Tarlton replyed, for my back cannot bear both. Therefore you take one, and I will take the other. 
+                  You take the knave, and I will carry the fool with me. 
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR14">
+            <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+            <div type="old">
+               <head><title><persName type="man">Tarltons</persName> quipe for a <state type="age"><desc>yong</desc></state> <persName type="royalty"> Courtier</persName>.</title></head>
+               <ab>THere was a <state type="age"><desc>yong</desc></state> <persName type="man"> Gentleman</persName> in the <placeName type="place">Court</placeName>, that had first lyen with the <persName type="family_role">Mother</persName>,
+                  and after with the <persName type="family_role">Daughter</persName>, and hauing so done, asked <persName type="man">Tarlton</persName> what it
+                  resembled: quoth he, as if you should first haue eaten the <objectName type="animal">Hen</objectName>, and after the
+                  <objectName type="animal">Chicken</objectName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE_MODERNIZED</title></head>
+               <ab>
+                  There was a young Gentlemen in the Court, that has first laid with the Mother, 
+                  and after with the daughter, and having done so, asked Tarlton what is resembled. 
+                  He said if you should first have eaten the Hen, and after the Chicken. 
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="jest" xml:id="COUR15">
+            <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+            <div type="old">
+               <head><title><persName type="primary">Tarltons</persName> answere to a <persName
+                        type="man">Noblemans</persName> question.</title></head>
+               <ab>THere was a <persName type="man">Nobleman</persName> that asked <persName
+                     type="primary">Tarlton</persName> what he thought of <persName type="men"
+                     >Souldiers</persName> in time of peace? Marry quoth he, they are like
+                     <objectName type="building">Chimneyes</objectName> in Summer.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>There was a nobleman that asked Tarlton what he thought of soldiers in time of
+                  peace? He says, they are like chimneys in summer.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR16">
+            <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+            <div type="old">
+               <head><title><persName type="primary">Tarltons</persName> Iest to an vnthriftie
+                        <persName type="court">Courtier</persName>.</title></head>
+               <ab>THere was an vnthriftie <persName type="court">Gallant</persName> belonging to
+                  the <orgName type="court">Court</orgName> that had borrowed <objectName
+                     type="value">fiue pounds</objectName> of <persName type="primary"
+                     >Tarlton</persName>, but hauing lost it at <placeName type="city"
+                     >Dice</placeName>, hee sent his man to <persName type="primary"
+                     >Tarlton</persName> to borrow <objectName type="value">fiue pounds</objectName>
+                  more, by the same <objectName type="value">token</objectName> he owed him already
+                     <objectName type="value">fiue pounds</objectName>: pray tell <persName
+                     type="man">your Master</persName>, quoth <persName type="primary"
+                     >Tarlton</persName>, that if he will send me the <objectName type="value"
+                     >token</objectName>, I will send him the <objectName type="value"
+                     >money</objectName>: for who deceiues me once, <persName type="god"
+                     >God</persName> forgiue him: If twice, <persName type="god">God</persName>
+                  forgiue him: but if thrice, <persName type="god">God</persName> forgiue him, but
+                  not me, because I could not beware.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>There was a deadbeat Gallant belonging to the Court that had borrowed five pounds
+                  from Tarlton, but having lost it at Dice, he sent his man to Tarlton to borrow
+                  five pounds more, already owing him five pounds: tell your master, says Tarlton,
+                  that if he will send me the token, I will send him the money: someone who deceives
+                  me once, god forgive him: If twice, god forgive him: but three times, god forgive
+                  him, but not me, because I could not beware.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR17">
+            <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="primary">Tarlton</persName> flouted two <persName
+                        type="court">Gallants</persName>.</title></head>
+               <ab><persName type="primary">TArlton</persName> being in a <state type="anger">mery
+                     vaine</state>, as he walked in the <placeName type="city">great Hall in
+                     Gréenwitch</placeName>, he met my <persName type="man">old Lord
+                     Chamberlain</persName>, going betwéene two fantasticke
+                     <persName>gallants</persName>, &amp; cryed aloud vnto him, <persName type="man"
+                     >my Lord</persName>, <persName type="man">my Lord</persName>, you goe in <state
+                     type="danger">great danger</state>: whereat amazed, hee askt whereof: of
+                  drowning (quoth <persName type="primary">Tarlton</persName> ) were it not for
+                  those two bladders vnder ech of your <objectName type="body"
+                  >armes</objectName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>Tarlton being in a bad mood, as he walked in the great hall in Greenwitch, he met
+                  my old Lord Chamberlain, going between two fantastic gallants, and cryed aloud
+                  onto him, my lord, my lord, you go in great danger: amazed, he asked where: if not
+                  for those two blades under each of your arms.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+
+         <!-- The following jest appears in the City section -->
+
+         <div type="jest" xml:id="CITY01">
+            <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+            <div type="old">
+               <head><title><persName type="primary">Tarltons</persName> Iest of a red <objectName
+                        type="body">face</objectName>.</title></head>
+               <ab>T O an Ordinary in the <orgName type="friers">White Friers</orgName>, where
+                  Gentlemen vsed, by reason of extraordinarie dyet, to this <persName type="primary"
+                     >Tarlton</persName> often frequented, as well to continue acquaintance, as to
+                  please his appetite: it chanced so vpon a time (especially) being set amongst the
+                  Gentlemen and Gallants, they enquired of him why <state type="sad"
+                     >melancholy</state> had got the vpper-hand of his mirth, to which he said
+                  little, but with a squint <objectName type="body">eie</objectName>, as custom had
+                  made him <trait>hare▪ eied</trait>, he lookt for a Iest to make them <state
+                     type="happy">merry</state>; at last he espyed one that sate on his left side,
+                  which had a <trait type="color">very red</trait>
+                  <objectName type="body">face</objectName>, hee being a <state type="great">very
+                     great</state> Gentleman (which was all one to <persName type="man"
+                     >Tarlton</persName> ) he presently in great hast called <persName type="man"
+                     >his Hoast</persName>: who do I serue my <persName type="man">Hoast</persName>?
+                  quoth <persName type="primary">Tarlton</persName>, the <persName type="woman"
+                     >Quéenes Maiestie</persName>, replied the good man of the house: how happens it
+                  then quoth <persName type="primary">Tarlton</persName>, that to her <persName
+                     type="woman">Maiesties</persName> disgrace, you dare make me a companion with
+                     <persName type="man">Seruingmen</persName>, clapping my <persName type="man"
+                     >Lord Shandoyes Cullisance</persName> vpon my sléeue, looking at the Gentleman
+                  with the <trait type="color">red</trait>
+                  <objectName type="body">face</objectName>, me thinks quoth he, it sits like the
+                  Sarazens <objectName type="body">head</objectName> without Newgate: the Gentlemans
+                  Salamanders face <trait type="color">burnt</trait>▪ like Aetna for <state
+                     type="anger">anger</state>, the rest laughed <state type="happy"
+                     >heartily</state>: in the end all <state type="anger">inraged</state>, the
+                  Gentleman swore to fight with him at the next méeting.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>To an ordinary in the White Friers, where gentlemen used, by reason of
+                  extraordinaire diet, to this Tarlton often frequented, as well to continue
+                  acquaintance, as to please his appetite: it chanced so upon a time (especially)
+                  being set amongst the gentlemen and gallants, they asked him why sadness overtook
+                  his happiness, to which he said little, but squinting, he looked for a jest to
+                  make them happy; at last he found one on his left side, which had a very red face,
+                  he being a very great gentleman he presently in great confidence called his host:
+                  who I serve as my host? Tarlton said, the Queen’s Majesty, replied the good man of
+                  the house: how is that Tarlton says, to her Majesties disgrace, you dare make me a
+                  companion with servingmen, clapping my Lord Shandoyes upon my sleeve, looking at
+                  the gentleman with the red face, he says, it sits like the Sarazens head without
+                  Newgate: the Getlemans Salamanders face burnt like Aetna for anger, the rest
+                  laughed: in the end all enraged, the gentleman swore to fight him at the next
+                  meeting. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY11">
+            <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+            <div type="old">
+               <head><title>One asked <persName type="Tarleton">Tarlton</persName> what <persName>Country man</persName> the <persName>Devil</persName> was.</title></head>
+               <ab>IN <placeName>Carter-lane</placeName> dwelt a <persName>mery Cobler</persName>, who being in <orgName>company</orgName> with <persName>Tarlton</persName>, asked
+                  him what <persName>Country man</persName> the <persName>devil</persName> was: quoth <persName type="Tarleton">Tarlton</persName>, a <state><desc>Spaniard</desc></state>; for <orgName>Spaniards</orgName>
+                  like the <persName>Devil</persName>, trouble the <placeName>whole world</placeName>.</ab>
+            </div>
+            <div type="modern">
+             
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY12">
+            <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+            <div type="old">
+               <head><title>A <orgName type="job">Cheese-mongers</orgName> question to <persName type="Tarlton">Tarlton</persName>.</title></head>
+               <ab>IN the time of <state><desc>Scarsity</desc></state>, a simple <persName type="job">Chéesemonger</persName> hearing <persName>Tarlton</persName> commended for
+                  his quick wit, came onto him, and asked him why he thought <objectName type= "food">Cheese</objectName> and <objectName type= "food">Butter</objectName> to
+                  be so dear: <persName type="Tarlton">Tarlton</persName> answered, because <objectName type="fuel">Wood</objectName> and <objectName type = "fuel">Cole</objectName> are so dear, for <objectName type = "food"></objectName>Butter
+                  and <objectName type = "food">Cheese</objectName> a <persName>man</persName> may eat without a <objectName type= "fuel">fire</objectName>.</ab>
+            </div>
+            <div type="modern">
+               
+               <ab> 
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY13">
+            <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+            <div type="old">
+               <head><title><persName type = "Tarlton">Tarltons</persName> answer to a <persName type="notnamedperson'">rich Londiner</persName>.</title></head>
+               <ab><persName type = "Tarlton"> Tarlton</persName> meeting a <persName>rich Londiner</persName>, fell into talk about the <persName type="personOfPower">Bishop of
+                  Peterborough</persName>, <trait><desc type="positiveTrait">highly praising</desc></trait>▪ his bounty to his <orgName>servants</orgName>, his liberality to
+                  <orgName>strangers</orgName>, his <trait><desc>great Hospitalitie</desc></trait> and Charitie to the <orgName>poore</orgName>. He doth well sayes
+                  the rich man, for what he has is his but during his life. Why said <persName type="Tarlton">Tarlton</persName>,
+                  for how many lies have you about your <objectName>goods</objectName>?</ab>
+            </div>
+            <div type="modern">
+               
+               <ab> </ab>
+            <div type="endnote" >
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY14">
+            <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="Tarlton">Tarlton</persName> gave away his <objectName>dinner</objectName>.</title></head>
+               <ab>As <persName>Tarlton</persName> and his <persName type = "notnamedperson">wife</persName> sat at dinner, his <persName>wife</persName> being <state><desc>displeased</desc></state> with him,
+                  and thinking to cross him, she gave away half of his <objectName>meat</objectName> to a poor
+                  <persName>Beggar</persName>, saying, take this for my <persName>other husbands</persName> sake. Whereupon <persName type ="Tarlton">Tarlton</persName> took
+                  all that was left, and likewise bad the <persName type="notnamedperson">poor fellow</persName> to pray for his other
+                  <persName>wifes</persName> soule.</ab>
+            </div>
+            <div type="modern">
+          
+               <ab></ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY15">
+            <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+            <div type="old">
+               <head><title><persName type="Tarlton">Tarltons</persName> answer to a <persName>Boy</persName> in Rhyme.</title></head>
+               <ab>There was a rogue <persName type = "Notnamedperson">Boy</persName>, meeting <persName type="Tarlton">Tarlton</persName> in <placeName type="street">London stréet</placeName>, sung this rime
+                  into <persName type="Tarlton">Tarlton</persName>.</ab>
+               <lg>
+                  <l>Woe worth thee <persName type ="Tarlton">Tarlton</persName>,</l>
+                  <l>That ever though was born:</l>
+                  <l>Thy <persName type = "notnamedperson" >wife</persName> has made the Cuckold,</l>
+               <l>And must wear the <objectName>horn</objectName>.</l>
+               </lg>
+               <ab><persName>Tarlton</persName> presently answered him in <state><desc>Extempory</desc></state>.</ab>
+               <lg>
+                  <l>What  if I be (<persName type = "notnamedperson">Boy</persName>)</l>
+                  <l>I am near the <state type = "negativeState"><desc>worse</desc></state>:</l>
+                  <l>She keeps me like a <persName type = "notnamedperson">Gentleman</persName>,</l>
+                  <l>With <objectName>money</objectName> in my <objectName>purse</objectName>.</l>
+               </lg>
+            </div>
+            <div type="modern">
+              
+               <ab>
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div></div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN21">
+            <byline resp="#SCHM1"><persName>Caleb Schmidt</persName></byline>
+            <div type="old">
+               <head><title>How <persName>Tarlton</persName> and his oastesse of <persName>Waltham</persName> met.</title></head>
+               <ab><persName type="Person">Tarlton</persName>, riding with divers cittizens, his friends, to make merry at <placeName type="town">Waltham</placeName>,
+                  by the way he met with his <placeName type="town">oastesse</placeName>, riding toward <placeName type="city">London</placeName>, whome hee of old
+                  acquaintance saluted. Shee <state><desc>demands</desc></state> whither they went. <persName type="person">Tarlton</persName> told her, to make
+                  merry at <placeName>Waltham</placeName>. Sir, saies shee, then let me request your <orgName>company</orgName> at my
+                  <objectName type="house">house</objectName>, at the <persName>Christopher</persName>, and, for <trait><desc>old familiarity</desc></trait>, spend your <objectName type="currency">money</objectName> there.
+                  Not unlesse you goe backe, saies <persName>Tarlton</persName>. We will else goe to the <objectName type="animal">Hound</objectName>. But
+                  she, loth to lose their <objectName>custome</objectName>, sent to <placeName>London</placeName> by her man, and goes back with
+                  them ; who by the way had much mirth, for she was an exceeding <state><desc type="trait">merry honest</desc></state>
+                  woman, yet would take anything : which <persName type="person">Tarlton</persName> <desc>hearing</desc>, as wise as he was,
+                  thinking her of his <state><desc>minde</desc></state>, he was deceived : yet he askt her if the <objectName type="furniture">biggest bed
+                  in her house</objectName> were able to hold two of their bignesse ; meaning <orgName>himself and her</orgName>.
+                  Yes, saies she, and tumble up and downe at <state><desc>pleasure</desc></state>. Yea, one upon another,
+                  saies <persName>Tarlton</persName>. And under, to, saies she. Well, to have their custome, she
+                  agreed to everything, like a <desc>subtill</desc> oastesse : and it fell so out that
+                  <persName type="person">Tarlton</persName>, having her in a <objectName type="house">roome</objectName> at her house, askt her which of those two beds
+                  were big enough for them two. This, said she : therefore, goe to <objectName>bed</objectName>,
+                  <state><desc> type="trait">sweet-heart</desc></state>, Ile come to thee. <persName>Masse</persName>, saies <persName>Tarlton</persName>, were my bootes off, I
+                  would, indeed. Ile help you, sir, saies she, if you please. Yea, thought
+                  Tarlton, is the wind in that <objectName>doore</objectName>? Come on, then. And she very diligently
+                  begins to pull, till one <objectName>boot</objectName> was half off. Now, saies she, this being hard to
+                  doe, let me try my cunning on the other, and so get off both. But, having both
+                  half off his legs, she left. him alone in the <orgName type="clothing">shoemakers</orgName> stocks, and got her to
+                  <placeName type="city">London</placeName>, where <persName type="person">Tarlton</persName> was three houres, and had no help. But, being eas'd of
+                  his paine, he made this ryme for a theame, <trait><desc>singing</desc></trait> of it all the way to <placeName>London</placeName>
+                  :-</ab>
+               <lg>
+                  <l>Women are wanton, and hold it no sinne,</l>
+                  <l>By tricks and devices to pull a man in.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>How Tarlton and the Hostess of Waltham met</title></head>
+               <ab>Tarlton rode along with friends, and citizens to make merry to Waltham. On the
+                  way he met his hostess while riding toward London, to which some of his old
+                  acquaintances were saluted. The Hostess where Tarlton was going. Tarlton told her
+                  to come to Waltham, and requested company Christopher Marlowe’s house. Tarlton do
+                  not go and spend your money, not unless we go back to the hound. She lost their
+                  customs, and was sent back to London by her man who was sent to go back with them.
+                  She was an exceeding and very honest woman, and would do anything, which Tarlton
+                  heard as wise as she was, thinking of her mind. He was deceived, yet he asked her
+                  if the biggest bed in her house was able to fit them. Meaning himself and her, yes
+                  she says and tumble up down at pleasure. Yea one under another says Tarlton, under
+                  she says. She agreed to everything like a subtil hostess, and it fell out so that
+                  Tarlton, having her in a room in her house, asked her which of those two beds were
+                  big enough for them two. This being said she therefore went to be, sweetheart come
+                  to thee. Masse says Tarlton my boots were off, I would indeed. I will help you sir
+                  , if you please. Yeah, thought Tarlton is the wind in that door? Come on, then.
+                  And she very diligently began to pull, til one boot was half off. Now says she,
+                  this being hard to be done, let me try cunning on the other and so get both off.
+                  But, having both off his legs she left him at the shoemakers. She then went to
+                  london where Tarlton was three hours way, and he had no help. But being eased off
+                  his pain, he made this rhyme for a theme. Singing it all the way to London. Women
+                  are wanton, and hold it no sinne, By tricks and devices to pull a man in. </ab>
+               <ab>Tarlton rode with a group of friends, and citizens to go to Waltham, courtesy of
+                  his Hostess while riding toward London.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

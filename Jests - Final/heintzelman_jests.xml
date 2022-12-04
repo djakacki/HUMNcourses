@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY05">
+            <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="Tarlton">Tarlton</persName> and one in the <placeName type="playhouse">Gallerie</placeName> fell out.</title></head>
+               <ab>IT chanced that in the midst of a Play, after long expectation for <persName type="Tarlton">Tarlton</persName>,
+                  (being much desired of the <orgName type="gathering">people</orgName>) at length he came forth: where at his
+                  entrance, one in the <placeName type="playhouse">gallerie</placeName> pointed his <objectName type="body">finger</objectName> at him, 
+                  saying to a <persName type="other">friend</persName>
+                  that had neuer séene him, that is he: <persName type="Tarlton">Tarlton</persName> to make sport at the least
+                  occasion giuen him, and séeing the <persName type="other">man</persName> point with one <objectName type="body">finger</objectName>, he 
+                  in loue againe
+                  held vp two <objectName type="body">fingers</objectName>: the <trait type="personality"><desc>captious</desc></trait> fellow 
+                  <state type="emotion"><desc>iealous</desc></state> of his <persName type="other">wife</persName> (for he was
+                  <state type="marital"><desc>maried</desc></state>) and because a <persName type="performer">Player</persName> did it, tooke the matter more hainously, and askt
+                  him why hee made <objectName type="body">Hornes</objectName> at him: No quoth Tarlton, they be <objectName type="body">fingers</objectName>:</ab>
+               <lg>
+                  <l>For there is no <persName type="other">man</persName> which in loue to mee</l>
+                  <l>Lends me one <objectName type="body">finger</objectName>, but he shall haue three.</l>
+               </lg>
+               <ab>No, no, sayes the <persName type="other">fellow</persName>, you gaue me the <objectName type="body">hornes</objectName>: <state type="verity"><desc>true</desc></state> saies <persName type="Tarlton">Tarlton</persName>, for my
+                  <objectName type="body">fingers</objectName> are <state type="physical"><desc>tipt</desc></state> with <objectName type="body">nailes</objectName> which are like <objectName type="body">hornes</objectName>, 
+                  and I must make a <objectName type="spectacle">shew</objectName> of
+                  that which you are <state type="surety"><desc>sure</desc></state> of: this matter grew so, that the more he medled, the
+                  more it was for his disgrace: wherefore the <orgName type="gathering">standers</orgName> by counselled him to
+                  depart, both he and his <objectName type="body">hornes</objectName>, lest his cause grew 
+                  <state type="desperation"><desc>desperate</desc></state>: so the <state type="goodness"><desc>poore</desc></state>
+                  <persName type="other">fellow</persName> plucking his <objectName type="clothing">Hat</objectName> ouer his <objectName type="body">eyes</objectName>, went his wayes.</ab>
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="Tarlton">Tarlton</persName> and One in the <placeName type="playhouse">Gallery</placeName> Fell Out.</title></head>
+               <ab>
+                  It happened in the middle of a play, when the <orgName type="gathering">audience</orgName> was waiting expectantly for <persName type="Tarlton">Tarlton</persName> to appear,
+                  he finally came forth.  
+                  When he entered, one in the <placeName type="playhouse">gallery</placeName> pointed his <objectName type="body">finger</objectName> 
+                  at him and, turning to a <persName type="other">friend</persName> who had never seen <persName type="Tarlton">Tarlton</persName>, explained who it was.
+                  <persName type="Tarlton">Tarlton</persName>, who was eager to make a joke at any opportunity, saw the <persName type="other">man</persName>
+                  point with one <objectName type="body">finger</objectName>, and he in turn held up two <objectName type="body">fingers</objectName>.  
+                  The <trait type="personality"><desc>captious</desc></trait> man, who was <state type="marital"><desc>married</desc></state> and 
+                  <state type="emotion"><desc>jealous</desc></state> of his <persName type="other">wife</persName>, took offense to <persName type="Tarlton">Tarlton</persName>’s action, especially because he was a prominent
+                  <persName type="performer">player</persName>.  He asked <persName type="Tarlton">Tarlton</persName> why he made 
+                  <objectName type="body">horns</objectName> at him, and <persName type="Tarlton">Tarlton</persName> replied, “No, they are <objectName type="body">fingers</objectName>, for there is no <persName type="other">man</persName> 
+                  who will show me a
+                  <objectName type="body">finger</objectName> without me returning the gesture.”
+                  “No, no,” says the <persName type="other">man</persName>, “you gave me the <objectName type="body">horns</objectName>.”
+                  “<state type="verity"><desc>True</desc></state>,” says <persName type="Tarlton">Tarlton</persName>, “for my <objectName type="body">fingers</objectName> are tipped with <objectName type="body">nails</objectName>, which are like
+                  <objectName type="body">horns</objectName>, and I must make a <objectName type="spectacle">show</objectName> of you.” 
+                  The matter grew so that the more the <persName type="other">man</persName> meddled, the more he was disgraced.  The other 
+                  <orgName type="gathering">bystanders</orgName> told him to give up and leave 
+                  before his cause grew more <state type="desperation"><desc>desperate</desc></state>, so the <persName type="other">man</persName> 
+                  pulled his <objectName type="clothing">hat</objectName> over his <objectName type="body">eyes</objectName> and left.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY06">
+            <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+            <div type="old">
+               <head><title>How <orgName type="troupe">Fiddlers</orgName> fidled away <persName type="Tarlton">Tarltons</persName> <objectName type="clothing">apparell</objectName>.</title></head>
+               <ab>IT chanced that one <persName type="performer">Fancie and Nancie</persName>, a <persName type="performer">Musition</persName> in
+                  <placeName type="city">London</placeName>, vsed often with
+                  their <orgName type="friendGroup">Boyes</orgName> to visite <persName type="Tarlton">Tarlton</persName>, when he dwelt in
+                  <placeName type="street">Gracious-stréet</placeName>, at the <objectName type="marking">signe</objectName>
+                  of the <placeName type="tavern">Saba</placeName>, a <placeName type="tavern">Tauern</placeName> he being one of their 
+                  <state type="goodness"><desc>best</desc></state> <orgName type="friendGroup">friends</orgName> or 
+                  <orgName type="monetary">benefactors</orgName>, by
+                  reason of <trait type="age"><desc>old</desc></trait> acquaintance: to requite which, they came one summers morning to
+                  play him the Hunts' vp with such <objectName type="entertainment">Musicke</objectName> as they had: <placeName>Tarlton</placeName>, 
+                  to requite them
+                  would open his <objectName type="furniture">Chamber doore</objectName>, and for their <objectName type="abstract">paines</objectName> 
+                  would giue them <objectName type="food">Muskadine</objectName>:
+                  which a <persName type="other">Cony-catcher</persName> noting, and séeing <persName type="Tarlton">Tarlton</persName> come foorth in his
+                  <objectName type="clothing">shirt</objectName> and
+                  <objectName type="clothing">night-gowne</objectName> to drinke with these <orgName type="troupe">Musitions</orgName>, the while this 
+                  <trait type="physical"><desc>nimble</desc></trait> <persName type="other">fellow</persName> stept
+                  in, and tooke <persName type="Tarlton">Tarltons</persName> <objectName type="clothing">apparell</objectName> which euery day he wore,
+                  thinking that if he
+                  were espied to turne it to a <objectName type="entertainment">iest</objectName>, but it past for <state type="time"><desc>currant</desc></state> and he goes his
+                  waies: Not long after <persName type="Tarlton">Tarlton</persName> returned to his <placeName type="room">Chamber</placeName>, and
+                  looked for his
+                  <objectName type="clothing">clothes</objectName>, but they were <state type="safety"><desc>safe</desc></state> enough from him. 
+                  The next day this was noysed
+                  abroad, and <persName type="other">one</persName> in the <orgName type="gathering">mockage</orgName> threw him this 
+                  <objectName type="abstract">Theam</objectName>, he playing then at the
+                  <placeName type="playhouse">Curtaine</placeName>.</ab>
+               <lg>
+                  <l><persName type="Tarlton">Tarlton</persName> I will tell thee a <objectName type="entertainment">iest</objectName>,</l>
+                  <l>Which after turned to <state type="honesty"><desc>earnest</desc></state>:</l>
+                  <l>One there was as I heard say,</l>
+                  <l>Who in his <objectName type="clothing">shirt</objectName> heard <objectName type="entertainment">Musicke</objectName> play,</l>
+                  <l>While all his <objectName type="clothing">clothes</objectName> were <state type="ownership"><desc>stolne</desc></state> away.</l>
+               </lg>
+               <ab><persName type="Tarlton">Tarlton</persName> smiling at this, answered on the sudden thus:</ab>
+               <lg>
+                  <l>That's certaine, <persName type="other">Sir</persName>, it is no lye,</l>
+                  <l>That same one in truth was I:</l>
+                  <l>When that the <persName type="other">theefe</persName> shall pine and lacke,</l>
+                  <l>Then shall I haue <objectName type="clothing">cloathes</objectName> to my <objectName type="body">backe</objectName>:</l>
+                  <l>And I together with my <orgName type="friendGroup">fellowes</orgName>,</l>
+                  <l>May see him ride to <placeName type="penal">Tiburne Gallowes</placeName>.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>How <orgName type="troupe">Fiddlers</orgName> Fiddled Away <persName type="Tarlton">Tarlton</persName>’s <objectName type="clothing">Apparel</objectName>.</title></head>
+               <ab>
+               It happened that one <persName type="performers">Fancy and Nancy</persName>, a group of <orgName type="troupe">musicians</orgName> in 
+                  <placeName type="city">London</placeName>, would come with their <orgName type="friendGroup">friends</orgName> to visit 
+                  <persName type="Tarlton">Tarlton</persName>, 
+               who was one of their <trait type="age"><desc>oldest</desc></trait> <orgName type="friendGroup">friends</orgName> and 
+                  <orgName type="monetary">benefactors</orgName>.  At this time, <persName type="Tarlton">Tarlton</persName> lived at a 
+                  <placeName type="tavern">tavern</placeName> on <placeName type="street">Gracious Street</placeName> called the 
+                  <placeName type="tavern">Saba</placeName>,
+               and the <orgName type="troupe">musicians</orgName> came by one summer morning to play a <objectName type="music">song</objectName> and
+                  wake up <persName type="Tarlton">Tarlton</persName>.  In recognition of their <objectName type="abstract">efforts</objectName>, <persName type="Tarlton">Tarlton</persName> opened his 
+               <objectName type="furniture">bedroom door</objectName> and gave them <objectName type="food">muscadine</objectName>.  
+                  A <persName type="other">thief</persName> watched this and noticed that <persName type="Tarlton">Tarlton</persName> had left his
+                  <placeName type="room">room</placeName> in his <objectName type="clothing">shirt</objectName> and 
+                  <objectName type="clothing">nightgown</objectName> to 
+               drink with his <orgName type="friendGroup">friends</orgName>.  The <persName type="other">thief</persName> stepped into 
+                  <persName type="Tarlton">Tarlton</persName>’s <placeName type="room">room</placeName> and took his 
+                  <objectName type="clothing">clothes</objectName>, thinking that if he were caught, he would make 
+               his actions into a <objectName type="entertainment">jest</objectName>, but no one saw him and he went on his way.  
+                  Shortly afterwards, <persName type="Tarlton">Tarlton</persName> returned to his <placeName type="room">room</placeName> and looked 
+               for his <objectName type="clothing">clothes</objectName>, but he could not find them.  The next day, news of this story was spreading, 
+                  and <persName type="other">someone</persName> in the <orgName type="gathering">crowd</orgName> mocked 
+                  <persName type="Tarlton">Tarlton</persName> while he was performing at the <placeName type="playhouse">Curtain</placeName>, saying, 
+               </ab>
+                  <lg>
+                     <l><persName type="Tarlton">Tarlton</persName> I will tell you a <objectName type="entertainment">jest</objectName>,</l>
+                     <l>Which after turned to <state type="honesty"><desc>earnest</desc></state>:</l>
+                     <l>One there was as I heard say,</l>
+                     <l>Who in his <objectName type="clothing">shirt</objectName> heard <objectName type="entertainment">music</objectName> play,</l>
+                     <l>While all his <objectName type="clothing">clothes</objectName> were <state type="ownership"><desc>stolen</desc></state> away.</l>
+                  </lg>
+                  <ab><persName type="Tarlton">Tarlton</persName> smiled and replied by saying,</ab>
+                  <lg>
+                     <l>That's certain, <persName type="other">Sir</persName>, it is no lie,</l>
+                     <l>That same one in truth was I:</l>
+                     <l>When that the <persName type="other">thief</persName> shall pine and lack,</l>
+                     <l>Then shall I have <objectName type="clothing">clothes</objectName> to my <objectName type="body">back</objectName>:</l>
+                     <l>And I together with my <orgName type="friendGroup">fellows</orgName>,</l>
+                     <l>May see him ride to <placeName type="penal">Tiburne Gallows</placeName>.</l>
+                  </lg>
+               
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

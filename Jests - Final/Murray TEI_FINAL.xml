@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN01">
+            <byline resp="#MURR1"><persName>James Murray</persName></byline>
+            <div type="old">
+               <head><title>Tarltons wit betweene a Bird and a Woodcocke.</title></head>
+               <ab>I N <placeName type="city">the Citie of Glocester</placeName>, <persName type="man">Master Bird of the Chappell</persName> met with <persName type="man">Tarlton</persName>, who
+                  <state><desc type="feeling">ioyfull</desc></state> to regréet other, went to visit his <name type="others">friends</name>: amongst the rest, <persName type="man">M. Bird
+                  of the <placeName type="building">Quéens Chappell</placeName></persName> visited <persName type = "man">Master Woodcock</persName> of the <placeName type ="location">Colledge</placeName>, where méeting,
+                  many frindly <name>spéeches</name> past, amongst which, <persName type="man">M. Woodcocke</persName> challenged <persName type="man">M. Bird</persName> of
+                  kin: who mused that he was of his affinitie and hee neuer knew it: yes sayes <persName type="man">M.
+                  Woodcocke</persName>, <persName type="man">euery Woodcocke</persName> is a <orgName type="family">Bird</orgName>, therefore it must néeds be so. <persName type="royalty">Lord, Sir</persName>,
+                  sayes <persName type="man">Tarlton</persName>, you are <trait><desc type="boy">wide</desc></trait>, for though <persName type="man">euery Woodcocke</persName> be a <orgName type="family">Bird</orgName>, yet <persName type="man">euery
+                  Bird</persName> is not a <orgName type="family">Woodcocke</orgName>. So <persName type="man">M. Woodcocke</persName> like a <orgName type="family">Woodcocke</orgName> bit his <objectName type="body">lip</objectName>, and mum
+                  budged was silent.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN02">
+            <byline resp="#MURR1"><persName>James Murray</persName></byline>
+            <div type="old">
+               <head><title>Tarltons Iest of a Gridiron.</title></head>
+               <ab>VVHile the <persName type="royalty">=Quéens</persName> Plaiers <state><desc type="position">lay</desc></state> in <placeName type="city">Worcester Citie</placeName> to get <objectName type="currency">money</objectName>, it was his
+                  custome oft to <state><desc type="action">sing</desc></state> extempory of <name type="art">Theams</name> giuen him: amongst which they were
+                  appoynted to play the next <name type="time">day</name>: now one fellow of <placeName type="city">the City</placeName> amongst the rest,
+                  that séemed quaint of <name>conceit</name>, to lead other <orgName>youths</orgName> with his fine <name>wit</name>, gaue out
+                  that the next <name type="time">day</name> hee would giue him a <name type="art">Theam</name>, to put him to a non plus: diuers
+                  of his friends acquainted with the same, expected some rare conceit: Well, the
+                  next <name type="time">day</name> came, and my gallant gaue him his inuention in two lines, which was
+                  this this:</ab>
+               <lg>
+                  <l>Me thinkes it is a thing vnfit.</l>
+                  <l>To see a Gridiron turne the spit.</l>
+               </lg>
+               <ab>The people laughed at this, <state><desc type="action">thinking</desc></state> his <name>wit</name> knew no answere thereunto, which
+                  angered <persName type="man">Tarlton</persName> excéedingly, and presently with a smile looking about, when
+                  they expected wonders, he put it off thus:</ab>
+               <lg>
+                  <l>Me thinkes it is a thing vnfit,</l>
+                  <l>To see an Asse haue any wit.</l>
+               </lg>
+               <ab><orgName>The people</orgName> hooted for ioy, to sée the <objectName type="art">Theame</objectName>-giuer dasht, who <trait><desc type="comparison">like a dog with
+                  his taile betwéene his legs</desc></trait>, left the place: But such commendations <persName type="man">Tarlton</persName>
+                  got, that hee supt with the Bailiffe that night, where my Theamer durst not
+                  come, although he were sent for, so much he vexed at that vnlookt for
+                  answere.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
