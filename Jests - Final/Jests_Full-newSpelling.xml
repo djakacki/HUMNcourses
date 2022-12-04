@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="section" xml:id="COUR">
+            <head><title>Tarltons Court wittie Iests</title></head>
+            <div type="jest" xml:id="COUR01">
+               <byline resp="#BAZA1"><persName>Riley Bazaar</persName></byline>
+
+               <div type="modern">
+                  <head><title>Tarlton Played the Drunkard Before the Queen</title></head>
+                  <ab>The Queen was not content: Tarlton saw this and took it upon himself to make
+                     her smile. To do so, he acted like a drunk and asked for beer to be brought to
+                     him immediately: The Queen acknowledged and embraced his silly act and
+                     commanded him to not have any more to drink, or else he would truly be a mess!
+                     Tarlton responded to her and told her to not fear, due to the fact that her
+                     beers are small and not impactful to him. To this, the Queen knew he was joking
+                     and laughed, commanding that he should definitely not have any more! </ab>
+               </div>
+
+            </div>
+            <div type="jest" xml:id="COUR02">
+               <byline resp="#BAZA1"><persName/></byline>
+
+               <div type="modern">
+                  <head><title>How Tarlton Deceived teh Watch in Fleet Street</title></head>
+                  <ab>Tarlton was late to Court and when he approached Fleetstreet he saw the
+                     police. He did not know how to pass them and he attempted to go by them very
+                     fast, thinking that he would go unexamined. However, the police took this
+                     action as an act of him completely disregarding their presence and commanded
+                     him (in the Queen's name) to stop. Tarlton acted as if he could not stand, he
+                     fell to the ground as if he was drunk and so they let him pass because he was
+                     intoxicated. </ab>
+               </div>
+
+
+            </div>
+
+            <div type="jest" xml:id="COUR03">
+               <byline resp="#BAZA1"><persName/></byline>
+
+               <div type="modern">
+                  <head><title>How Tarlton Flouted a Lady in the Court</title></head>
+                  <ab>One time, Tarlton was at a banquet at Greenwitch. The Queen was there and had
+                     her ladies there too. One of them had a full face of pimples and she also
+                     refused to drink wine with the other Ladies. Tarlton saw this (and he knew he
+                     was there to entertain), and so he began to make fun of her appearance. The
+                     rest of the ladies laughed, however she was embarrassed and left the banquet.
+                  </ab>
+               </div>
+            </div>
+
+            <div type="jest" xml:id="COUR04">
+               <byline resp="#BAZA1"><persName/></byline>
+
+               <div type="modern">
+                  <head><title>Tarlton's Opinion of Oysters</title></head>
+                  <ab>Certain Noblemen and Ladies were eating Oysters. One of them saw Tarlton and
+                     called for him, asking if he liked Oysters. Tarlton replied, stating no because
+                     they are an ungodly, uncharitable, and unprofitable meat. In response they
+                     asked Tarlton why he thought that, and Tarlton responded by saying that they
+                     are eaten without grace, they are uncharitable because they are inside of a
+                     shell, and they are unprofitable because they must swim in wine. </ab>
+               </div>
+            </div>
+
+            <div type="jest" xml:id="COUR05">
+               <byline resp="#BAZA1"><persName/></byline>
+
+               <div type="modern">
+                  <head><title>Tarlton's Resolution of a Question</title></head>
+                  <ab>A Gentleman asked Tarlton what time he thought the Devil to be most active?
+                     Tarlton's response was, “When the Pope dies, why?”. The Gentlemen replied by
+                     saying that then all of the Devils are active to plague him, because he has
+                     done many people wrong who want him to be plagued by the Devil. </ab>
+               </div>
+            </div>
+
+            <div type="jest" xml:id="COUR06">
+               <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+
+               <div type="modern">
+                  <head><title>How a Parsonage Fell into Tarlton's Hands</title></head>
+                  <ab>The Queen was dining in the Strand at the Lord Treasurers house. The lords
+                     were very eager for her to stay all night, but nothing would convince her.
+                     Tarlton was in his clown costume, being at the dinner, and hearing the sorrow
+                     of the noblemen that she would not stay, he asked the nobles what they would
+                     give him to convince her to stay. The lords promised him anything to perform
+                     it. He said, 'procure me the Shard parsonage. They arranged for the patent to
+                     be drawn up; he put on a parson's gown and a corner cap, and standing upon the
+                     stairs where the Queen would descend, he repeated these words: 'A parson or no
+                     parson? A parson or no parson?' But after she knew what he meant, she not only
+                     stayed all night, but the next day will that he should have possession of a
+                     benefice. A madder parson there never was, for he threatened to turn the bell
+                     metal into lining for his purse - which he did, the parsonage and all, into
+                     ready money</ab>
+               </div>
+            </div>
+
+            <div type="jest" xml:id="COUR07">
+               <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+
+               <div type="modern">
+                  <head><title>How Tarlton Proved Two Gentlewomen Dishonest by Their Own
+                        Words</title></head>
+                  <ab>Tarlton seeing in Greenwich two gentlewomen in the garden together, to make
+                     myrth, comes to them and enquires thus: 'Gentlemwomen, which of you two is the
+                     more honest?' 'I', says the one, 'I hope without exceptions.' 'And I', quoth
+                     the other, 'since we must speak of ourselves.' 'So then,' says Tarlton, 'one of
+                     you by your own words is dishonest, one being more honest than the other, else
+                     you would answer othersie. But as I found you, so I leave you.'</ab>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR08">
+               <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+
+               <div type="modern">
+                  <head><title>How Tarlton Answered a Wanton Gentlewoman</title></head>
+                  <ab>A Gentlewoman merrily disposed, being crossed by Tarlton and half angry, said
+                     'Sirra, a little thing would make me requite you with a cuff.' 'With a cuff,
+                     lady,' says Tarlton. 'So would you spell my sorrow forward, but spell my sorrow
+                     backward, then cuff me and spare not?' When the gentlemen who were near
+                     considered the word, their laughing made the simple-meaning gentlewoman to
+                     blush for shame</ab>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR09">
+               <byline resp="#BEAR1"><persName>Haley Beardsley</persName></byline>
+
+               <div type="modern">
+                  <head><title>How Tarlton Dared a Lady</title></head>
+                  <ab>At the dinner in the great chamber where Tarlton jested, the ladies were
+                     daring one another. Quoth one, 'I have always done things that is honest and honorable.' 'A
+                     French crown of that,' says Tarlton. 'Ten pounds of that,' says the lady.
+                     'Done,' says one. 'Done,' says another. Tarlton put a two-pence between his
+                     lips, and dared her to take it away with her lips. 'Fie,' says she, 'That is
+                     immodesty.' 'What, to kiss?' says Tarlton. 'Then immodesty bears a great hand
+                     over all. But once in your life say you have been beaten at your own weapon.'
+                     'Well, sir,' says she. 'You may say anything.' 'Then says Tarlton, 'remember I
+                     say you dare not, and so my wager is good.'</ab>
+               </div>
+            </div>
+
+            <div type="jest" xml:id="COUR10">
+               <byline resp="#BROO1"><persName>Aden Brooks</persName></byline>
+ 
+               <div type="modern">
+                  <head><title>How <persName type="man">Tarlton</persName> landed at <placeName type="location">Cuckolds Haven</placeName></title></head>
+                  <ab> One <name type="day">Sunday</name>, <persName type="man">Tarlton</persName>
+                     spent the day at <placeName type="location">court</placeName>. With the help of a
+                     <objectName type="boat">pair of oars</objectName>, he left during the <name
+                        type="time">night</name>. <persName type="man">Tarlton</persName> was <trait>
+                           <desc type="action">drinking</desc>
+                        </trait>
+                     <objectName type="beverage">alcohol</objectName> and the <orgName type="men"
+                        >Watermen</orgName> were also <state>
+                           <desc type="drunk">drunk</desc>
+                        </state>, for the most part. Finally, they <trait>
+                           <desc type="action">left</desc>
+                        </trait>
+                     <placeName type="location">Greenwich</placeName> at low tide. The <orgName
+                        type="men">Watermen</orgName> became <state>
+                           <desc type="afriad">afraid</desc>
+                        </state> of the <objectName type="cable">cables</objectName> by the <placeName
+                           type="location">Lime-house</placeName>. It was <trait>
+                              <desc type="lighting">very dark</desc>
+                           </trait> and <name type="time">late</name>, and <persName type="man"
+                              >Tarlton</persName>
+                     <trait>
+                        <desc type="action">arrived</desc>
+                     </trait> at <placeName type="location">Cuckold’s-haven</placeName>. The <orgName
+                        type="men">Watermen</orgName> told him they would tell him why they were there
+                     the <name type="time">following day</name>. <persName type="man"
+                        >Tarlton</persName> wanted to <trait>
+                           <desc type="action">walk</desc>
+                        </trait> to <placeName type="location">Redriffe</placeName>. He <trait>
+                           <desc type="action">walked</desc>
+                        </trait> through the <state>
+                           <desc type="dirty">dirty</desc>
+                        </state>
+                     <objectName type="water">bank of water</objectName>, which was up to his
+                     <objectName type="body">knees</objectName>. When he came back <placeName
+                        type="location">home</placeName>, he had one of his boys help him <trait>
+                           <desc type="action">take off</desc>
+                        </trait> his <objectName type="apparel">boots</objectName>. His <objectName
+                           type="apparel">socks</objectName> were <trait>
+                              <desc type="color">stained</desc>
+                           </trait> a different color because of the <trait>
+                              <desc type="dirty">dirty</desc>
+                           </trait>
+                     <objectName type="water">water</objectName> he <trait>
+                        <desc type="action">walked</desc>
+                     </trait> through. One of the men asked him about this <name type="time">the next
+                        day.</name> “<persName type="man">Tarlton</persName>, please <trait>
+                           <desc type="action">tell</desc>
+                        </trait> me as I would like to know, did you go to <placeName type="location"
+                           >Cuckold’s-haven</placeName>?” <persName type="man">Tarlton</persName>
+                     <state>
+                        <desc type="action">answered</desc>
+                     </state>: “Yes sir, and I was respectful.” </ab>
+               </div>
+
+            </div>
+            <div type="jest" xml:id="COUR11">
+               <byline resp="#BROO1"><persName>Aden Brooks</persName></byline>
+
+               <div type="modern">
+                  <head><title>The Fight Between Tarlton and Black Davie</title></head>
+                  <ab>Not long ago, lived a <state>
+                     <desc type="confidence">boaster</desc>
+                  </state> named <persName type="man_two">Black Davie</persName> who would <name
+                     type="sport">fence</name> with any gentleman for <objectName type="currency"
+                        >money</objectName>. He was hired to draw upon <persName type="man"
+                           >Tarlton</persName>, for breaking a jest upon <persName type="woman"
+                              >Kate</persName>, a “punk” men called her. One evening <persName type="man"
+                                 >Tarlton</persName> arrived at the <placeName type="location">court
+                                    gate</placeName> at <placeName type="location">Whitehall</placeName>. He walked
+                     toward the <placeName type="location">Tilt-yard</placeName> and <persName
+                        type="man_two">Davie</persName> immediately drew upon <persName type="man"
+                           >Tarlton</persName>, who although he was <state>
+                              <desc type="awe">amazed</desc>
+                           </state>, <trait>
+                              <desc type="action">fought</desc>
+                           </trait> back. <persName type="man">Tarlton</persName>
+                     <state>
+                        <desc type="brave">couragiously</desc>
+                     </state> took him in his <objectName type="body">arms</objectName> and <state>
+                        <desc type="action">threw</desc>
+                     </state> him into the <placeName type="location">Tilt-yard</placeName>. <persName
+                        type="man_two">Davie</persName>
+                     <state>
+                        <desc type="action">fell</desc>
+                     </state> on his <objectName type="body">nose</objectName>, and <trait>
+                        <desc type="broken">broke</desc>
+                     </trait> it. <persName type="man_two">Davie</persName> spent all <name type="time"
+                        >night</name>
+                     <trait>
+                        <desc type="action">laying</desc>
+                     </trait> in the <placeName type="location">Tilt-yard</placeName>, <state>
+                        <desc type="action">waiting</desc>
+                     </state> for the <objectName type="door">doors</objectName> to <trait>
+                        <desc type="action">open</desc>
+                     </trait>. The <orgName type="group">Barber surgeons</orgName> told him what
+                     happened, since <persName type="man">Tarlton</persName> was at a <placeName
+                        type="location">taverne</placeName> with Cockatrice huffing <persName
+                           type="woman">Kate</persName>. <persName type="man">Tarlton</persName> asked for
+                     <objectName type="alcohol">wine</objectName>, but she told him that he would <trait>
+                        <desc type="burn">burn</desc>
+                     </trait> without it so she would not <trait>
+                        <desc type="action">drink</desc>
+                     </trait> it. He then <trait>
+                        <desc type="action">answered</desc>
+                     </trait>, “how shall I be burned, as you cannot burn without fire?” She then <trait>
+                        <desc type="action">replied</desc>
+                     </trait>, “Marry me, take the cup in your hand and I will tell you.” He <trait>
+                        <desc type="action">filled</desc>
+                     </trait> the <objectName type="cup">cup</objectName> in her <objectName
+                        type="body">hand</objectName> and said it was <trait>
+                           <desc type="burn">burned</desc>
+                        </trait> sufficiently in a fiery place. She perceived herself in such a way that
+                     she <state>
+                        <desc type="action">hired</desc>
+                     </state> me to win the fight against herself. </ab>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR12">
+               <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton answered the Watchmen comming from the
+                     Court.</title></head>
+                  <ab>TArlton hauing plaied before the Quéen, till one a clock at midnight, comming
+                     homewards, one of them espied him, calling him, sirra, what art thou? a woman,
+                     sayes Tarlton: nay that is lie, saith the Watchmen, women haue no such beards:
+                     Tarlton replied, if I should haue said a man, that you know to be true, and
+                     would haue bidden mee tell you that you know not, therefore I sayd a Woman, and
+                     so I am all woman, hauing pleased the Quéene, being a Woman: Well sirra sayes
+                     another, I present the Quéene: then am I a woman indéed saies Tarlton as well
+                     as you, for you haue a beard as well as I, and truly Mistris Annis, my buske is
+                     not done yet, when will yours? leaue thy gybing fellow, saith the Watch; the
+                     Quéens will is that whosoeuer is taken without doores after ten a clocke, shall
+                     be committed, and now it is past one: commit all such sayes Tarlton, for if it
+                     be past one a clocke, it will not be ten this eight houres: with that one lifts
+                     vp his Lanthorne, and looks him in the face, and knew him: indéed M. Tarlton
+                     you haue more wit then all we, for it is true that ten was before one, but now
+                     one is before ten, it is true quoth Tarlton, Watchmen had wont to haue more
+                     wit, but for want of sléepe they are turned fooles: so Tarlton stole from them,
+                     and they to séeme wise went home to bed.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR13">
+               <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons answere to a Courtier.</title></head>
+                  <ab>TArlton being at the Court all night, in the morning he met a great Courtier
+                     comming from his Chamber, who espying Tarlton, said: Good morrow Master Didimus
+                     and Tridimus: Tarlton being somewhat abashed, not knowing the meaning thereof,
+                     sayd: Sir, I vnderstand you not, expound I pray you: quoth the Courtier Didimus
+                     and Tridimus, is a foole and a knaue: you ouer-load me replyed Tarlton, for my
+                     backe cannot beare both, therefore take you the one, and I will take the other:
+                     take you the knaue, and I will carry the foole with me.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR14">
+               <byline resp="#CALD1"><persName>Julia Calderone</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons quipe for a yong Courtier.</title></head>
+                  <ab>THere was a yong Gentleman in the Court, that had first lyen with the Mother,
+                     and after with the Daughter, and hauing so done, asked Tarlton what it
+                     resembled: quoth he, as if you should first haue eaten the Hen, and after the
+                     Chicken.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR15">
+               <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons answere to a Noblemans question.</title></head>
+                  <ab>THere was a Nobleman that asked Tarlton what he thought of Souldiers in time
+                     of peace? Marry quoth he, they are like Chimneyes in Summer.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR16">
+               <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest to an vnthriftie Courtier.</title></head>
+                  <ab>THere was an vnthriftie Gallant belonging to the Court that had borrowed fiue
+                     pounds of Tarlton, but hauing lost it at Dice, hee sent his man to Tarlton to
+                     borrow fiue pounds more, by the same token he owed him already fiue pounds:
+                     pray tell your Master, quoth Tarlton, that if he will send me the token, I will
+                     send him the money: for who deceiues me once, God forgiue him: If twice, God
+                     forgiue him: but if thrice, God forgiue him, but not me, because I could not
+                     beware.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUR17">
+               <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton flouted two Gallants.</title></head>
+                  <ab>TArlton being in a mery vaine, as he walked in the great Hall in Gréenwitch,
+                     he met my old Lord Chamberlain, going betwéene two fantasticke gallants, &amp;
+                     cryed aloud vnto him, my Lord, my Lord, you goe in great danger: whereat
+                     amazed, hee askt whereof: of drowning (quoth Tarlton ) were it not for those
+                     two bladders vnder ech of your armes.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+         </div>
+         <div type="section" xml:id="CITY">
+            <head><title>Tarltons sound Cittie Iests.</title></head>
+            <div type="jest" xml:id="CITY01">
+               <byline resp="#DERR1"><persName>Luke Derr</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a red face.</title></head>
+                  <ab>T O an Ordinary in the White Friers, where Gentlemen vsed, by reason of
+                     extraordinarie dyet, to this Tarlton often frequented, as well to continue
+                     acquaintance, as to please his appetite: it chanced so vpon a time (especially)
+                     being set amongst the Gentlemen and Gallants, they enquired of him why
+                     melancholy had got the vpper-hand of his mirth, to which he said little, but
+                     with a squint eie, as custom had made him hare▪ eied, he lookt for a Iest to
+                     make them merry; at last he espyed one that sate on his left side, which had a
+                     very red face, hee being a very great Gentleman (which was all one to Tarlton )
+                     he presently in great hast called his Hoast: who do I serue my Hoast? quoth
+                     Tarlton, the Quéenes Maiestie, replied the good man of the house: how happens
+                     it then quoth Tarlton, that to her Maiesties disgrace, you dare make me a
+                     companion with Seruingmen, clapping my Lord Shandoyes Cullisance vpon my
+                     sléeue, looking at the Gentleman with the red face, me thinks quoth he, it sits
+                     like the Sarazens head without Newgate: the Gentlemans Salamanders face burnt▪
+                     like Aetna for anger, the rest laughed heartily: in the end all inraged, the
+                     Gentleman swore to fight with him at the next méeting.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY02">
+               <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+               <div type="old">
+                  <head><title>A sodaine and dangerous fray, twixt a Gentleman and Tarlton, which he
+                        put off with a Iest.</title></head>
+                  <ab>AS Tarlton &amp; others passed along Fléestréet, hee espied a spruce yong
+                     gallant, blacke of complexion, with long haire hanging downe ouer his eares,
+                     and his beard of the Italian cut, in white Satten, very quaintly cut, and his
+                     body so stiffe starcht, that he could not bend himselfe any way for no gold:
+                     Tarlton, séeing such a wonder comming, trips before him, and méeting this
+                     gallant tooke the wall of him, knowing that one so proud, at least looked for
+                     the prerogatiue. The gallant scorning that a Player should take the wall, or so
+                     much indignifie him, turnes himselfe, and presently drew his Rapier, Tarlton
+                     drew likewise: The Gentleman fell to it roundly, but Tarlton in his owne
+                     defence, compassing and trauersing his ground, gaped with a wide mouth, whereat
+                     the people laughed: the Gentleman pausing, enquired why he gaped so? O Sir
+                     saies he, in hope to swallow you, for by my troth, you séeme to me like a prune
+                     in a Mesle of white Broth: at this the people parted them, the Gentleman noting
+                     his mad humour, went his way well contented, for he knew not how to amend
+                     it.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY03">
+               <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a Pippin.</title></head>
+                  <ab>Tarltons Iest of a Pippin. AT the Bull in Bishopsgate stréet, where the
+                     Quéenes Plaiers oftentimes played: Tarlton comming on the Stage, one from the
+                     Gallerie threw a Pippin at him, Tarlton tooke vp the Pip, &amp; looking on it
+                     made this sodaine iest.</ab>
+
+                  <ab>Pip in or nose in, chuse you whether, Put yours in, ere I put in the other:
+                     Pippin you haue put in, then for my grace, Would I might put your nose in
+                     another place.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY04">
+               <byline resp="#HASF1"><persName>Andrew Hasfal</persName></byline>
+               <div type="old">
+                  <head><title>A Iest of an Apple hitting Tarlton on the face.</title></head>
+                  <ab>TArlton hauing flouted the fellow for his Pippin which he threw, he thought to
+                     be méet with Tarlton at length, so in the Play Tarltons part was to trauell,
+                     who knéeling downe to aske his Father blessing: the fellow threwe an Apple at
+                     him, which hit him on the chéeke: Tarlton taking vp the Apple made this
+                     Iest.</ab>
+                  <lg>
+                     <l>Gentlemen, this fellow with his face of Mapple.</l>
+                     <l>In stead of a Pippin hath throwne me an Apple:</l>
+                     <l>But as for an Apple he hath cast a Crab,</l>
+                     <l>So in stead of an honest woman God hath sent him a Drab.</l>
+                  </lg>
+                  <ab>The people laughed heartily, for he had a Queane to his Wife</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY05">
+               <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton and one in the Gallerie fell out.</title></head>
+                  <ab>IT chanced that in the midst of a Play, after long expectation for Tarlton,
+                     (being much desired of the people) at length he came forth: where at his
+                     entrance, one in the gallerie pointed his finger at him, saying to a friend
+                     that had neuer séene him, that is he: Tarlton to make sport at the least
+                     occasion giuen him, and séeing the man point with one finger, he in loue againe
+                     held vp two fingers: the captious fellow iealous of his wife (for he was
+                     maried) and because a Player did it, tooke the matter more hainously, and askt
+                     him why hee made Hornes at him: No quoth Tarlton, they be fingers:</ab>
+                  <lg>
+                     <l>For there is no man which in loue to mee</l>
+                     <l>Lends me one finger, but he shall haue three.</l>
+                  </lg>
+                  <ab>No, no, sayes the fellow, you gaue me the hornes: true saies Tarlton, for my
+                     fingers are tipt with nailes which are like hornes, and I must make a shew of
+                     that which you are sure of: this matter grew so, that the more he medled, the
+                     more it was for his disgrace: wherefore the standers by counselled him to
+                     depart, both he and his hornes, lest his cause grew desperate: so the poore
+                     fellow plucking his Hat ouer his eyes, went his wayes.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY06">
+               <byline resp="#HEIN1"><persName>Rebecca Heintzelman</persName></byline>
+               <div type="old">
+                  <head><title>How Fiddlers fidled away Tarltons apparell.</title></head>
+                  <ab>IT chanced that one Fancie and Nancie, a Musition in London, vsed often with
+                     their Boyes to visite Tarlton, when he dwelt in Gracious-stréet, at the signe
+                     of the Saba, a Tauern▪ he being one of their best friends or benefactors, by
+                     reason of old acquaintance: to requite which, they came one summers morning to
+                     play him the Hunts' vp with such Musicke as they had: Tarlton, to requite them
+                     would open his Chamber doore, and for their paines would giue them Muskadine:
+                     which a Cony-catcher noting, and séeing Tarlton come foorth in his shirt and
+                     night-gowne to drinke with these Musitions, the while this nimble fellow stept
+                     in, and tooke Tarltons apparell which euery day he wore, thinking that if he
+                     were espied to turne it to a iest, but it past for currant and he goes his
+                     waies: Not long after Tarlton returned to his Chamber, and looked for his
+                     clothes, but they were safe enough from him. The next day this was noysed
+                     abroad, and one in the mockage threw him this Theam, he playing then at the
+                     Curtaine.</ab>
+                  <lg>
+                     <l>Tarlton I will tell thee a iest,</l>
+                     <l>Which after turned to earnest:</l>
+                     <l>One there was as I heard say,</l>
+                     <l>Who in his shirt heard Musicke play,</l>
+                     <l>While all his clothes were stolne away.</l>
+                  </lg>
+                  <ab>Tarlton I will tell thee a iest, Which after turned to earnest: One there was
+                     as I heard say, Who in his shirt heard Musicke play, While all his clothes were
+                     stolne away.</ab>
+                  <lg>
+                     <l>Tarlton I will tell thee a iest,</l>
+                     <l>Which after turned to earnest:</l>
+                     <l>One there was as I heard say,</l>
+                     <l>Who in his shirt heard Musicke play,</l>
+                     <l>While all his clothes were stolne away.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY07">
+               <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+               <div type="old">
+                  <head><title>Of Tarlton and a Begger.</title></head>
+                  <ab>Tarlton I will tell thee a iest, Which after turned to earnest: One there was
+                     as I heard say, Who in his shirt heard Musicke play, While all his clothes were
+                     stolne away.</ab>
+                  <lg>
+                     <l>Of all other Beggers most happy thou art,</l>
+                     <l>For to thee my hand is better then my heart.</l>
+                  </lg>
+                  <ab>Quoth the Begger.</ab>
+                  <lg>
+                     <l>True it is Master, as it chanceth now,</l>
+                     <l>The better for me, and the worse for you.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY08">
+               <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton deceiued a Doctor of Phisicke.</title></head>
+                  <ab>TArlton to satisfie the humors of certaine Gentlemen, his familiar
+                     acquaintance, went about for to try the skill of a simple Doctor of Phisicke,
+                     that dwelt not farre from I slington, and thus it was: hee tooke a faire
+                     Vrinall, and filled it halfe full of good wine, and bore it to this doctor,
+                     saying, it was a sicke mans water: who viewed it and tossing it vp and downe,
+                     as though he had great knowledge: quoth he, the patient whose water it is, is
+                     full of grosse humors, and hath néed of purging, and to be let some ten ounces
+                     of bloud. No you Dunce replyed Tarlton, it is good pisse, and with that drunke
+                     it off, and threw the Vrinall at his head.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY09">
+               <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton frighted a Country fellow.</title></head>
+                  <ab>TArlton passing through London, by chance hee heard a simple Country fellow in
+                     an Ale-house, calling for a Kingstone pot of Ale, stept into him and threatned
+                     to accuse him of treason, saying: Sirra, I haue séene and tasted of a penny pot
+                     of Ale, and haue found good of the price, but of a Kingstone coine I neuer
+                     heard, therefore it is some counterfait, and I must know how thou camest by it:
+                     hereupon the Countrey fellow was driuen into such a maze, that out of doores he
+                     got, and tooke him to his héeles, as though wildfire had followed him.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY10">
+               <byline resp="#KIZI1"><persName>Jackson Kizilbash</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton was deceiued by his wife in London.</title></head>
+                  <ab>TArlton being merrily disposed, as his wife and he sate together, he said vnto
+                     her, Kate answere me to one question without a lye, and take this crowne of
+                     gold: which she tooke on condition, that if she lost, to restore it backe
+                     againe. Quoth Tarlton, am I a Cuckold or no Kate? Whereat she answered not a
+                     word, but stood silent: notwithstanding he vrged her many waies: Tarlton séeing
+                     she would not speak, askt his gold againe: why quoth she, haue I made any lye?
+                     no sayes Tarlton: why then goodman foole I haue won the wager: Tarlton mad with
+                     anger, made this Rime:</ab>
+                  <lg>
+                     <l>As women in speech can reuile a man,</l>
+                     <l>So can they in silence beguile a man.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY11">
+               <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+               <div type="old">
+                  <head><title>One askt Tarlton what Countrey man the Diuell was.</title></head>
+                  <ab>IN Carter-lane dwelt a mery Cobler, who being in company with Tarlton, askt
+                     him what Countrey man the diuell was: quoth Tarlton, a Spaniard; for Spaniards
+                     like the Diuell, trouble the whole world.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY12">
+               <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+               <div type="old">
+                  <head><title>A Cheese-mongers question to Tarlton.</title></head>
+                  <ab>IN the time of Scarsitie, a simple Chéesemonger hearing Tarlton commended for
+                     his quick wit, came vnto him, and asked him why he thought Chéese and Butter to
+                     be so déere: Tarlton answered, because Wood and Coles are so déere, for Butter
+                     and Chéese a man may eate without a fire.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY13">
+               <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons answere to a rich Londiner.</title></head>
+                  <ab>TArlton méeting a rich Londiner, fell into talke about the Bishop of
+                     Peterborough, highly praising his bounty to his seruants, his liberalitie to
+                     strangers, his great Hospitalitie and Charitie to the poore. He doth well sayes
+                     the rich man, for what he hath is his but during his life. Why quoth Tarlton,
+                     for how many liues haue you your goods?</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY14">
+               <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton gaue away his dinner.</title></head>
+                  <ab>AS Tarlton and his wife sate at dinner, his wife being displeased with him,
+                     and thinking to crosse him, shee gaue away halfe of his meat vnto a poore
+                     Beggar, saying, take this for my other husbands sake. Whereupon Tarlton tooke
+                     all that was left, and likewise bad the poore fellow to pray for his other
+                     wifes soule.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY15">
+               <byline resp="#KRES1"><persName>Megan Kreslinski</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons answere to a Boy in Rime.</title></head>
+                  <ab>THere was a crackrope Boy, méeting Tarlton in London stréet, sung this rime
+                     vnto Tarlton.</ab>
+                  <lg>
+                     <l>Woe worth thee Tarlton,</l>
+                     <l>That euer thou wast borne:</l>
+                     <l>Thy wife hath made thee Cuckold,</l>
+                     <l>And thou must weare the horne.</l>
+                  </lg>
+                  <ab>Tarlton presently answered him in Extemporie.</ab>
+                  <lg>
+                     <l>What and if I be (Boy)</l>
+                     <l>I am nere the worse:</l>
+                     <l>Shee keepes me like a Gentleman,</l>
+                     <l>With money in my purse.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY16">
+               <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton bid himselfe to dinner to my Lord Mayors.</title></head>
+                  <ab>A Iest came in Tarltons head where to dine, and thought he, in all that a man
+                     does, let him ayme at the fairest, for sure if. I bid my selfe any where this
+                     day, it shall be to my Lord Maiors: and vpon this, goes to the Counter and
+                     entred his action against my Lord Maior, who was presently told of it, and
+                     sends for him. Tarlton waits dinner time, and then comes, who was admitted
+                     presently. Master Tarlton, sayes my Lord Maior, haue you entred an action
+                     against me in the Poultry Counter? My Lord, sayes Tarlton, haue you entred an
+                     action against me in Woodstréet Counter? Not I in troth, saies my Lord. No
+                     saies Tarlton, he was a villaine that told me so then: but if it be not so,
+                     forgiue me this fault my Lord, and I will neuer offend in the next: but in the
+                     end he begins to sweare, how he will bee reuenged on him that mockt him, and
+                     flings out in a rage, But my Lord sayd, stay M. Tarlton, dine with me, and no
+                     doubt but after dinner you will be better minded. I will try that my Lord,
+                     saies Tarlton, and if it alter mine anger, both mine enemie &amp; I will thanke
+                     you together for this curtesie.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY17">
+               <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a box on the eare.</title></head>
+                  <ab>ONe that fell out with his friend, méets him in the stréet, and calling him
+                     into a corner, gaue him a boxe on the eare, and feld him, getting him gone, and
+                     neuer told wherefore he did so: which Tarlton beholding, raised vp the fellow,
+                     and askt him the reason of their suddaine falling out? can you tell Sir said
+                     the fellow, for by my troth as yet I cannot? Well said Tarlton, the more foole
+                     you, for had I such féeling of the cause, my wit would remember the iniurie,
+                     but many men are goslings, the more they féele the lesse they conceiue.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY18">
+               <byline resp="#KURU1"><persName>Viveka Kurup</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest to two Taylors.</title></head>
+                  <ab>TArlton méeting two Tailors (friends of his) in the euening, in mirth cryes,
+                     who goes there? A man answered a Taylor: How many is there? one: Yea said
+                     Tarlton, two said the other Taylor: then you say true, said Tarlton: for two
+                     Taylors goes to a man. But before they parted, they foxt Tarlton, at the Castle
+                     in Paternoster Row, that Tarlton confest them two Taylors to be honest men: so
+                     what they spent in the purse they got in the person: comming but one by
+                     Tarltons account, they returned two: but Tarlton comming one, returned lesse by
+                     his wit, for that was shrunk in the whetting.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY19">
+               <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton iested at his wife.</title></head>
+                  <ab>TArlton and his wife keeping an Ordinarie in Paternoster Row, was bidden out
+                     to Supper, and because he was a man noted, she would not goe with him in the
+                     street, but intreats him to kéepe one side and she another, which he consented
+                     to: but as he went he would cry out to her and say, Turne that way wife, and
+                     anon on this side wife: so the people flockt the more to laugh at them, but his
+                     wife more then mad angry, goes backe againe, and almost forswore his
+                     company.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY20">
+               <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton committed a Rakers horse to Ward.</title></head>
+                  <ab>VVHen Tarlton dwelt in Gracious stréet, at a Tauerne at the signe of the Saba,
+                     he was chosen Scauenger: and often the Ward complained of his slacknes in
+                     kéeping the stréets cleane: so on a time when the Cart came, he asked the
+                     Raker, why he did his businesse so slackly. Sir said he, my fore-horse was in
+                     the fault, who being let blood and drencht yesterday, I durst not labour him:
+                     sir said Tarlton, your horse shall smart for it, and so leads him to the
+                     Counter, which the Raker laught at, and without his horse did his worke with
+                     the rest, thinking Tarltons homor was to iest, and would returne him his horse
+                     againe anon: but when that anon came, he was faine to pay all his fées of the
+                     prison, as directly as if he himselfe had béene there: for if Tarlton had
+                     committed the master, the busines had not gone forward, therefore the horse was
+                     in prison for the Master.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY21">
+               <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton made Armin his adopted sonne to succeed
+                     him.</title></head>
+                  <ab>TArlton kéeping a Tauerne in Gracious stréet, hee let it to another, who was
+                     indebted to Armins Master, a Gold smith in Lumbard stréet: yet he himselfe had
+                     a Chamber in the same house. And this Armin being then a wag came often thither
+                     to demaund his Masters money, which hee sometimes had, and sometimes had not:
+                     in the end the man growing poore, told the boy he had no money for his Master,
+                     and he must beare with him. The mans name being Charles, Armin made this verse,
+                     writing it with chalke on a waine-scot:</ab>
+                  <lg>
+                     <l>O world how wilt thou lie, is this Charles the great? that I denie:</l>
+                     <l>Indeed Charles the great before,</l>
+                     <l>But now Charles the lesse, being poore.</l>
+                  </lg>
+                  <ab>Tarlton comming into the roome reading it, and partly acquainted with the
+                     boyes humor, comming often thither for his M. money, tooke a piece of chalke,
+                     &amp; writ this rime by it.</ab>
+                  <lg>
+                     <l>A wag thou art, none can preuent thee,</l>
+                     <l>And thy desert shall content thee:</l>
+                     <l>Let me diuine, as I am, so in time thou'lt be the same.</l>
+                     <l>My adopted sonne therefore be,</l>
+                     <l>To enioy my Clownes suite after me.</l>
+                  </lg>
+                  <ab>And sée how it fell out: the Boy reading this, so loued Tarlton after, that
+                     regarding him with more respect, vsed to his playes, and fell in a league with
+                     his humour, and priuate practise brought him to present playing, and at this
+                     houre performes the same, where at the Globe on the Bancke-side men may sée
+                     him.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY22">
+               <byline resp="#MIYA1"><persName>Tsugu Miyake</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons greeting with Bankes his horse.</title></head>
+                  <ab>THere was one Bankes (in the time of Tarlton ) who serued the Earle of Essex,
+                     &amp; had a horse of strange qualities: and being at the Crosse-keyes in
+                     Gracious stréete, getting money with him (as he was mightily resorted to:)
+                     Tarlton then (with his fellowes) playing at the Bell by, came into the
+                     Crosse-keyes amongst many people) to sée fashions: which Bankes perceiuing (to
+                     make the people laugh) sayes Signior (to his Horse) goe fetch mee the veriest
+                     foole in the company, the Iade comes immediatly, and with his mouth drawes
+                     Tarlton forth: Tarlton with merry words said nothing, but God a mercy Horse: in
+                     the end, Tarlton séeing the people laugh so, was angry inwardly, and said, Sir,
+                     had I power of your horse, as you haue, I would doe more then that. Where ere
+                     it be said Bankes (to please him) I will charge him to do it: then saies
+                     Tarlton, charge him to bring me the veriest whore-master in this company. He
+                     shall saies Bankes: Signior saies he, bring M. Tarlton heere the veriest
+                     Whoremaster in the company: the Horse leades his master to him: then God a
+                     mercy Horse indéed, sayes Tarlton: the people had much adoe to kéepe peace, but
+                     Bancks &amp; Tarlton had like to squarde, and the horse by to giue ayme: but
+                     euer after it was a by-word through London, God a mercy horse, and is to this
+                     day.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY23">
+               <byline resp="#MIYA1"><persName>Tsugu Miyake</persName></byline>
+               <div type="old">
+                  <head><title>An excellent Iest of Tarlton suddenly spoken.</title></head>
+                  <ab>AT the Bull at Bishops-gate was a play of Henry the fift, wherein the Iudge
+                     was to take a boxe on the eare, and because he was absent that should take the
+                     blow: Tarlton himselfe (euer forward to please) tooke upon him to play the same
+                     Iudge, besides his owne part of the Clowne: and Knell then playing Henry the
+                     fift, hit Tarlton a sound boxe indéed, which made the people laugh the more,
+                     because it was he: but anone the Iudge goes in, &amp; immediatly Tarlton (in
+                     his Clownes clothes) comes out, and askes the Actors what newes? O saith one,
+                     hadst thou béene here, thou shouldst haue séene Prince Henry hit the Iudge a
+                     terribly▪ boxe on the eare: What man, said Tarlton, strike a Iudge? It is true
+                     y faith, said the other: no other like, said Tarlton, and it could not be but
+                     terrible to the Iudge, when the report so terrifies me, that me thinkes the
+                     blow remaines still on my chéeke, that it burnes againe. The people laught at
+                     this mightily, and to this day I haue heard it commended for rare: but no
+                     maruaile, for he had many of these. But I would sée our Clownes in these dayes
+                     doe the like, no I warrant ye, and yet they thinke well of themselues too.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY24">
+               <byline resp="#MUEL1"><persName>Nick Mueller</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest with a Boy in the street.</title></head>
+                  <ab>A Wag-halter Boy met Tarlton in the stréet, and said: Master Tarlton who liues
+                     longest? Marry Boy, sayes Tarlton, he that dies latest: and why die men so
+                     fast, said the Boy? because they want breath, said Tarlton: no rather said the
+                     Boy, because their time is come: then thy time is come, said Tarlton, sée who
+                     comes yonder: Who? said the Boy: Marry said Tarlton, Bull the hangman: or one
+                     that would willingly be thy hangman: Nay, hang me then, if I employ him at this
+                     time, said the Boy. Well said Tarlton, then thou wilt be hanged by thy owne
+                     confession, and so they parted.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY25">
+               <byline resp="#MUEL1"><persName>Nick Mueller</persName></byline>
+               <div type="old">
+                  <head><title>A Iest of Tarlton, prouing Mustard to haue wit.</title></head>
+                  <ab>TArlton kéeping an Ordinarie in Pater-noster row, and sitting with Gentlemen
+                     to make them merry, would approue Mustard, (standing before them) to haue wit:
+                     how so sayes one? It is like a witty skold, méeting another skold, knowing that
+                     skold will skold, begins to skold first, so saies he, the Mustard being lickt
+                     vp, and knowing that you will bite it, begins to bite you first: Ile trie that
+                     saies a Gull by, and the Mustard so tickled him, that his eyes watered: how now
+                     sayes Tarlton, does my Iest sauour? I, saies the Gull, and bite too: if you had
+                     had better wit, sayes Tarlton, you would haue bit first: so then conclude with
+                     me, that dumbe vnféeling Mustard, hath more wit then a talking vnféeling foole
+                     as you are. Some were pleased and some were not, but all Tarltons care was
+                     taken (for his resolution was such euer) before he talkt any Iest.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="CITY26">
+               <byline resp="#MUEL1"><persName>Nick Mueller</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton tooke Tobacco at the first comming vp of
+                     it.</title></head>
+                  <ab>TArlton (as other Gentlemen vsed) at the first comming vp of Tobacco, did take
+                     it more for fashions sake then otherwise, and being in a roome, set betwéene
+                     two men ouercome with wine, and they neuer séeing the like, wondred at it, and
+                     séeing the vapour come out of Tarltons nose, cried out, fire, fire, and threw a
+                     cup of wine in Tarltons face: Make no more stirre quoth Tarlton, the fire is
+                     quenched, if the Sheriffes come it will turne to a fine, as the custome is. And
+                     drinking that againe, fie sayes the other, what a stincke it makes, I am almost
+                     poisoned: If it offend, sayes Tarlton, lets euery one take a little of the
+                     smell, and so the sauour will quickly goe: but Tobacco whiffes made them leaue
+                     him to pay all.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+         </div>
+         <div type="section" xml:id="COUN">
+            <head><title>Tarltons prettie Countrie Iests.</title></head>
+            <div type="jest" xml:id="COUN01">
+               <byline resp="#MURR1"><persName>James Murray</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons wit betweene a Bird and a Woodcocke.</title></head>
+                  <ab>I N the Citie of Glocester, Master Bird of the Chappell met with Tarlton, who
+                     ioyfull to regréet other, went to visit his friends: amongst the rest, M. Bird
+                     of the Quéens Chappell visited Master Woodcock of the Colledge, where méeting,
+                     many frindly spéeches past, amongst which, M. Woodcocke challenged M. Bird of
+                     kin: who mused that he was of his affinitie and hee neuer knew it: yes sayes M.
+                     Woodcocke, euery Woodcocke is a Bird, therefore it must néeds be so. Lord, Sir,
+                     sayes Tarlton, you are wide, for though euery Woodcocke be a Bird, yet euery
+                     Bird is not a Woodcocke. So M. Woodcocke like a Woodcocke bit his lip, and mum
+                     budged was silent.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN02">
+               <byline resp="#MURR1"><persName>James Murray</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a Gridiron.</title></head>
+                  <ab>VVHile the Quéens Plaiers lay in Worcester Citie to get money, it was his
+                     custome oft to sing extempory of Theams giuen him: amongst which they were
+                     appoynted to play the next day: now one fellow of the City amongst the rest,
+                     that séemed quaint of conceit, to lead other youths with his fine wit, gaue out
+                     that the next day hee would giue him a Theam, to put him to a non plus: diuers
+                     of his friends acquainted with the same, expected some rare conceit: Well, the
+                     next day came, and my gallant gaue him his inuention in two lines, which was
+                     this this:</ab>
+                  <lg>
+                     <l>Me thinkes it is a thing vnfit.</l>
+                     <l>To see a Gridiron turne the spit.</l>
+                  </lg>
+                  <ab>The people laughed at this, thinking his wit knew no answere thereunto, which
+                     angered Tarlton excéedingly, and presently with a smile looking about, when
+                     they expected wonders, he put it off thus:</ab>
+                  <lg>
+                     <l>Me thinkes it is a thing vnfit,</l>
+                     <l>To see an Asse haue any wit.</l>
+                  </lg>
+                  <ab>The people hooted for ioy, to sée the Theame-giuer dasht, who like a dog with
+                     his taile betwéene his legs, left the place: But such commendations Tarlton
+                     got, that hee supt with the Bailiffe that night, where my Theamer durst not
+                     come, although he were sent for, so much he vexed at that vnlookt for
+                     answere.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN03">
+               <byline resp="#YIGA1"><persName>Quinton Nsamba Yiga</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons answere in defence of his flat nose.</title></head>
+                  <ab>I Remember I was once at a Play▪ in the Country, where as Tarltons vse was,
+                     the Play being done, euery one so pleased to throwe vp his Theame: amongst all
+                     the rest, one was read to this same effect, word by word.</ab>
+                  <lg>
+                     <l>Tarlton, I am one of thy friends, and none of thy foes,</l>
+                     <l>Then I prethee tell how thou cam'st by thy flat nose:</l>
+                     <l>Had I beene present at that time on those bankes,</l>
+                     <l>I would haue layd my short sword ouer his long shankes.</l>
+                  </lg>
+                  <ab>Tarlton mad at this question, as it was his propertie sooner to take such a
+                     matter ill then well, very suddenly returned him this answere:</ab>
+                  <lg>
+                     <l>Friend or foe, if thou wilt needs know, marke me well,</l>
+                     <l>With parting dogs &amp; beares, then by the ears, this chance fel:</l>
+                     <l>But what of that? though my nose be flat, my credit to saue,</l>
+                     <l>Yet very well, I can by the smell, scent an honest man from a knaue.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN04">
+               <byline resp="#YIGA1"><persName>Quinton Nsamba Yiga</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a Bristowman.</title></head>
+                  <ab>VVHen the Quéenes Players were restrained in Summer, they trauailed downe to
+                     S. Iames his Faire, at Bristowe, where they were worthily entertained both of
+                     Londoners, and those Citizens: it happened that a wealthy Citizen, called M.
+                     Sunbanke, one morning secretly married his Maid; but not so secret, but it was
+                     blowne abroad: that morning, Tarlton and others, walking in the Faire to visit
+                     his familiar friends of London, and being in company of Bristow men, they did
+                     sée M. Sunbancke comming, who had this propertie with his necke, not to stirre
+                     it any way, but to turne body &amp; all: it chanced at the Faire end, he stood
+                     to pisse against a wall: to whom Tarlton came, and clapping him on the
+                     shoulder, God giue you ioy of your marriage, saies he: M. Sunbanke being taken
+                     pissing against the wall, would haue lookt backe to thanke him, and suddainly
+                     turnes about body and all, in the view of many, and shewed all: which so abasht
+                     him, that ashamed he tooke into a Tauerne, protesting that he had rather haue
+                     spent ten pound: sure sayd the Vintner, the fault is in your necke, who will
+                     not turne without the bodies assistance, and not in M. Tarlton: Call you him M.
+                     Tarlton, saies M. Sunbancke? I Sir, saies the Vintner, he is the Quéens Iester:
+                     he may be whose Iester he will be, but this Iest agrées not with me at this
+                     time.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN05">
+               <byline resp="#OLDF1"><persName>Morgan Oldfield</persName></byline>
+               <div type="old">
+                  <head><title>A Iest broken of Tarlton by a Country Gentleman.</title></head>
+                  <ab>IN the Country where the Quéens Players were accepted into a Gentlemans house:
+                     the Waggon vnloading of the apparell, the Waggoner comes to Tarlton, &amp; doth
+                     desire him to speake to the Steward for his horses: I will sayes he, and
+                     comming to the Steward, Sir, saies Tarlton, where shall our Horses spend the
+                     time? The Gentleman looking at Tarlton at that question, suddenly answered, if
+                     it please you, or them, let them walke a turne or two: or there is a faire
+                     Garden, let them play a game or two at bowles in the Alley, and departs thence
+                     about his other businesse. Tarlton commending the suddaine wit of the steward,
+                     said little: but my Steward not quiet, tels to the Gentlewomen aboue, how he
+                     had driuen Tarlton to a nonplus with a iest: whereat they all did laugh
+                     heartily: which a Seruingman louing Tarlton well, came and told him as much.
+                     Tarlton to adde fuell to the fire, and loath to rest thus put off with a iest,
+                     goes and gets two of the horses into the Garden, and turns them into the
+                     Bowling Alley, who with their héeles made hauocke, being the Gentlemans only
+                     pastime: The Ladies aboue from a window, séeing horses in the Garden Alley,
+                     call the Knight, who cries out to Tarlton, Fellow, what meanest thou? nothing
+                     Sir, saies he, but two of my horses are at seuen vp, for a pecke of Prouender,
+                     a foolish match that I made: now they being in play at bowles, run, run: your
+                     steward may come after and crie rub, rub: at which, though they smiled, yet the
+                     steward had no thankes for his labour, to set the horses to such an exercise:
+                     and they could not blame Tarlton, who did but as he was bidden: but by this
+                     Iest Oats and Hay, stable-roome, and all, was plenty.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN06">
+               <byline resp="#PAPA1"><persName>Lucas Papaleo</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton made one of his company vtterly forsweare
+                        drunkennesse.</title></head>
+                  <ab>AT Salisbury Tarlton &amp; his fellowes were to play before the Maior &amp;
+                     his brethren: but one of his company, a yong man was so drunke that he could
+                     not: whereat Tarlton as mad angry, as he was mad drunke, claps me on his legs a
+                     huge payre of boults: the fellow dead asléep felt nothing: when all was done,
+                     they conuaied him to the Iayle on a mans backe, and intreated the Iayler to doe
+                     God good seruice, and let him lie there till he waked. While they were about
+                     their sport the fellow waked, and finding himselfe in durance, and the Iayle
+                     hung round with bolts and shakels, he began to blesse himselfe, and thought
+                     sure in his drunkennes he had done some mischiefe: with that he called to know,
+                     but none came to him, then he thought verely his fault was capitall, and that
+                     hee was close prisoner: by and by comes the Kéeper, and moaned him, that one so
+                     yong should come to so shamefull a death as hanging: anone, another comes, and
+                     another with the like, which further put him in a puzzle: but at last comes
+                     Tarlton and others, intreating the Kéeper, yet if it might be, that they might
+                     sée their fellow ere they went, but hee very hardly was intreated, but at
+                     length the poore drunken Signior cal'd out for them: in they come. Oh Tom,
+                     sayes Tarlton, hard was thy hap in drunkennesse to murder this honest man, and
+                     our hard hap too, to haue it reported any of our company is hangd for it. O
+                     God, O God saies the fellow, is my fault so great? then commend me to all my
+                     friends. Well, short tale to make, the fellow forswore drunkennesse if he could
+                     escape, and by as cunning a wile to his thinking, they got him out of prison by
+                     an escape, and sent him to London before, who was not a litle glad he was gone:
+                     but sée how this Iest wrought, by little and little the fellow left his
+                     excessiue drinking, and in timealtered his desire of drunkennesse.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN07">
+               <byline resp="#PAPA1"><persName>Lucas Papaleo</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton saued his head from cutting off.</title></head>
+                  <ab>TArlton vpon a time being in the Countrie, &amp; lodging in an homely Inne,
+                     during which time there was a gentleman dwelling in the same towne, somewhat
+                     frantick and distraught of his wits: which mad man on a suddaine rusht into
+                     Tarltons bed-chamber with his sword drawne, and finding him there in bed, would
+                     haue slain him: saying, villain, were it not valiantly done to strike off thy
+                     knaues head at one blowe? Tarlton answered, tut sir, thats nothing with your
+                     worship to do, you can as easily strike off two heads at one blow as one:
+                     wherefore, if you please▪ Ile go downe and call vp another, and so you may
+                     strike off both our heads at once: the mad-man beleeued him, and so let him
+                     slip away.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN08">
+               <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton escaped imprisonment.</title></head>
+                  <ab>TArlton hauing béene dominéering very late one Night, with two of his friends,
+                     and comming homewards along Cheapside, the watch being then set: Master
+                     Constable asked, who goes there? thrée merry men, quoth Tarlton: that is not
+                     sufficient, what are you, quoth M. Constable? why saies Tarlton, one of vs is
+                     an eye-maker, and the other a light maker: what sayst thou knaue, doest mocke
+                     me? the one is an eye-maker, the other a light maker, which two properties
+                     belong vnto God onely: commit these blasphemers quoth the Constable: Nay, I
+                     pray you good M. Constable be good in your Office, I will approue what I haue
+                     sayd to be true. If thou canst, sayes the Constable, you shall passe, otherwise
+                     you shall be all thrée punished. Why quoth Tarlton, this fellow is an
+                     eye-maker, because a Spectacle maker, and this other a maker of light, because
+                     a Chandler, that makes your darkest night as light as your Lanthorne. The
+                     Constable séeing them so pleasant, was we'l contented, the rest of the Watchmen
+                     laughed, and Tarlton with his two companions went home quietly.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN09">
+               <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton deceiued a Countrey wench.</title></head>
+                  <ab>THe Quéenes Plaiers trauelling into the West country to play, and lodging in a
+                     little village, some ten miles from Bristow, in which village dwelt a pretty
+                     nut-browne Lasse▪ to whom Tarlton made proffer of marriage, protesting that he
+                     came from London, purposely to marry her: the simple Maide being proud, to be
+                     beloued by such a one, whom she knew to be the Quéenes man, without more
+                     intreaty yéelded, &amp; being both at the Church together, and M. Parson ready
+                     to performe his dutie, and comming to the words of I Richard take thée Ioane:
+                     nay, stay good Master Parson, I will goe and call my fellowes, and come to you
+                     againe: so going out of the Church in haste, returned at leisure; for hauing
+                     his horse ready sadled, hee rode toward Bristow, and by the way told his
+                     fellowes▪ of his successe with his wench.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN10">
+               <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton went to kill Crowes.</title></head>
+                  <ab>IT chanced vpon a time, as Tarlton went foorth with a birding péece into the
+                     fields to kill Crowes, hée espied a Daw sitting in a Trée, at which he meant to
+                     shoot; but at the same instant, there came one by, to whom he spake in this
+                     manner: Sir, quoth he, yonder I sée a Daw, which I will shoot at if shée sit:
+                     if shée sit, said the other, then she is a Daw indéed: but quoth Tarlton, if
+                     she sit not, what is she then? Marry quoth the other, a Daw also: at which
+                     words shée immediatly flew away: whereupon Tarlton spake merrily in a Rime, as
+                     followeth:</ab>
+                  <lg>
+                     <l>Whether a Daw sit, or whether a Daw flie,</l>
+                     <l>Whether a Daw stand, or whether a Daw lie,</l>
+                     <l>Whether a daw creeke, or whether a Daw crie,</l>
+                     <l>In what case soeuer a Daw perseuer.</l>
+                     <l>A Daw is a Daw, and a Daw shall be euer.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN11">
+               <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+               <div type="old">
+                  <head><title>How a poore Beggerman ouer-reached Tarlton by his wit.</title></head>
+                  <ab>AS Tarlton vpon a day sate at his owne doore, to whom came a poore old man,
+                     &amp; begged a penny for the Lords sake, wherupon Tarlton hauing no single
+                     money about him, askt the begger what money he had, no more money master but
+                     one single penny. Tarlton being merrily disposed, called for this penny, and
+                     hauing receiued it, gaue it to his boy to fetch a pot of Ale, whereat▪ the
+                     Begger grew blancke, and began to gather vp his wits how to get it againe: the
+                     pot of Ale for the Beggers penny being brought, he proferred to drinke to the
+                     begger: nay stay awhile Master, quoth the begger, the vse is where I was borne,
+                     that he that paies for the drinke, must drinke first: thou saist well quoth
+                     Tarlton, goe to, Drinke to me then: Whereupon the Begger tooke the Pot, saying,
+                     here Master I drinke to you, (and therewithall dranke off euery droppe) now
+                     Maister, if you will pledge me, send for it as I haue done: Tarlton séeing
+                     himselfe so ouer-reacht, greatly commended the Beggers wit, and withall in
+                     recompence thereof, gaue him a Teastor: with that the Begger said, that he
+                     would most truely pray to God for him: no answered Tarlton, I pray thée pray
+                     for thy selfe, for I take no vsury for Almes déeds.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN12">
+               <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+               <div type="old">
+                  <head><title>Of Tarltons pleasant answere to a Gallant, by the high-way
+                        side.</title></head>
+                  <ab>IT was Tarltons occasion another time to ride into Suffolke, being furnished
+                     with a very leane large horse: and by the way a lustie gallant met him, and in
+                     mockage, asked him, what a yard of his horse was worth? marry sit, quoth
+                     Tarlton, I pray you alight and lift vp my horses taile, and they in that shop
+                     will tell you the price of a yard.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN13">
+               <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton would haue drowned his wife.</title></head>
+                  <ab>VPon a time, Tarlton and his wife (as passengers) came sailing from
+                     Southampton towards London, a mightie storme arose, and endangered the Ship,
+                     whereupon the Captaine thereof, charged euery man to throw into the sea the
+                     heauiest thing he could best spare, to the end to lighten somewhat the Ship:
+                     Tarlton, that had his wife there, offered to throw her ouer-board, but the
+                     company rescued her, and being asked wherefore he meant so to do? he answered
+                     shée was the heauiest thing I haue, and I can best spare her.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN14">
+               <byline resp="#PYON1"><persName>Jason Pyon</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton made his Will and Testament.</title></head>
+                  <ab>OF late there was a Gentleman liuing in England, that wheresoeuer he dined,
+                     would of euery dish conuey a modicum thereof into his Gownesléeue: which
+                     Gentleman being vpon a time at dinner at a Gentlemans house in the Country,
+                     there he vsed his aforesaid quality, in the cōpany of M. Tarlton, who
+                     perceiuing it, said thus vnto the company: My masters, I am now determined
+                     before you all, to make my last Will and Testament: and first, I bequeath my
+                     soule to God my creator, and my body to be buried in the sléeue of yonder
+                     Gentlemans Gowne: and with that stepping to him, he turned vp the Gowne sléeue,
+                     whereout here dropt a bird, and there a bird, with choise of much other good
+                     chéere, hée still shaking it, saying, I meant this sléeue Gentleman, this
+                     sléeue I meant.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN15">
+               <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton called a Gentleman Knaue by craft.</title></head>
+                  <ab>VVIthin a while after, as the same Gentleman and Tarlton passed through a
+                     fielde together, a Crow in a Trée cryed, kaw, kaw: sée yonder Tarlton, quoth
+                     the Gentleman, yonder Crow calleth thée knaue: no sir (he answered) he beckens
+                     to your worship as the better man.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN16">
+               <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+               <div type="old">
+                  <head><title>Tarltons Iest of a Country wench.</title></head>
+                  <ab>TArlton going towards Hogsdon, met a Country maid comming to market, her Mare
+                     stumbling down she fell ouer and ouer, shewing all that euer God sent her, and
+                     then rising vp againe, she turned her round about vnto Master Tarlton, and
+                     said, Gods body sir, did you euer sée the like before? No in good sooth, quoth
+                     Tarlton, neuer but once in London.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN17">
+               <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton deceiued an Inne-holder at Sandwich.</title></head>
+                  <ab>VPon a time when the Plaiers were put to silence, Tarlton and his boy frolickt
+                     so long in the Country, that all their money was gone, and being a great way
+                     from London, they knew not what to doe; but as want is the whetstone of wit,
+                     Tarlton gathereth his conceit together, and practised a tricke to beare him vp
+                     to London without money, &amp; thus it was: Vnto an Inne in Sandwich they went,
+                     and there lay for two daies at great charge, although he had no money to pay
+                     for the same: the third morning he bad his man go downe and male-content
+                     himselfe before his Hoast and his Hoastesse, &amp; mumbling say to himselfe,
+                     Lord▪ Lord, what a scalde master doe I serue, this it is to serue such Seminary
+                     Priests and Iesuits, now euen as I am an honest boy, Ile leaue him in the
+                     lurch, and shift for my selfe: here's a doe about penance and mortification, as
+                     though (forsooth) Christ hath not died enough for all: The boy mumbled out
+                     these his instructions so dissembling, that it strooke a iealousie in the
+                     Inne-holders heart, that out of doubt his master was a Seminary Priest;
+                     whereupon he presently sent for the Constable, and told him all the foresaid
+                     matter, and so went vp both together to attach Tarlton in his chamber, who
+                     purposely had shut himselfe close in, and betaken him to his knées, and to his
+                     crosses, to make the matter séeme more suspitious, which they espying through
+                     the Key-hole, made no more adoe, but in they rushed, and arrested him for a
+                     Seminary Priest, discharged his score, bore his, and his boyes charges vp to
+                     London, and there in hope to haue rich rewards, presented him to M. Fleetwood,
+                     the old Recorder of London: but now marke the Iest; when the Recorder saw
+                     Tarlton, and knew him passing well, entertained him very courteously, and all
+                     to be foold the Inne-holder and his mate, and sent them away with fleas in
+                     their eares: but when Tarlton saw himselfe discharged out of their hands, he
+                     stood jesting and pointing at their folly, and so taught them by cunning more
+                     wit and thrift against another time.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN18">
+               <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+               <div type="old">
+                  <head><title>Of Tarlton's wrongfull accusation.</title></head>
+                  <ab>Upon a time, Tarlton was wrongfully accused for getting of a gentleman's maid
+                     with child, and for the same brought before a justice in Kent, which justice
+                     said as followeth : It is a mervaile, M. Tarlton, that you, being a gentleman
+                     of good qualitie, and one of her majesties servants, would venture thus to get
+                     maides with childe. Nay, rather, quoth Tarlton, were it marvell, if a maid had
+                     gotten me with child.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN19">
+               <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton deceived by a country wench.</title></head>
+                  <ab>Tarlton travelling to play abroad, was in a towne where, in the inne, was a
+                     pretty maid, whose favour was placed in a corner of Tsrlton's affection: and
+                     talking with her, shee appoynted to meet him at the bottom of a paire of
+                     staires. Night and the houre came, and the maid subtily sent downe her
+                     mistresse ; whome Tarlton catching in his armes, Art come, wench ? saies hee.
+                     Out, alas, sayes the mietres, not knowing who it was. Tarlton, hearing it was
+                     the mistris, start aside, and the maid came downe with a candle, and she espyed
+                     a glimpse of Tarlton in the darke, who stept into another roome. How now,
+                     mistres ? said the maid. Something, said shee, affrighted me ; some man, sure,
+                     for I heard him speake. No, no, mistresse, said the maid ; it is no man ; it
+                     was a bull calf that I shut into a roome till J oho, our pounder, came to have
+                     pounded him for a stray. Had I thought that, saith she, I would have hit him
+                     such a knocke on his forehead that his home should never have grac'd his
+                     coxcombe ; and so she departs up againe, afraid. But how Tarlton tooke this
+                     jest, think you.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN20">
+               <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton could not abide a cat, and deceived
+                     himselfe.</title></head>
+                  <ab>In the country, Tarlton told his oastesse he was a conjuror. 0, sir, sayes
+                     she, I had pewter stolne off my shelfe the other day; help me to it, and I will
+                     forgive you all the pots of ale you owe mee, which is sixteene dozen. Sayes
+                     Tarlton, To morrow morning the divell shall helpe you to it, or I will trounce
+                     him. Morning came, and the oastesse and he met in a roome by themselves.
+                     Tarlton, to passe the time with exercise of his wit, with circles and tricks
+                     falls to conjure, having no more skill then a dogge. But see the jest, how
+                     contrarily it fell out : as he was calling out, mons, pons, simul, and sons,
+                     and such like, a cat, unexpected, leapt from the gutter window ; which sight so
+                     amazed Tarlton, that he skipt thence and threw his hostesse downe, so that he
+                     departed with his fellowes, and left her hip out of joynt,, being then in the
+                     surgeons hands, and not daring to tell how it came.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN21">
+               <byline resp="#SCHM1"><persName>Caleb Schmidt</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton and his oastesse of Waltham met.</title></head>
+                  <ab>Tarlton, riding with divers cittizens, his friends, to make merry at Waltham,
+                     by the way he met with his oastesse, riding toward London, whome hee of old
+                     acquaintance saluted. Shee demands whither they went. Tarlton told her, to make
+                     merry at Waltham. Sir, saies shee, then let me request your company at my
+                     house, at the Christopher, and, for old familiarity, spend your money there.
+                     Not unlesse you goe backe, saies Tarlton. We will else goe to the Hound. But
+                     she, loth to lose their custome, sent to London by her man, and goes back with
+                     them ; who by the way had much mirth, for she was an exceeding merry honest
+                     woman, yet would take anything : which Tarlton hearing, as wise as he was,
+                     thinking her of his minde, he was deceived : yet he askt her if the biggest bed
+                     in her house were able to hold two of their bignesse ; meaning himself and her.
+                     Yes, saies she, and tumble up and downe at pleasure. Yea, one upon another,
+                     saies Tarlton. And under, to, saies she. Well, to have their custome, she
+                     agreed to everything, like a subtill oastesse : and it fell so out that
+                     Tarlton, having her in a roome at her house, askt her which of those two beds
+                     were big enough for them two. This, said she : therefore, goe to bed,
+                     sweet-heart, Ile come to thee. Masse, saies Tarlton, were my bootes off, I
+                     would, indeed. Ile help you, sir, saies she, if you please. Yea, thought
+                     Tarlton, is the wind in that doore? Come on, then. And she very diligently
+                     begins to pull, till one boot was half off. Now, saies she, this being hard to
+                     doe, let me try my cunning on the other, and so get off both. But, having both
+                     half off his legs, she left. him alone in the shoemakers stocks, and got her to
+                     London, where Tarlton was three houres, and had no help. But, being eas'd of
+                     his paine, he made this ryme for a theame, singing of it all the way to London
+                     :-</ab>
+                  <lg>
+                     <l>Women are wanton, and hold it no sinne,</l>
+                     <l>By tricks and devices to pull a man in.</l>
+                  </lg>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN22">
+               <byline resp="#SIMS1"><persName>Sullivan Sims</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's meeting with his countrey acquaintance at
+                     Ilford.</title></head>
+                  <ab>On a Sunday, Tarlton rode to llford, where his father kept; and, dining with
+                     them at his sisters, there came in divers of the countrey to see him, amongst
+                     whom was one plaine countrey plough-jogger, who said hee was of Tarlton's kin,
+                     and so called him cousin. But Tarlton demanded of his father if it were so. But
+                     he knew no such matter. Whereupon, saies Tarlton, whether he be of my kin or
+                     no, I will be cousin to him ere we part, if all the drinke in Ilford will doe
+                     it. So upon this they carouse freely, and the clowne was then in his cue, so
+                     that, in briefe, they were both in soundly. Night came, and Tarlton would not
+                     let his cousin goe, but they would lye together that night, meaning to drinke
+                     at their departure next morning. Tarlton would by wit leave him in the lash,
+                     since power would not. But see the jest. That night the plaine fellow so ....
+                     Tarlton in his bed, thinking he had been against the church wall, that he was
+                     faine to cry for a fresh shirt to shift. him. So, when al was well, they must
+                     needs drinke at parting : where, indeed, to seale kindred soundly, the fellow
+                     had his loade; for, hearing that his cousin Tarlton was gone to London, Zounds,
+                     he would follow, that he would, none could hold him; and, meaning to goe
+                     towards London, his aime was so good, that he went towards Rumford to sell his
+                     hogs.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN23">
+               <byline resp="#SIMS1"><persName>Sullivan Sims</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's answere to a question.</title></head>
+                  <ab>One asked Tarlton why Munday was called Sundaies fellow! Because he is a
+                     sausie fellow, saies Tarlton, to compare with that holy day. But it may be
+                     Munday thinkes himselfe Sundayes fellow, because it followes Sunday, and is
+                     next after: but he comes a day after the faire for that. Nay, saies the fellow,
+                     but if two Sundayes fall together, Munday then may be the first, and it would
+                     shew well too. Yes, saies Tarlton, but if thy nose stood under thy mouth, it
+                     would shew better, and be more for thy profit. How for my profit, said the
+                     fellow ? Marry, said Tarlton, never to be cold in winter, being so neere every
+                     dogs taile. The fellow seeing a foolish question had a foolish answere, laid
+                     his legges on his neck, and got him gone.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN24">
+               <byline resp="#SOTI1"><persName>Harrison Sotir</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's desire of enough for money.</title></head>
+                  <ab>Tarlton comming into a market towne bought oates for his horse, and desired
+                     enough for money : the man said, You shall, sir, and gave him two halfe pecks
+                     for one. Tarlton thought his horse should that night fare largely, and comes to
+                     him with this rime:-</ab>
+                  <lg>
+                     <l>Jack Nag, be brag, and lustie brave it,</l>
+                     <l>I have enough for mony, and thou shalt have it.</l>
+                  </lg>
+                  <ab>But when Jack Nag smelt to them they were so musty that he would none : God
+                     thanke you, master : which Tarlton seeing, runnes into the Market, and would
+                     slash and cut. But til the next market day the fellow was not to be found, and
+                     before then Tarlton must be gone.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN25">
+               <byline resp="#SOTI1"><persName>Harrison Sotir</persName></byline>
+               <div type="old">
+                  <head><title>How Tarlton's dogge lickt up six-pence.</title></head>
+                  <ab>Tarlton in his travaile had a dogge of fine qualities ; amongst the rest, he
+                     would carry sixpence in the end of his tongue, of which he would brag often,
+                     and say, Never was the like. Yes, saies a lady, mine is more strange, for he
+                     will beare a French crowne in his mouth. No, saies Tarlton, I thinke not. Lend
+                     me a French crowne, saies the lady, and you shall see. Truly, madame, I have it
+                     not, but if your dog will carry a crackt English crowne here it is. But the
+                     lady perceived not the jest, but was desirous to see the dogs trick of
+                     sixpence. Tarlton threw down a teaster, and said, Bring, sirra, and by fortune
+                     the dog took up a counter, and let the money lie. A gentlewoman by, seeing
+                     that, askt him how long he would hold it! An houre, saies Tarlton. That is
+                     pretty, said the gentlewoman, let's see that. Meane time she tooke up the
+                     sixe-pence, and willed him to let them see the money againe ; when he did see
+                     it it was a counter, and he made this rime :-</ab>
+                  <lg>
+                     <l>Alas, alas, how came all this to passe !</l>
+                     <l>The world's worse than it was ;</l>
+                     <l>For silver turns to brasse.</l>
+                  </lg>
+                  <ab>I, sayes the lady, and the dog hath made his master an asse. But Tarlton would
+                     never trust to his dogs tricks more.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN26">
+               <byline resp="#WARD1"><persName>Lily Ward</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's jest of a horse and a man.</title></head>
+                  <ab>In the city of Norwich, Tarlton was on a time invited to an hunting, where
+                     there was a goodly gentlewoman, that bravely mounted on a blacke horse, rode
+                     exceeding well, to the wonder of all the beholders ; and neither hedge nor
+                     ditch stood in her way, but Pegasus, her horse, for so may we tearme him for
+                     swiftnesse, flew over all, and she sate him as well. When every one returned
+                     home, some at supper commended hie hound, others his hawke, and shee above all,
+                     her horse. And, said she, I love no living creature so well, at this instant,
+                     as my gallant horse. Yes, lady, a man better, saies Tarlton. Indeed no, said
+                     shee, not now ; for since my last husband dyed I hate them most, unlesse you
+                     can give me medicines to make me love them. Tarlton made this jest instantly
+                     :-</ab>
+                  <lg>
+                     <l>Why, a horse mingeth whay, madam, a man mingeth amber,</l>
+                     <l>A horse is for your way, madam, but a man for your chamber.</l>
+                  </lg>
+                  <ab>Why, a horse mingeth whay, madam, a man mingeth amber, A horse is for your
+                     way, madam, but a man for your chamber.</ab>
+                  <lg>
+                     <l>That a horse is my chiefe opinion now, I deny not,</l>
+                     <l>And when a man doth me more good in my chamber I him defie not.</l>
+                  </lg>
+                  <ab>But till then give me leave to love something. Then something will please you,
+                     said Tarlton, I am glad of that, therefore I pray God send you a good thing or
+                     none at all.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN27">
+               <byline resp="#WARD1"><persName>Lily Ward</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's talke with a pretty woman.</title></head>
+                  <ab>Gentlewoman, said Tarlton, and the rest as you sit, I can tell you strange
+                     things : now many gallants at supper noted one woman, who being little and
+                     pretty, to unfit her prettinesse had a great wide mouth, which she seeming to
+                     hide, would pinch in her speeches, and speake small, but .was desirous to heare
+                     newes. Tarlton told at his comming from London to Norwich, a proclamation was
+                     made that every man should have two wives. Now Jesus, qd. she, is it possible?
+                     Ay gentlewoman, and otherwise able too, for contrarily women have a larger
+                     preeminence, for every woman must have three husbands. Now Jawsus, said the
+                     gentlewoman, and with wonder shewes the full widenesse of her mouth, which all
+                     the table smil'd at ; which she perceiving, would answere no more. Now mistris,
+                     said Tarlton, your mouth is lease than ever it was, for now it is able to say
+                     nothing. Thou art a cogging knave, said she. Masse, and that is something, yet,
+                     said Tarlton, your mouth shall be as wide as ever it was for that jest.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN28">
+               <byline resp="#ZELI1"><persName>Tim Zelikovsky</persName></byline>
+               <div type="old">
+                  <head><title>A jest of Tarlton to a great man.</title></head>
+                  <ab>There was a great huge man, three yards in the wast, at S. Edmondsbury, in
+                     Suffolk, that died but of late daies, one M. Blague, by name, and a good kinde
+                     justice, too, carefull for the poore : this justice met with Tarlton in Norwich
+                     ; Tarlton, said he, give me thy hand. But you, sir, being richer, may give me a
+                     greater gift, give me your body, and embracing him, could not halfe compasse
+                     him. Being merry in talke, said the justice, Tarlton, tell me one thing, what
+                     is the difference betwixt a flea and a louse? Marry, sir, said Tarlton, as much
+                     and like difference as twixt you and me : I, like a flea, see else, can skip
+                     nimbly, but you, like a fat louse, creepe slowly, and you can go no faster,
+                     though butchers are over you, ready to knock you on the head. Thou art a knave,
+                     quoth the justice. I, sir, I knew that, ere I came hither, else I had not been
+                     here now, for ever one knave, making a stop, seekes out another. The justice,
+                     understanding him, laughed heartily.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN29">
+               <byline resp="#ZELI1"><persName>Tim Zelikovsky</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's jest to a maid in the dark.</title></head>
+                  <ab>Tarlton going in the darke, groping out his way, heares the tread of some one
+                     to meet him. Who goes there, saies he, a man or a monster! Said the maid, a
+                     monster. Said Tarlton, a candle hoe ; and seeing who it was, Indeed, said he, a
+                     monster, I'le be sworne, for thy teeth are longer than thy beard. 0, sir, said
+                     the man, speake no more then you see, for women goe invisible now adayes.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+            <div type="jest" xml:id="COUN30">
+               <byline resp="#ZELI1"><persName>Tim Zelikovsky</persName></byline>
+               <div type="old">
+                  <head><title>Tarlton's jest to a dogge.</title></head>
+                  <ab>Tarlton and his fellowes, being in the Bishop of Worcester's sellar, and being
+                     largely laid to, Tarlton had his rouse, and going through the streets, a dogge,
+                     in the middle of the street, asleep on a dunghill, seeing Tarlton reele on him,
+                     on the sodaine barkt. How now, dog, saies Tarlton, are yon in your humours! and
+                     many daies after it was a by-word to a man being drunke, that he was in his
+                     humours.</ab>
+               </div>
+               <div type="modern">
+                  <head><title>TITLE-MODERNIZED</title></head>
+                  <ab/>
+               </div>
+               <div type="endnote">
+                  <p/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
