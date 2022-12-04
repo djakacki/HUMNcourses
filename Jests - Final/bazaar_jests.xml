@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="jest" xml:id="COUR01">
+            <byline resp="#BAZA1"><persName>Riley Bazaar</persName></byline>
+            <div type="old">
+               <head><title>Tarlton plaid the Drunkard before the Queene.</title></head>
+               <ab><persName type="politic">T HE Quéene</persName> being <trait type="reaction">
+                     <desc type="feeling">discontented</desc>
+                  </trait>: which <persName type="historical_figure">Tarlton</persName> perceiuing,
+                  tooke vpon him to <trait type="reaction">
+                     <desc>delight</desc>
+                  </trait> her with some quaint Iest, whereupon he counterfaited a <trait
+                     type="state_of_being">
+                     <desc>Drunkard</desc>
+                  </trait>, and calling for <objectName type="drink">Béere</objectName>, which was
+                  brought immediately: Her <persName type="politic">Maiestie</persName> noting his <trait>
+                     <desc type="trait">humor</desc>
+                  </trait>, commanded that he should haue no more, for quoth she, he will play the
+                  beast, and so shame himselfe. Feare not you quoth <persName
+                     type="historical_figure">Tarlton</persName>, for your <objectName type="drink"
+                     >Béere</objectName> is small enough. Whereat her <persName type="politic"
+                     >Maiestie</persName>
+                  <trait type="reaction">
+                     <desc type="reaction">laughed heartily</desc>
+                  </trait>, and commanded that hee should haue enough.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>The Queen was not content: Tarlton saw this and took it upon himself to make her
+                  smile. To do so, he acted like a drunk and asked for beer to be brought to him
+                  immediately: The Queen acknowledged and embraced his silly act and commanded him
+                  to not have any more to drink, or else he would truly be a mess! Tarlton responded
+                  to her and told her to not fear, due to the fact that her beers are small and not
+                  impactful to him. To this, the Queen knew he was joking and laughed, commanding
+                  that he should definitely not have any more! </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR02">
+            <byline resp="#BAZA1"><persName/></byline>
+            <div type="old">
+               <head><title>How Tarlton deceiued the Watch in Fleetstreet.</title></head>
+               <ab><persName type="historical_figure">TArlton</persName> hauing beene late at the
+                     <placeName type="location">Court</placeName>, and comming homewards through
+                     <placeName type="street">Fléetstréet</placeName>, hée espyed <orgName
+                     type="group">the watch</orgName>, not knowing how to passe them, went very
+                  fast, thinking by that meanes to goe vnexamined: but the <orgName type="group"
+                     >Watch-men</orgName> perceiuing that he shunned them, stept to him, and
+                  commanded him (in <persName type="politic">the Quéens </persName>name) to stand.
+                  Stand, quoth <persName type="historical_figure">Tarlton</persName>, let them stand
+                  that can, for I cannot: so falling downe as though he had béene <trait>
+                     <desc type="state_of_being">drunke</desc>
+                  </trait>, they helpt him vp, and so let him passe.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>Tarlton was late to Court and when he approached Fleetstreet he saw the police.
+                  He did not know how to pass them and he attempted to go by them very fast,
+                  thinking that he would go unexamined. However, the police took this action as an
+                  act of him completely disregarding their presence and commanded him (in the
+                  Queen's name) to stop. Tarlton acted as if he could not stand, he fell to the
+                  ground as if he was drunk and so they let him pass because he was intoxicated.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR03">
+            <byline resp="#BAZA1"><persName/></byline>
+            <div type="old">
+               <head><title>How Tarlton flouted a Lady in the Court.</title></head>
+               <ab>VPon a time, <persName type="historical_figure">Tarlton</persName> being among
+                  certaine <orgName type="group">Ladies</orgName> at a <placeName type="event"
+                     >banquet</placeName> which was at <placeName type="location"
+                     >Gréenwitch</placeName>, the <persName type="politic">Quéene</persName> then
+                  lying there, <persName type="individual">one of the Ladies</persName> had her <state>
+                     <desc type="state_of_being">face full of pimples</desc>
+                  </state> with <trait>
+                     <desc type="state_of_being">heate at her stomacke</desc>
+                  </trait>, for which cause she refused to drinke <objectName type="drink"
+                     >wine</objectName> amongst the rest of the <orgName type="group"
+                     >Ladies</orgName>, which <persName type="historical_figure">Tarlton</persName>
+                  perceiuing (for he was there of purpose to iest amongst thē) quoth hee, a murren
+                  of that face which makes all the body fare the worse for it. At which the rest of
+                  the <orgName type="group">Ladies</orgName>
+                  <desc type="reaction"/>laught, and she <state type="reaction">
+                     <desc>blushing</desc>
+                  </state> for <state type="reaction">
+                     <desc>hame</desc>
+                  </state> left the <placeName type="event">banquet</placeName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>One time, Tarlton was at a banquet at Greenwitch. The Queen was there and had her
+                  ladies there too. One of them had a full face of pimples and she also refused to
+                  drink wine with the other Ladies. Tarlton saw this (and he knew he was there to
+                  entertain), and so he began to make fun of her appearance. The rest of the ladies
+                  laughed, however she was embarrassed and left the banquet. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR04">
+            <byline resp="#BAZA1"><persName/></byline>
+            <div type="old">
+               <head><title>Tarltons opinion of Oysters.</title></head>
+               <ab>CErtaine <orgName type="group">Noblemen and Ladies of the Court</orgName>, being
+                  eating of <objectName type="food">Oysters</objectName>, one of them séeing
+                     <persName type="historical_figure">Tarlton</persName>, called him, and asked if
+                  he loued <objectName type="food">Oysters</objectName>: No quoth <persName
+                     type="historical_figure">Tarlton</persName>, for they be <trait>
+                     <desc type="characteristic">vngodly</desc>
+                  </trait>
+                  <objectName type="food">meat</objectName>, <trait>
+                     <desc type="characteristic">vncharitable</desc>
+                  </trait>
+                  <objectName type="food">meat</objectName>, &amp; <trait>
+                     <desc type="characteristic">vnprofitable</desc>
+                  </trait>
+                  <objectName type="food">meate</objectName>: why? quoth the
+                     <orgName>Courtiers</orgName>: they are <trait>
+                     <desc>vngodly</desc>
+                  </trait>, because they are eaten without <trait>
+                     <desc type="characteristic">Grace</desc>
+                  </trait>: <trait>
+                     <desc type="characteristic">vncharitable</desc>
+                  </trait>, because they leaue nought but <objectName type="physical_object"
+                     >shels</objectName>: and <trait>
+                     <desc type="characteristic">vnprofitable</desc>
+                  </trait>, because they must <state>
+                     <desc type="action">swim</desc>
+                  </state> in <objectName type="drink">wine</objectName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>Certain Noblemen and Ladies were eating Oysters. One of them saw Tarlton and
+                  called for him, asking if he liked Oysters. Tarlton replied, stating no because
+                  they are an ungodly, uncharitable, and unprofitable meat. In response they asked
+                  Tarlton why he thought that, and Tarlton responded by saying that they are eaten
+                  without grace, they are uncharitable because they are inside of a shell, and they
+                  are unprofitable because they must swim in wine. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR05">
+            <byline resp="#BAZA1"><persName/></byline>
+            <div type="old">
+               <head><title>Tarltons resolution of a question.</title></head>
+               <ab><persName type="individual">ONe</persName> of the <orgName type="group"
+                     >company</orgName> taking the <persName type="individual">Gentlemans</persName>
+                  part, asked <persName type="historical_figure">Tarlton</persName> at what time he
+                  thought the <persName type="religious_figure">Deuill</persName> to be most <trait>
+                     <desc type="action">busied</desc>
+                  </trait>? When the <persName type="religious_figure">Pope</persName>
+                  <state>
+                     <desc type="action">dyes</desc>
+                  </state> quoth he: why? sayes the <persName type="individual">Courtier</persName>:
+                     <persName type="individual">Marry</persName> (answered he) then all the
+                     <orgName type="religious_group">Diuels</orgName> are <state>
+                     <desc type="reaction">troubled</desc>
+                  </state> and <trait>
+                     <desc type="action">busied</desc>
+                  </trait> to <state>
+                     <desc type="sickness">plague</desc>
+                  </state>
+                  <persName type="individual">him</persName>, for he hath sent many a soules before
+                  him <state>
+                     <desc type="reaction">thither</desc>
+                  </state>, that exclaime against him.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>A Gentleman asked Tarlton what time he thought the Devil to be most active?
+                  Tarlton's response was, “When the Pope dies, why?”. The Gentlemen replied by
+                  saying that then all of the Devils are active to plague him, because he has done
+                  many people wrong who want him to be plagued by the Devil. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN15">
+            <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="guy">Tarlton</persName> called a <persName type="guy">Gentleman Knaue</persName> by craft.</title></head>
+               <ab>VVIthin a while after, as the same <persName type="guy">Gentleman</persName> and <persName type="guy">Tarlton</persName> passed through a
+                  <placeName type="nature">fielde</placeName> together, a <objectName type="animal">Crow</objectName> in a <placeName type="nature">Trée</placeName> 
+                  <state type="negative"><desc>cryed</desc></state>, kaw, kaw: sée yonder <persName type="guy">Tarlton</persName>, quoth
+                  the <persName type="guy">Gentleman</persName>, yonder <objectName type="animal">Crow</objectName> calleth thée knaue: 
+                  no <persName type="guy">sir</persName> (he answered) he beckens
+                  to your worship as the <trait type="positive"><desc>better</desc></trait> man.</ab>
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="guy">Tarlton</persName> called out a <persName type="guy">Scoundrel</persName></title></head>
+               <ab><persName type="guy">Tarlton</persName> and the <persName type="guy">scoundrel</persName> of a <persName type="guy">man</persName> were passing through a <placeName type="nature">field</placeName> together when
+                  they saw a <objectName type="animal">crow</objectName> <state type="negative"><desc>called</desc></state> out from a <placeName type="nature">tree</placeName>. "Do you see the <objectName type="animal">crow</objectName>?" The <persName type="guy">scoundrel</persName> asked
+                  <persName type="guy">Tarlton</persName>, "it's calling you a <persName type="guy">scoundrel</persName>". <persName type="guy">Tarlton</persName> answered, "No, he invites your
+                  worship as the better <persName type="guy">man</persName>". </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN16">
+            <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+            <div type="old">
+               <head><title><persName type="guy">Tarltons</persName> Iest of a <placeName type="country">Country</placeName> <persName type="girl">wench</persName>.</title></head>
+               <ab><persName type="guy">TArlton</persName> going towards <placeName type="town">Hogsdon</placeName>, met 
+                  a <placeName type="nation">Country</placeName> <persName type="girl">maid</persName> comming 
+                  to <placeName type="market">market</placeName>, her <persName type="girl">Mare</persName>
+                  <state type="negative"><desc>stumbling</desc></state> down she fell ouer and ouer, shewing all that euer <persName type="guy">God</persName> sent her, and
+                  then rising vp againe, she turned her round about vnto Master <persName type="guy">Tarlton</persName>, and
+                  said, <persName type="guy">Gods</persName> <placeName type="thing">body</placeName> <persName type="guy">sir</persName>, did 
+                  you euer sée the like before? No in good sooth, quoth
+                  <persName type="guy">Tarlton</persName>, neuer but once in <placeName type="city">London</placeName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title><persName type="guy">Tarton's</persName> Joke of a <placeName type="country">Rural</placeName> <persName type="girl">Woman</persName></title></head>
+               <ab><persName type="guy">Tarlton</persName> was going to <placeName type="town">Hogsdon</placeName>. He was going to a <placeName type="market">market</placeName> and ran into a <persName type="girl">woman</persName> from
+                  the <placeName type="country">country</placeName> <state type="negative"><desc>falling</desc></state> over and over again on her <objectName type="animal">horse</objectName>. She claimed that <persName type="guy">God</persName> sent
+                  her and referencing <persName type="guy">God</persName>, asked <persName type="guy">Tarlton</persName> if he had ever seen the likes of her
+                  before. <persName type="guy">Talrlton</persName> responded "Not in good truth, but once before in <placeName type="city">London</placeName>".</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN17">
+            <byline resp="#ROBE1"><persName>Jack Roberto</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="guy">Tarlton</persName> deceiued an <persName type="title">Inne-holder</persName> 
+                  at <placeName type="town">Sandwich</placeName>.</title></head>
+               <ab>VPon a time when the <orgName type="organization">Plaiers</orgName> were put 
+                  to <state type="negative"><desc>silence</desc></state>, <persName type="guy">Tarlton</persName> and his <persName type="guy">boy</persName> frolickt
+                  so long in the <placeName type="nation">Country</placeName>, that all their <objectName type="money">money</objectName> was gone, and being a great way
+                  from <placeName type="city">London</placeName>, they knew not what to doe; but as want is the whetstone of wit,
+                  <persName type="guy">Tarlton</persName> gathereth his conceit together, and practised a tricke to beare him vp
+                  to <placeName type="city">London</placeName> without <objectName type="money">money</objectName>, &amp; thus it was: Vnto an Inne 
+                  in <placeName type="town">Sandwich</placeName> they went,
+                  and there <state type="positive"><desc>lay</desc></state> for two daies at great charge, although he had no <objectName type="money">money</objectName> to pay
+                  for the same: the third morning he bad his <persName type="guy">man</persName> go downe and male-content
+                  himselfe before his <persName type="guy">Hoast</persName> and his <persName type="girl">Hoastesse</persName>, &amp; mumbling say to himselfe,
+                  <persName type="guy">Lord</persName>▪ <persName type="guy">Lord</persName>, what a scalde <persName type="guy">master</persName> doe I serue, this it 
+                  is to serue such Seminary <persName type="guy">Priests</persName> and <persName type="group">Iesuits</persName>, now euen as I am an 
+                  honest <persName type="guy">boy</persName>,  Ile leaue him in the
+                  lurch, and shift for my selfe: here's a doe about penance and mortification, as
+                  though (forsooth) <persName type="guy">Christ</persName> hath not died enough for all: The <persName type="guy">boy</persName> mumbled out
+                  these his instructions so dissembling, that it strooke a iealousie in the
+                  <persName type="group">Inne-holders</persName> heart, that out of doubt his <persName type="guy">master</persName> was a Seminary <persName type="guy">Priest</persName>;
+                  whereupon he presently sent for the <persName type="guy">Constable</persName>, and told him all the foresaid
+                  matter, and so went vp both together to attach <persName type="guy">Tarlton</persName> in his <placeName type="place">chamber</placeName>, who
+                  purposely had shut himselfe close in, and betaken him to his <objectName type="body">knées</objectName>, and to his
+                  <objectName type="religious">crosses</objectName>, to make the matter séeme more suspitious, which they espying through
+                  the <objectName type="object">Key-hole</objectName>, made no more adoe, but in they rushed, and arrested him for a
+                  Seminary <persName type="guy">Priest</persName>, discharged his <objectName type="describing">score</objectName>, bore his, and his boyes charges vp to
+                  <placeName>London</placeName>, and there in hope to haue <objectName type="money">rich rewards</objectName>, presented him to <persName type="guy">M. Fleetwood</persName>,
+                  the old <persName type="guy">Recorder</persName> of <placeName type="city">London</placeName>: but now marke the Iest; when the <persName type="guy">Recorder</persName> saw
+                  <persName type="guy">Tarlton</persName>, and knew him passing well, entertained him very <trait type="positive"><desc>courteously</desc></trait>, and all
+                  to be foold the <persName type="guy">Inne-holder</persName> and his <persName type="guy">mate</persName>, and sent them away with <objectName type="animal">fleas</objectName> in
+                  their eares: but when <persName type="guy">Tarlton</persName> saw himselfe discharged out of their hands, he
+                  stood <state type="negative"><desc>jesting</desc></state> and pointing at their folly, and so taught them by cunning more
+                  <trait type="positive"><desc>wit</desc></trait> and thrift against another time.</ab>
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="guy">Tarlton</persName> Tricked a <persName type="guy"><placeName type="hotel">Hotel</placeName> Owner</persName> at <placeName type="town">Sandwich</placeName></title></head>
+               <ab>Once upon a time when the <persName type="group">players</persName> were <state type="negative"><desc>quieted</desc></state>, <persName type="guy">Tarlton</persName> and his <persName type="guy">friend</persName> journeyed
+                  in the <placeName type="country">Country</placeName> for so long that they used all their <objectName type="money">money</objectName>. They were very far from
+                  <placeName type="city">London</placeName>, and didn't know what to do. <persName type="guy">Tarlton</persName> gathered his thoughts and and came up
+                  with a plan to <state type="negative"><desc>trick</desc></state> someone into getting him to <placeName type="city">London</placeName> with no <objectName type="money">money</objectName>. They went
+                  to a <placeName type="hotel">Hotel</placeName> in <placeName type="town">Sandwich</placeName> and were charged a lot of money for two days, even though
+                  they couldn't pay it. On the third morning, he told his <persName type="guy">friend</persName> to go down and to
+                  tell the <persName type="guy"><placeName type="hotel">Hotel</placeName>owners</persName> that he serves a <persName type="guy">Seminary Priest</persName> and a <persName type="group">Jesuit</persName>. The <persName type="guy">boy</persName> kept
+                  <state type="negative"><desc>mumbling</desc></state> on and on about the situation he was in with <persName type="guy">Tarlton</persName>. The <persName type="guy"><placeName type="hotel">hotel</placeName> owners</persName>
+                  were sent to the <placeName type="building">room</placeName> that <persName type="guy">Tarlton</persName> was staying in. <persName type="guy">Tarlton</persName> set the <placeName type="buidling">room</placeName> up to go
+                  along with the story that his <persName type="guy">friend</persName> had told the <persName type="guy"><placeName type="hotel">Hotel</placeName> workers</persName>. The <persName type="guy">workers</persName>
+                  <state type="positive"><desc>looked</desc></state> through the <objectName type="buidling">peep-hole</objectName> in the <objectName type="buidling">door</objectName> and saw the scene that <persName type="guy">Tarlton</persName> had made
+                  as a <persName type="guy">Seminary Preist</persName>. They barged into the <placeName>room</placeName> and arrested <persName type="guy">Tarlton</persName> for being a
+                  <persName type="guy">Seminary Priest</persName>. They brought <persName type="guy">Tarlton</persName> and his <persName type="guy">friend</persName> up to <placeName type="city">London</placeName> in hope that
+                  they would get <state type="positive"><desc>rich</desc></state> <objectName type="money">rewards</objectName> for turning in the <persName type="group">criminals</persName>. They presented him to <persName type="guy">M.
+                     Fleetwood</persName>, who was a <persName type="guy">judge</persName> in <placeName type="city">London</placeName>. When the <persName type="guys">Judge</persName> saw <persName type="guy">Tarlton</persName>, he knew him
+                  right away. <persName type="guy">Tarlton</persName> courteously entertaiend the <persName type="guy">judge</persName> which enraged and <persName type="group">hotel
+                     owners</persName> as they had no idea what was going on. They walked away in <state type="negative"><desc>shame</desc></state> and in
+                  <state type="negative"><desc>anger</desc></state> for the <state type="negative"><desc>troubles</desc></state> they were put through. <persName type="guy">Tarlton</persName> <state type="negative"><desc>tuanted</desc></state> and <state type="positive"><desc>laughed</desc></state> at them
+                  as they walked away as he had <state type="positive"><desc>outwitted</desc></state> them. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

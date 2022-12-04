@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN18">
+            <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+            <div type="old">
+               <head><title>Of Tarlton's wrongfull accusation.</title></head>
+               <ab>Upon a time, <persName type = "Tarlton">Tarlton</persName> was wrongfully accused for getting of a gentleman's <persName type = "woman">maid</persName>
+                  with <persName type = "person">child</persName>, and for the same brought before a <persName type = "job">justice</persName> in <placeName type = "city">Kent</placeName>, which <persName type = "job">justice</persName>
+                  said as followeth : It is a mervaile, <persName type = "Tarlton">M. Tarlton</persName>, that you, being a <trait type = "positive"><desc>gentleman</desc></trait>
+                  of <trait type = "positive"><desc>good qualitie</desc></trait>, and one of her majesties <persName type = "job">servants</persName>, would venture thus to get
+                  <persName type = "woman">maides</persName> with <persName type = "person">childe</persName>. Nay, rather, quoth <persName type = "Tarlton">Tarlton</persName>, were it marvell, if a <persName type = "woman">maid</persName> had
+                  gotten me with <persName type = "person">child</persName>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN19">
+            <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+            <div type="old">
+               <head><title><persName type = "Tarlton">Tarlton</persName> deceived by a <trait type = "negative"><desc>country wench</desc></trait>.</title></head>
+               <ab><persName type =  "Tarlton">Tarlton</persName> travelling to play <placeName type = "concept">abroad</placeName>, was in a <placeName type = "location">towne</placeName> where, in the <placeName type = "housing">inne</placeName>, was a
+                  <trait type = "positive"><desc>pretty</desc></trait> <persName type = "woman">maid</persName>, whose favour was placed in a <objectName type = "area">corner</objectName> of <persName type = "Tarlton">Tsrlton's</persName> <state type = "positive"><desc>affection</desc></state>: and
+                  talking with her, shee appoynted to meet him at the <placeName type = "location">bottom of a paire of
+                  staires</placeName>. Night and the houre came, and the <persName type = "woman">maid</persName> subtily sent downe her
+                  <persName type = "woman">mistresse</persName> ; whome <persName type = "Tarlton">Tarlton</persName> catching in his armes, Art come, <trait type = "negative"><desc>wench</desc></trait> ? saies hee.
+                  Out, alas, sayes the <persName type = "woman">mietres</persName>, not knowing who it was. <persName type = "Tarlton">Tarlton</persName>, hearing it was
+                  the <persName type = "woman">mistris</persName>, start aside, and the <persName type = "woman">maid</persName> came downe with a <objectName type = "household">candle</objectName>, and she espyed
+                  a glimpse of <persName type = "Tarlton">Tarlton</persName> in the <state type = "visual"><desc>darke</desc></state>, who stept into another <placeName type = "housing">roome</placeName>. How now,
+                  <persName type = "woman">mistres</persName> ? said the <persName type = "job">maid</persName>. Something, said shee, affrighted me ; some <persName type = "man">man</persName>, sure,
+                  for I heard him speake. No, no, <persName type = "woman">mistresse</persName>, said the <persName type = "woman">maid</persName> ; it is no man ; it
+                  was a <objectName type = "animal">bull calf</objectName> that I shut into a <placeName type = "housing">roome</placeName> till J oho, our pounder, came to have
+                  pounded him for a <trait type = "animal"><desc>stray</desc></trait>. Had I thought that, saith she, I would have hit him
+                  such a knocke on his forehead that his <placeName type = "housing" >home</placeName> should never have grac'd his
+                  coxcombe ; and so she departs up againe, afraid. But how <persName type = "Tarlton">Tarlton</persName> tooke this
+                  jest, think you.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab/>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN20">
+            <byline resp="#SCHA1"><persName>Katie Schaefer</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton could not abide a cat, and deceived
+                  himselfe.</title></head>
+               <ab>In the <placeName type = "location">country</placeName>, <persName type = "Tarlton">Tarlton</persName> told his <persName type = "person">oastesse</persName> he was a <trait type = "positive"><desc>conjuror</desc></trait>. 0, sir, sayes
+                  she, I had <objectName type = "makeup">pewter</objectName> stolne off my <objectName type = "household">shelfe</objectName> the other day; help me to it, and I will
+                  forgive you all the <objectName type = "alcohol">pots of ale</objectName> you owe mee, which is sixteene dozen. Sayes
+                  <persName type = "Tarlton">Tarlton</persName>, To morrow morning the <persName type = "man">divell</persName> shall helpe you to it, or I will trounce
+                  him. Morning came, and the <persName type = "person">oastesse</persName> and he met in a <placeName type = "housing">roome</placeName> by themselves.
+                  <persName type = "Tarlton">Tarlton</persName>, to passe the time with exercise of his wit, with circles and tricks
+                  falls to conjure, having no more skill then a <objectName type = "animal">dogge</objectName>. But see the <persName type = "man">jest</persName>, how
+                  contrarily it fell out : as he was calling out, mons, pons, simul, and sons,
+                  and such like, a <objectName type = "animal">cat</objectName>, unexpected, leapt from the <objectName type = "structure">gutter window</objectName> ; which sight so
+                  amazed <persName type = "Tarlton">Tarlton</persName>, that he skipt thence and threw his <persName type = "person">hostesse</persName> downe, so that he
+                  departed with his <persName type = "man">fellowes</persName>, and left her hip out of joynt,, being then in the
+                  <persName type = "job">surgeons</persName> hands, and not daring to tell how it came.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>Once upon a time, Tarlton was wrongfully accused for impregnating a gentleman’s maid and was then brought before a justice in Kent. 
+                  The justice said, “It is remarkable that you, M. Tarlton, being a gentleman of good quality, and one of her majesty's servants, would commit
+                  to such act.” Tarlton responded, “No, it would be more remarkable if a maid had gotten me with child.”
+                  
+                  While Tarlton was traveling to play abroad, he stayed in a town with an inn where there was a pretty maid. He placed this woman in a corner of his 
+                  affection. Talking with her, they agreed to meet at the bottom of a pair of stairs. The time came, and the maid subtly sent down her mistress, whom 
+                  Tarlton caught in his arms. He said “Is the wench coming?” The mistress replied “No.” because she did not know who he was. Tarlton heard it was the 
+                  mistress, and stepped aside. The maid came down with a candle, catching a glimpse of Tarlton in the dark, who had just stepped down into another room. 
+                  “What happened?” said the maid to the mistress. The mistress replied, “Something scared me. I’m certain I heard some man speak. No, no. It was no man. 
+                  I am sure it was a bull caf that I shut into a room until the pounder comes to pound him as a stray. If I had thought he was a man, I would have hit him with 
+                  such a knock on his forehead he would never be able to reach his home.” And so, the mistress departed up once again, afraid. How Tarlton took this jest, one can only imagine. 
+                  
+                  In the country, Tarlton told his hostess he was a conjuror. She said, “Oh sir, I had powder stolen off my shelf the other day. Help me to it, and I will forgive you
+                  of all the sixteen pots of ale you owe me.” Tarlton says, “Tomorrow morning the devil shall help you to it, or I will trounce him.” The morning came, and he met the 
+                  hostess in a room alone. Tarlton passed time with the exercise of his wit, with circles and tricks, having no more skill than a dog. Contrary to expectation,
+                  it fell out as he was calling out. And thus, like a cat, it unexpectedly leapt from the gutter window. This sight amazed Tarlton so much that he skipped ahead 
+                  and threw his hostess down, departing with his friends and leaving her hip disjointed. He regarded her in the hands of the surgeon, and did not dare to tell how it happened. 
+                  
+               </ab> 
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

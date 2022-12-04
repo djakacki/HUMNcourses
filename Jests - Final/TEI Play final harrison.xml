@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="jest" xml:id="COUN24">
+            <byline resp="#SOTI1"><persName>Harrison Sotir</persName></byline>
+            <div type="old">
+               <head><title>Tarlton's desire of enough for money.</title></head>
+               <ab><persName type="person">Tarlton</persName> comming into a <placeName type="location">market towne</placeName> bought oates for his <objectName>horse</objectName>, and desired
+                  enough for <objectName type="commodity">money</objectName> : the <objectName type="person">man</objectName> said, You shall, sir, and <state><desc>gave him two halfe pecks</desc></state>
+                  for one. <persName type="person">Tarlton</persName> thought his <objectName type="animal">horse</objectName> should that night fare largely, and comes to
+                  him with this rime:-</ab>
+               <lg>
+                  <l><persName type="person">Jack Nag</persName>, be brag, and <trait><desc>lustie brave it</desc></trait>,</l>
+                  <l>I have enough for mony, and thou shalt have it.</l>
+               </lg>
+               <ab>But when <persName type="person">Jack Nag</persName> <state><desc>smelt to them</desc></state> they were so musty that he would none : <persName>God</persName>
+                  thanke you, <objectName type="person">master</objectName> : which <persName type="person">Tarlton</persName> seeing, <state><desc>runnes into the</desc></state> <placeName>Market</placeName>, and would
+                  <state><desc>slash and cut</desc></state>. But til the next <placeName type="location">market day</placeName> the <trait><desc>fellow was not to be found</desc></trait>, and
+                  before then <persName type="person">Tarlton</persName> must be gone.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab><persName type="person">Tarlton</persName> was coming into the <placeName type="location">market town</placeName> and bought oats for his <objectName type="animal">horse</objectName> and what the biggest amount with the money he had.
+                  The man said you can sir and gave him <objectName type="commodity">8 dry quarts</objectName>. <persName type="person">Tartlon</persName> thought his <objectName type="animal">horse</objectName> should <state><desc>eat well that night</desc></state> and comes to him with the food. 
+                  <persName type="person">Jack Nag</persName> was speaking on the behalf of someone and said <state><desc>he was healthy and he faces danger</desc></state>. I have enough <objectName type="commodity">money</objectName> and said you should have it. 
+                  However when <persName type="person">Jack Nag</persName> smelt them they were off and said he did not want any. 
+                  Thank you <persName type="person">master</persName> : which seeing this <persName type="person">Tarlton</persName> runs into the <placeName type="location">market</placeName> and <state><desc>slashed and cut</desc></state>. 
+                  But then the next day the <objectName type="person">man</objectName> was not able to be found and <persName type="person">Tarlton</persName> must have escaped.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN25">
+            <byline resp="#SOTI1"><persName>Harrison Sotir</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="person">Tarlton's</persName> dogge lickt up six-pence.</title></head>
+               <ab>Tarlton in his travaile had a <objectName type="animal">dogge</objectName> of fine qualities ; amongst the rest, he
+                  would carry sixpence in the end of his <objectName type="bodypart">tongue</objectName>, of which he would brag often,
+                  and say, Never was the like. Yes, saies a lady, mine is more strange, for he
+                  will beare a <placeName type="language">French</placeName> <state><desc>crowne in his mouth</desc></state>. No, saies <persName type="person">Tarlton</persName>, I thinke not. Lend
+                  me a <objectName type="monarchy">French crowne</objectName>, saies the <objectName type="person">lady</objectName>, and you shall see. Truly, <objectName>madame</objectName>, I have it
+                  not, but if your <objectName type="animal">dog</objectName> will carry a crackt <objectName type="monarchy">English crowne</objectName> here it is. But the
+                 <objectName type="person"> lady</objectName> perceived not the <trait><desc>jest</desc></trait>, but was <trait><desc>desirous to see</desc></trait> the <objectName>dogs</objectName> trick of
+                 <objectName type="commodity"> sixpence</objectName>. <persName type="person">Tarlton</persName> <state><desc>threw down a teaster</desc></state>, and said, Bring, sirra, and by fortune
+                  the <objectName type="animal">dog</objectName> took up a counter, and let the <objectName type="commodity">money </objectName>lie. A <objectName>gentlewoman</objectName> by, seeing
+                  that, askt him how long he would hold it! <state><desc>An houre</desc></state>, saies <persName type="person">Tarlton</persName>. That is
+                 <trait><desc> pretty</desc></trait>, said the <objectName type="person">gentlewoman</objectName>, let's see that. Meane time she tooke up the
+                 <objectName type="commodity"> sixe-pence</objectName>, and willed him to let them see the <objectName type="commodity">money</objectName> againe ; when he did see
+                  it it was a counter, and he made this rime :-</ab>
+               <lg>
+                  <l>Alas, alas, how came all this to passe !</l>
+                  <l>The <orgName>world's</orgName> worse than it was ;</l>
+                  <l>For <trait><desc>silver turns to brasse</desc></trait>.</l>
+               </lg>
+               <ab>I, sayes the <objectName type="person">lady</objectName>, and the <objectName type="animal">dog</objectName> hath made his <objectName type="person">master</objectName> an asse. But <persName>Tarlton</persName> would
+                  never trust to his <objectName type="animal">dogs</objectName> tricks more.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab><persName type="person">Tarlton</persName> in travels had a <objectName type="animal">dog</objectName> with really good qualities amongst the good things that he does he always would carry <objectName type="commodity">money</objectName> at the end of his <objectName type="bodypart">tongue</objectName> which he would often brag about and tell <orgName>people</orgName>.
+                  Never was like that. Yes said a <objectName type="person">lady</objectName> mine is more strange for he will have the <placeName type="language">french</placeName> <objectName type="jewelry">crown</objectName> in this <objectName type="bodypart">mouth</objectName>. No says <persName type="person">Tarlton</persName>  i think not. 
+                  Lend me a <objectName type="monarchy">French crowne</objectName> says the <objectName type="person">lady</objectName> and you shall see me. Truly, madame, I don’t have it, but your <objectName type="animal">dog</objectName> will carry a cracked  ><placeName type="language">English</placeName> <objectName type="jewelry">crowne</objectName>, here it is.
+                  But the <objectName type="person">lady</objectName> perceived not the <objectName type="person">jest</objectName> but was <trait><desc>desirous to see</desc></trait> the <objectName type="animal">dogs</objectName> tricks of <objectName type="commodity">6 pence</objectName>. Tarlton <state><desc type="emotion">threw down a teaster</desc></state> and said ‘Bring Sirra’ and luckily the dog took up a counter and let the money lie.
+                  A <objectName type="person">woman</objectName> after seeing that asked him how long he would hold it! ‘<state><desc>An hour</desc></state>,’ said <persName type="person">Tarlton</persName>. ‘That is pretty,’ said the woman, ‘let’s see that.’
+                  In the meantime she picked up the <objectName type="commodity">sixe-pence</objectName> and willed him to let them see <objectName type="commodity">money</objectName> again; when he did see <objectName type="commodity">money</objectName> it was a counter and he made this time. 
+                  
+                  Alas, alas how come all this to pass! The <orgName>worlds</orgName> worse than it was; for <trait><desc>silver turns to brass</desc></trait>. 
+                  I say the <objectName type="person">lady</objectName> and the <objectName type="animal">dog</objectName> has mad his <objectName type="person">master</objectName> an ass. But <persName type="person">Tarlton</persName> would never trust his <objectName type="animal">dogs</objectName> to do more tricks.  
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>      </body>
+   </text>
+</TEI>

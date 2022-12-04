@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN26">
+            <byline resp="#WARD1"><persName>Lily Ward</persName></byline>
+            <div type="old">
+               <head><title><persName>Tarlton</persName>'s jest of a <objectName>horse</objectName> and a <persName>man</persName>.</title></head>
+               <ab>In the city of <placeName>Norwich</placeName>, <persName>Tarlton</persName> was on a time invited to an hunting, where
+                  there was a goodly <persName>gentlewoman</persName>, that bravely mounted on a<trait><desc type="apperance"> blacke</desc></trait> <objectName type="animal">horse</objectName>, rode
+                  exceeding well, to the wonder of all the beholders ; and neither hedge nor
+                  ditch stood in her way, but <objectName type=" animal">Pegasus</objectName>, her <objectName>horse</objectName>, for so may we tearme him for
+                  swiftnesse, flew over all, and she sate him as well. When every one returned
+                  <placeName>home</placeName>, some at <placeName>supper</placeName> commended hie hound, others his <state><desc>hawke</desc></state> and shee above all,
+                  her horse. And, said she, I love no living creature so well, at this instant,
+                  as my <trait><desc>gallant</desc></trait> <objectName type="animal">horse</objectName>. Yes, <persName>lady</persName>, a man better, saies <persName>Tarlton</persName>. Indeed no, said
+                  shee, not now ; for since my last <persName>husband</persName> dyed I <state><desc>hate</desc></state> them most, unlesse you
+                  can give me medicines to make me <state><desc type="feeling">love</desc></state> them. <persName>Tarlton</persName> made this jest instantly
+                  :-</ab>
+               <lg>
+                  <l>Why, a <objectName type="animal">horse</objectName> mingeth whay, madam, a man mingeth amber,</l>
+                  <l>A horse is for your way, <persName>madam</persName>, but a man for your <placeName>chamber</placeName>.</l>
+               </lg>
+               <ab>Why, a horse mingeth whay, <persName>madam</persName>, a man mingeth amber, A <objectName type="animal">horse</objectName> is for your
+                  way, madam, but a man for your <placeName>chamber</placeName>.</ab>
+               <lg>
+                  <l>That a <objectName type="animal">horse</objectName> is my chiefe opinion now, I deny not,</l>
+                  <l>And when a man doth me more good in my <placeName>chamber</placeName> I him defie not.</l>
+               </lg>
+               <ab>But till then give me leave to <state><desc type="feeling">love</desc></state> something. Then something will please you,
+                  said <persName>Tarlton</persName>, I am <state><desc type="feeling">glad</desc></state> of that, therefore I pray God send you a good thing or
+                  none at all.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>In the city of <placeName>Norwich</placeName>, <persName>Tarlton</persName> was invited to hunt. There was a<trait><desc> godly</desc></trait> <persName>gentlewoman</persName>, that bravely mounted on a <trait><desc>black</desc></trait> <objectName>horse</objectName>, rode exceedingly well, 
+                  to the wonder of all the people; and no one stood in her way. But, <objectName type="animal">Pegasus</objectName>, her <objectName>horse</objectName>, was swift and flew over all. Everyone went home and at dinner everyone comended his pester and his wild disposition and she above all her <objectName type="horse">horse</objectName>. And, she said, I love no creature so much, at this moment, my<trait><desc> gallant</desc></trait> <objectName>horse</objectName>. 
+                  Yes, lady, a man better, says <persName>Tarlton</persName>. Indeed no, she said, not now, since my last <persName>husband</persName> died I hate them the most, unless you can give me medicines to make me love them. 
+                 <persName> Tarlton</persName> made this jest instant. Why, a <objectName type="animal">horse</objectName> goes that way, madam, a man mimics amber. A <objectName type="animal">horse</objectName> is for your way madam, but a <persName>man</persName> for your <placeName>chamber</placeName>. 
+                  Lord have mercy, <persName>Tarlton</persName>, said the <persName>men</persName>: which <persName>gentlewoman</persName> is noting, seeing they took exceptions at her words, to make all well, answered this:
+                  That a <objectName type="animal">horse</objectName> is my opinion now, I deny not, And when a <persName>man</persName> does more good in my <placeName>chamber</placeName> I do not defy him.
+                  But until then give me room to love something. Then I will please you, said <persName>Tarlton</persName>. I am glad of that, therefore I pray God send you a good thing or none at all. 
+               </ab> 
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN27">
+            <byline resp="#WARD1"><persName>Lily Ward</persName></byline>
+            <div type="old">
+               <head><title>Tarlton's talke with a <state><desc type="apperance">pretty</desc></state> <persName>woman</persName>.</title></head>
+               <ab><persName>Gentlewoman</persName>, said <persName>Tarlton</persName>, and the rest as you sit, I can tell you strange
+                  things : now many <persName>gallants</persName> at supper noted one <persName>woman</persName>, who being <state><desc type="apperance">little</desc></state> and
+                  <state><desc type="apperance">pretty</desc></state>, to unfit her prettinesse had a great <trait><desc type="apperance">wide</desc></trait> mouth, which she seeming to
+                  hide, would pinch in her speeches, and speake small, but .was desirous to heare
+                  newes. <persName>Tarlton</persName> told at his comming from <placeName>London</placeName> to <placeName>Norwich</placeName>, a proclamation was
+                  made that every man should have two <persName>wives</persName>. Now <persName>Jesus</persName>, qd. she, is it possible?
+                  Ay gentlewoman, and otherwise able too, for contrarily <persName>women</persName> have a larger
+                  <state><desc>preeminence</desc></state>, for every <persName>woman</persName> must have three husbands. Now <persName>Jawsus</persName>, said the
+                  <persName>gentlewoman</persName>, and with <state><desc>wonder</desc></state> shewes the full <trait><desc type="apperance">widenesse</desc></trait> of her <objectName>mouth</objectName>, which all
+                  the table <state><desc>smil'd</desc></state> at ; which she <state><desc>perceiving</desc></state>, would answere no more. Now <persName>mistris</persName>,
+                  said <persName>Tarlton</persName>, your mouth is lease than ever it was, for now it is able to say
+                  nothing. Thou art a cogging knave, said she. <persName>Masse</persName>, and that is something, yet,
+                  said <persName>Tarlton</persName>, your <objectName>mouth</objectName> shall be as <trait><desc type="apperance">wide</desc></trait> as ever it was for that jest.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab><persName>Gentlewoman</persName>, said <persName>Tarlton</persName>, and the rest as you sit, I can tell you strange things: how many <persName>people</persName> at dinner noted one <persName>woman</persName> who was being <trait><desc type="apperance">little</desc></trait> and <trait><desc>pretty</desc></trait>. But her prettiness had a wide mouth, which she tried to hide. 
+                  She would pinch her speech, and speak small, but had a desire to hear news. <persName>Tarlton</persName> told that his travelling from <placeName>London</placeName> to <placeName>Norwich</placeName>, was a proclamation that was made that every man
+                  should have two <persName>wives</persName>. Now <persName>Jesus</persName> questioned her, is it possible? <persName>Gentelwoman</persName> and otherwise able to or contrarily <persName>woman</persName> have a large superrority, for every <persName>woman</persName> must have three <persName>husbands</persName>. 
+                  Now <persName>Jesus</persName>, said the <persName>gentlewoman</persName> and with wonder skews the full <trait><desc type="apperance">wideness</desc></trait> of her mouth, which all the table smiled at, which she realized would answer no more. Now miss, said <persName>Tarlton</persName>, your mouth is less than it ever was, for now you are able to say nothing. 
+                  Now arent you a <trait><desc>dishonest</desc></trait> <persName>man</persName>, she said. Miss and that is something, yet, said <persName>Tarlton</persName>, your mouth shall be as wide as it ever was for that jest. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

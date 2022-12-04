@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="jest" xml:id="COUN03">
+            <byline resp="#YIGA1"><persName>Quinton Nsamba Yiga</persName></byline>
+            <div type="old">
+               <head><title>Tarltons answere in defence of his flat nose.</title></head>
+               <ab>I Remember I was once at a <orgName type="Organization">Play</orgName> ▪ in the
+                     <placeName type="Place">country</placeName>, where as <persName type="person"
+                     >Tarltons</persName>vse was, the <orgName type="Organization">Play</orgName>
+                  being done, euery one so <state>
+                     <desc type="Description">pleased</desc>
+                  </state> to throwe vp his Theame: amongst all the rest, one was read to this same
+                  effect, word by word.</ab>
+               <lg>
+                  <l><persName type="person">Tarlton</persName>, I am one of thy <orgName
+                        type="Organization">friends</orgName>, and none of thy <orgName
+                        type="Organization">foes</orgName>,</l>
+                  <l>Then I prethee tell how thou cam'st by thy <trait>
+                        <desc type="Description">flat</desc>
+                     </trait> nose:</l>
+                  <l>Had I beene present at that time on those <objectName type="Object"
+                        >bankes</objectName>,</l>
+                  <l>I would haue layd my short <objectName type="Object">sword</objectName> ouer
+                     his long <objectName type="Organization">shankes</objectName>.</l>
+               </lg>
+               <ab><persName type="person">Tarlton</persName>
+                  <state>
+                     <desc type="Description">mad</desc>
+                  </state> at this question, as it was his propertie sooner to take such a matter
+                  ill then well, very suddenly returned him this answere:</ab>
+               <lg>
+                  <l><persName type="person">Friend</persName> or <persName type="person"
+                        >foe</persName>, if thou wilt needs know, marke me <state>
+                        <desc type="Description">well</desc>
+                     </state></l>
+                  <l>With parting dogs &amp; beares, then by the ears, this chance fel:</l>
+                  <l>But what of that? though my nose be flat, my credit to saue,</l>
+                  <l>Yet very well, I can by the smell, scent an <state>
+                        <desc type="Description">honest</desc>
+                     </state><persName type="person">man</persName>from a <persName type="Person"
+                        >knaue</persName>.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>I remember I was once at a <orgName type="Organization">play</orgName> in the
+                     <placeName type="Place">country</placeName>, where <persName type="Person"
+                     >Tarlon</persName> was, the <orgName type="Orginization"/>play being done,
+                  every one so pleased to throwe his theme: amongst all the rest, one was read to
+                  this same effect, word by word. <persName type="person"> Tarlton</persName>, I am
+                  one of your <orgName type="Organization">friends</orgName>, and not your <orgName
+                     type="Organization">enemy</orgName>, please tell me how your nose became <trait>
+                     <desc type="Description">flat</desc>
+                     </trait> Had I been present at that time on those <objectName type= "object">bankes</objectName>, I would have laid my
+                  short <objectName type="Object">sword </objectName> over his long <objectName type="Object">shankes</objectName>.(leg) <persName type= "person">Tarlton</persName> mad at this questions, as it was
+                  his property sonner to take such a matter ill then well, very suddently he
+                  answered him. <persName type= "person">Friend</persName> or <persName type= "person">enemy</persName>, if you need to know, marke me <state><desc>well</desc></state>
+                  With parting
+                  dogs and beares, then by the ears, this chance fel: But what of that? Though my
+                  nose be flat, my credit to saue, Yet very well, I can by the smell, scent an
+                  <state><desc type= "Description">honest</desc></state>state> man from a knaue.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN04">
+            <byline resp="#YIGA1"><persName type="person">Quinton Nsamba Yiga</persName></byline>
+            <div type="old">
+               <head><title>Tarltons Iest of a Bristowman.</title></head>
+               <ab>VVHen the <persName type="person">Quéenes</persName><persName type="Person"
+                     >Players</persName> were restrained in Summer, they trauailed downe to S. Iames
+                  his <placeName type="Place">Faire</placeName>, at <placeName type="Place">Bristowe</placeName>,
+                  where they were worthily entertained both of Londoners, and those Citizens: it
+                  happened that a wealthy Citizen, called <persName type="person">M. Sunbanke</persName>, one
+                  morning secretly married his <persName type="person"> Maid</persName>; but not so
+                  secret, but it was blowne abroad: that morning, <persName type="person"
+                     >Tarlton</persName> and others, walking in the <placeName type="Place"
+                     >Faire</placeName> to visit his familiar <orgName type="Organization"
+                     >friends</orgName> of <placeName type="Place">London</placeName>, and being in
+                  company of<placeName type="Place"> Bristow</placeName>
+                  <persName>men</persName>, they did sée <persName type="person"> M.
+                     Sunbancke</persName> comming, who had this propertie with his necke, not to
+                  stirre it any way, but to turne body &amp; all: it chanced at the <placeName
+                     type="Person">Faire</placeName> end, he stood to pisse against a <objectName
+                     type="object">wall</objectName>: to whom <placeName>Tarlton</placeName> came,
+                  and clapping him on the shoulder, <persName type="person">>God</persName> giue you
+                  ioy of your marriage, saies he: <persName type="person">M. Sunbanke</persName>
+                  being taken pissing against the <objectName type="object"> wall</objectName>,
+                  would haue lookt backe to thanke him, and suddainly turnes about body and all, in
+                  the view of many, and shewed all: which so <state>
+                     <desc>abasht</desc>
+                  </state> him, that ashamed he tooke into a Tauerne, protesting that he had rather
+                  haue spent ten pound: sure sayd the Vintner, the fault is in your necke, who will
+                  not turne without the bodies assistance, and not in <persName type="person">M.
+                     Tarlton</persName>: Call you him <persName type="person">M. Tarlton</persName>,
+                  saies <persName type="person"> M. Sunbancke</persName>? I Sir, saies the Vintner,
+                  he is the <persName type="person">Quéens</persName> Iester: he may be whose Iester
+                  he will be, but this Iest agrées not with me at this time.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab> When the <persName type="person">Quéenes</persName> Players were restrained in Summer, they traualied down to
+                  S.lames in his <placeName type= "Place">Faire</placeName>, at <placeName type="Place">Bristowe</placeName>, where they were worthily entertained both of
+                  Londoners, and those Citizens; it happened that a wealthy Citizen, called
+                  <persName type="Person"> M.Subanke</persName>, one morning secretly married his <persName type= "person">maid</persName>, but not so secret, but it was
+                  blown abroad: that morning, <persName type="person"
+                     >Tarlton</persName> and others, walking in the <placeName type="Place"
+                        >Faire</placeName>  to visit his familiar <orgName type="Organization"
+                           >friends</orgName>of <placeName type="Place">London</placeName> , and being in company of <placeName type="Place"> Bristow</placeName> men, they did see
+                  <persName type="person"> Sunbancke</persName> coming, who had this propertie with his neck, not to stiree it any
+                  way, but to turn body and all: it chanced at the <placeName
+                     type="Person">Faire</placeName> end, he stood to piss against a <objectName
+                        type="object">wall</objectName>: would have looked back to thank him, he suddenly turns his body around and all, in the view of many, and showed all, which <state><desc type= "Description">embarrased</desc></state>him, 
+                  that ashamed he took into a Tauerene, protesting that he had rather have spent ten pound: Sure said the vinter, the fault is in your neck, who will no turn without the bodies assistnace, 
+                  and not in <persName type="person">M. Tarlton</persName>: call you him <persName type="person">M. Tarlton</persName>, says <persName type="person"> M. Sunbancke</persName>? I Sir, says the Vinter, he is the <persName type="person">Quéens</persName> lester: he may be whose lester he will be, 
+                  but this lest agree not with me at this time. 
+                  
+                  </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

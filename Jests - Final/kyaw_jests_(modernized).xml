@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="CITY19">
+            <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="actor">Tarlton</persName> iested at his wife.</title></head>
+               <ab><persName type="actor">TArlton</persName> and his wife keeping an Ordinarie in <placeName type="location">Paternoster Row</placeName>, was bidden out
+                  to Supper, and because he was a man <trait><desc type="quality">noted</desc></trait>, she would not goe with him in the
+                  street, but intreats him to kéepe one side and she another, which he consented
+                  to: but as he went he would cry out to her and say, Turne that way wife, and
+                  anon on this side wife: so the people flockt the more to laugh at them, but his
+                  wife more then <state><desc type="emotion">mad</desc></state> <state><desc type="emotion">angry</desc></state>, goes backe againe, and almost forswore his
+                  company.</ab>  
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="actor">Tarlton</persName> joke around with his wife?</title></head>
+               <ab>
+                  <persName type="actor">Tarlton</persName> and his wife keeping an ordinary in <placeName type="location">Paternoster Row</placeName>, was bidden out to Supper, 
+                  and because he was a man <trait><desc type="quality">noted</desc></trait>, 
+                  she would not go with him in the street, but intreats him to keep one side and she another, which he consented to: 
+                  but as he went he would cry out to her and say, turn that way wife, and anon on this side wife: so the people flock 
+                  the more to laugh at them, but his wife more then <state><desc type="emotion">mad</desc></state> <state><desc type="emotion">angry</desc></state>, goes back again, and almost forswore his company. 
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY20">
+            <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="actor">Tarlton</persName> committed a Rakers horse to <orgName type="city">Ward</orgName>.</title></head>
+               <ab>VVhen <persName type="actor">Tarlton</persName> dwelt in <placeName type="location">Gracious stréet</placeName>, at a <placeName type="location">Tauerne</placeName> at the signe of the <placeName type="pub">Saba</placeName>,
+                  he was chosen Scauenger: and often the <orgName type="city">Ward</orgName> complained of his <trait><desc>slacknes</desc></trait> in
+                  kéeping the stréets cleane: so on a time when the <objectName type="tool">Cart</objectName> came, he asked the
+                  Raker, why he did his businesse so <trait><desc>slackly</desc></trait>. Sir said he, my fore-horse was in
+                  the <trait><desc>fault</desc></trait>, who being let <state type="quality"><desc>blood</desc></state> and <state type="quality"><desc>drencht</desc></state> yesterday, I durst not labour him:
+                  sir said <persName type="actor">Tarlton</persName>, your horse shall smart for it, and so leads him to the
+                  Counter, which the Raker laught at, and without his horse did his worke with
+                  the rest, thinking <persName type="actor">Tarltons</persName> homor was to iest, and would returne him his horse
+                  againe anon: but when that anon came, he was faine to pay all his fées of the
+                  prison, as directly as if he himselfe had béene there: for if <persName type="actor">Tarlton</persName> had
+                  committed the master, the busines had not gone forward, therefore the horse was
+                  in <placeName type="housing">prison</placeName> for the Master.</ab>
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="actor">Tarlton</persName> send to a raker’s (specialized street cleaners) horse to cell [in a prison]).
+               </title></head>
+               <ab>
+                  When <persName type="actor">Tarlton</persName> dwelt in <placeName type="location">Gracious stréet</placeName>, at a <placeName type="location">Tauerne</placeName> at the sign of the <placeName type="pub">Saba</placeName>, he was chosen <persName type="occupation">Scavenger</persName>: and often the 
+                  <orgName type="city">Ward</orgName> complained of his <trait><desc>slacknes</desc></trait> in kéeping the stréets cleaner: so on a time when the <objectName type="tool">Cart</objectName> came, he asked the
+                  Raker, why he did his businesse so <trait><desc>slackly</desc></trait>. Sir said he, my for came, he asked the Raker, 
+                  why he did his business so <trait><desc>slackly</desc></trait>. Sir said he, my fore-horse was in the <trait><desc>fault</desc></trait>, who being let <state type="quality"><desc>blood</desc></state> and <state type="quality"><desc>drencht</desc></state> yesterday, 
+                  I durst not labor him: sir said <persName>Tarlton</persName>, your horse shall smart (suffer, feel pain) for it, and so leads 
+                  him to the Counter (to act in opposition to), which the Raker laugh at, and without his horse did his work with the rest, 
+                  thinking <persName type="actor">Tarlton</persName> honor was to jest, and would return him his horse again anon: but when that anon came, he was faine to pay 
+                  all his fées of the <placeName type="housing">prison</placeName>, as directly as if he himself had béene there: for if <persName type="actor">Tarlton</persName> had committed the master, the business
+                  had not gone forward, therefore the horse was in <placeName type="housing">prison</placeName> for the Master.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="CITY21">
+            <byline resp="#KYAW1"><persName>Wera Kyaw Kyaw</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="actor">Tarlton</persName> made <persName type="actor">Armin</persName> his adopted sonne to succeed
+                  him.</title></head>
+               <ab><persName type="actor">TArlton</persName> kéeping a <placeName>Tauerne</placeName> in <placeName>Gracious stréet</placeName>, hee let it to another, who was
+                  indebted to <persName type="actor">Armins Master</persName>, <orgName type="occupation">a Gold smith</orgName> in <placeName type="street">Lumbard stréet</placeName>: yet he himselfe had
+                  a <objectName type="furniture">Chamber</objectName> in the same house. And this <persName type="actor">Armin</persName> being then a wag came often thither
+                  to demaund his Masters <objectName type="money">money</objectName>, which hee sometimes had, and sometimes had not:
+                  in the end the man growing poore, told the boy he had no <objectName>money</objectName> for his Master,
+                  and he must beare with him. The mans name being <persName type="actor">Charles</persName>, <persName type="actor">Armin</persName> made this verse,
+                  writing it with <objectName type="tool">chalke</objectName> on a <placeName type="location">waine-scot</placeName>:</ab>
+               <lg>
+                  <l>O world how wilt thou lie, is this <persName type="actor">Charles</persName> the <trait><desc>great</desc></trait>? that I denie:</l>
+                  <l>Indeed <persName type="actor">Charles</persName> the <trait><desc type="rich">great</desc></trait> before,</l>
+                  <l>But now <persName type="actor">Charles</persName> the <trait><desc type="poor">lesse</desc></trait>, being <trait><desc>poore</desc></trait>.</l>
+               </lg>
+               <ab><persName type="actor">Tarlton</persName> comming into the roome reading it, and partly acquainted with the
+                  boyes <state  type="funny"><desc>humor</desc></state>, comming often thither for his M. <objectName type="money">money</objectName>, tooke a piece of <objectName type="tool">chalke</objectName>,
+                  &amp; writ this rime by it.</ab>
+               <lg>
+                  <l>A wag thou art, none can preuent thee,</l>
+                  <l>And thy desert shall content thee:</l>
+                  <l>Let me diuine, as I am, so in time thou'lt be the same.</l>
+                  <l>My adopted sonne therefore be,</l>
+                  <l>To enioy my <trait type="funny"><desc>Clownes</desc></trait> suite after me.</l>
+               </lg>
+               <ab>And sée how it fell out: the Boy reading this, so loued <persName type="actor">Tarlton</persName> after, that
+                  regarding him with more respect, vsed to his playes, and fell in a league with
+                  his <state type="funny"><desc>humour</desc></state>, and priuate practise brought him to present playing, and at this
+                  houre performes the same, where at the <placeName type="location">Globe</placeName> on the Bancke-side men may sée
+                  him.</ab>
+            </div>
+            <div type="modern">
+               <head><title>How <persName type="actor">TArlton</persName> made <persName type="actor">Armin</persName> his adopted sonne to succeed him. </title></head>
+               <ab>
+                  <persName type="actor">Tarlton</persName> kéeping a Tauerne in Gracious stréet, hee let it to another, who was indebted to <persName type="actor">Armin</persName>'s Master, 
+                  a <orgName type="occupation">a Gold smith</orgName> in <placeName type="street">Lumbard stréet</placeName>: yet he himself had a <objectName type="furniture">Chamber</objectName> in the same house. And this <persName type="actor">Armin</persName> being then a wag came often thither to demand 
+                  his Masters <objectName type="money">money</objectName>, which hee sometimes had, and sometimes had not: in the end the man growing poore, told the boy he had no money for his Master, 
+                  and he must bear with him. The man's name being <persName type="actor">Charles</persName>, <persName type="actor">Armin</persName> made this verse, writing it with <objectName type="tool">chalke</objectName> on a <placeName type="location">waine-scot</placeName>:
+                  
+                  O world how wilt thou lie, is this Charles the great? that I denie:
+                  Indeed Charles the great before,
+                  But now Charles the lessee, being poor.
+                  
+                  <persName type="actor">Tarlton</persName> comming into the roome reading it, and partly acquainted with the
+                  boyes <state  type="funny"><desc>humor</desc></state>, coming often thither for his M. <objectName type="money">money</objectName>, tooke a piece of <objectName type="tool">chalke</objectName>,
+                  &amp; writ this rime by it.
+                  
+                  A wag thou art, none can prevent thee,
+                  And thy desert shall content thee:
+                  Let me be divine, as I am, so in time thou'lt be the same.
+                  My adopted sonne therefore be,
+                  To enjoy my <trait type="funny"><desc>Clownes</desc></trait> suite after me.
+                  
+                  And sée how it fell out: the Boy reading this, so loud <persName type="actor">Tarlton</persName> after, 
+                  that regarding him with more respect, vsed to his players, and fell in
+                  a league with his <state type="funny"><desc>humour</desc></state>, and private practise brought him to present playing,
+                  and at this hour performs the same, where at the <placeName type="location">Globe</placeName> on the Back-side men may sée him.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

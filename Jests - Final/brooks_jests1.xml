@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="jest" xml:id="COUR10">
+            <byline resp="#BROO1"><persName>Aden Brooks</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="man">Tarlton</persName> landed at <placeName
+                        type="location">Cuckolds hauen</placeName>.</title></head>
+               <ab><persName type="man">TArlton</persName> being one Sunday at <placeName
+                     type="location">Court</placeName> all day, caused a <objectName
+                     type="transportation">payre of Oares</objectName> to tend him, who at night
+                  called on him to be gone: <persName type="man">Tarlton</persName> being a
+                     carousing,<state type="drunk">
+                     <desc>drunke</desc>
+                  </state> so long to the <orgName type="workers">Watermen</orgName>, that one of
+                  them was <state type="drunk">
+                     <desc>bumpsie</desc>
+                  </state>, and so indéed were all thrée for the most part: at last they left
+                     <placeName type="location">Gréenwitch</placeName>, the <objectName type="water"
+                     >Tide</objectName> being at a great low fall, the <orgName type="workers"
+                     >Watermen</orgName> yet <state type="afraid">
+                     <desc>affraid</desc>
+                  </state> of the <objectName type="cables">crosse Cables</objectName> by the
+                     <placeName type="location">Lime-house</placeName>: <trait type="dark">
+                     <desc>very darke</desc>
+                  </trait> and <state type="time">
+                     <desc>late</desc>
+                  </state> as it was, landed <persName type="man">Tarlton</persName> at
+                     <placeName>Cuckolds-hauen</placeName>, and said the next day they would giue
+                  him a reason for it: But <persName type="man">Tarlton</persName> was <state
+                     type="happy">
+                     <desc>faine</desc>
+                  </state> to goe by land to <placeName type="location">Reddriffe</placeName> on the
+                     <trait type="dirty">
+                     <desc>durty</desc>
+                  </trait>
+                  <placeName type="water">banke</placeName>, euery step <objectName type="body"
+                     >knée</objectName> déepe: so that comming <placeName type="location"
+                     >home</placeName>, hee called one of his <orgName type="group">boyes</orgName>
+                  to helpe him off with his <objectName type="shoes">boots</objectName>, meaning his
+                     <objectName type="clothing">stockings</objectName>, which were <trait
+                     type="dyed">
+                     <desc>dyed</desc>
+                  </trait> of another colour. Whereupon one gaue him this Theame next day.</ab>
+
+               <lg>
+                  <l><persName type="man">Tarlton</persName> tell me, for faine would I know,</l>
+                  <l>If thou wert landed at <placeName type="location">Culckolds-hauen</placeName>
+                     or no?</l>
+               </lg>
+
+               <ab><persName type="man">Tarlton</persName> answered thus:</ab>
+
+               <lg>
+                  <l>Yes Sir, and I tak't in no scorne,</l>
+                  <l>For many land there, yet misse of the horne.</l>
+               </lg>
+            </div>
+            <div type="modern">
+            <head><title>How <persName type="man">Tarlton</persName> landed at <placeName type="location">Cuckolds Haven</placeName></title></head>
+               <ab> One <name type="day">Sunday</name>, <persName type="man">Tarlton</persName>
+                  spent the day at <placeName type="location">court</placeName>. With the help of a
+                     <objectName type="boat">pair of oars</objectName>, he left during the <name
+                     type="time">night</name>. <persName type="man">Tarlton</persName> was <trait>
+                     <desc type="action">drinking</desc>
+                  </trait>
+                  <objectName type="beverage">alcohol</objectName> and the <orgName type="men"
+                     >Watermen</orgName> were also <state>
+                     <desc type="drunk">drunk</desc>
+                  </state>, for the most part. Finally, they <trait>
+                     <desc type="action">left</desc>
+                  </trait>
+                  <placeName type="location">Greenwich</placeName> at low tide. The <orgName
+                     type="men">Watermen</orgName> became <state>
+                     <desc type="afriad">afraid</desc>
+                  </state> of the <objectName type="cable">cables</objectName> by the <placeName
+                     type="location">Lime-house</placeName>. It was <trait>
+                     <desc type="lighting">very dark</desc>
+                  </trait> and <name type="time">late</name>, and <persName type="man"
+                     >Tarlton</persName>
+                  <trait>
+                     <desc type="action">arrived</desc>
+                  </trait> at <placeName type="location">Cuckold’s-haven</placeName>. The <orgName
+                     type="men">Watermen</orgName> told him they would tell him why they were there
+                  the <name type="time">following day</name>. <persName type="man"
+                     >Tarlton</persName> wanted to <trait>
+                     <desc type="action">walk</desc>
+                  </trait> to <placeName type="location">Redriffe</placeName>. He <trait>
+                     <desc type="action">walked</desc>
+                  </trait> through the <state>
+                     <desc type="dirty">dirty</desc>
+                  </state>
+                  <objectName type="water">bank of water</objectName>, which was up to his
+                     <objectName type="body">knees</objectName>. When he came back <placeName
+                     type="location">home</placeName>, he had one of his boys help him <trait>
+                     <desc type="action">take off</desc>
+                  </trait> his <objectName type="apparel">boots</objectName>. His <objectName
+                     type="apparel">socks</objectName> were <trait>
+                     <desc type="color">stained</desc>
+                  </trait> a different color because of the <trait>
+                     <desc type="dirty">dirty</desc>
+                  </trait>
+                  <objectName type="water">water</objectName> he <trait>
+                     <desc type="action">walked</desc>
+                  </trait> through. One of the men asked him about this <name type="time">the next
+                     day.</name> “<persName type="man">Tarlton</persName>, please <trait>
+                     <desc type="action">tell</desc>
+                  </trait> me as I would like to know, did you go to <placeName type="location"
+                     >Cuckold’s-haven</placeName>?” <persName type="man">Tarlton</persName>
+                  <state>
+                     <desc type="action">answered</desc>
+                  </state>: “Yes sir, and I was respectful.” </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUR11">
+            <byline resp="#BROO1"><persName>Aden Brooks</persName></byline>
+            <div type="old">
+               <head><title>How <persName type="man">Tarlton</persName> fought with <persName
+                        type="man_two">Blacke Dauie</persName></title></head>
+               <ab>NOt long since liued a little <state>
+                     <desc type="confidence">swaggerer</desc>
+                  </state>, called <persName type="man_two">blacke Dauie</persName>, who would at
+                     <objectName type="fencing">Sword and Buckler</objectName> fight with any
+                     <persName type="other">gentleman</persName> or <orgName>other</orgName>, for
+                  12. <objectName type="money">pence</objectName>: he being hired to draw vpon
+                     <persName type="man">Tarlton</persName>, for breaking a iest vpon huffin
+                     <persName type="woman">Kate</persName>, a <state>
+                     <desc type="punk">puncke</desc>
+                  </state> as <orgName>men</orgName> tearmed her: one euening <persName type="man"
+                     >Tarlton</persName> comming forth at the <placeName>Court-gate</placeName>,
+                  being at <placeName type="location">Whitehal</placeName>, and walking toward the
+                     <placeName type="location">Tilt-yard</placeName>, this <persName type="man_two"
+                     >Dauie</persName> immediatly drew vpon <persName type="man">Tarlton</persName>:
+                  who on the sudden, though <state>
+                     <desc type="awe">amazed</desc>
+                  </state>, drew likewise, and inquired the cause, which <persName type="man_two"
+                     >Dauie</persName> denied, till they had <state>
+                     <desc type="fight">fought</desc>
+                  </state> about or two: <persName type="man">Tarlton</persName>
+                  <state>
+                     <desc type="brave">couragiously</desc>
+                  </state> got within him, and taking him in his armes, threw him into the
+                     <placeName type="location">Tilt-yard</placeName>, who falling vpon his nose, <trait>
+                     <desc type="broken">broke</desc>
+                  </trait> it extreamely, that euer after he snuffled in the head; poore <persName
+                     type="man_two">Dauie</persName>
+                  <state>
+                     <desc type="position">lying</desc>
+                  </state> all that night in the <placeName type="location">Tilt-yard</placeName>,
+                  expecting the <objectName type="door">doores</objectName> to be opened, came
+                  forth, and at the Barber▪ surgeons told of this <trait>
+                     <desc type="blood">bloody</desc>
+                  </trait> combat, and the occasion of it was (quoth hee) because <persName
+                     type="man">Tarlton</persName> being in a <placeName type="location"
+                     >Tauerne</placeName> in the companie of this damnable Cockatrice huffing
+                     <persName type="woman">Kate</persName>, called for wine: but she told him that
+                  without he would <trait>
+                     <desc type="burned">burne</desc>
+                  </trait> it, she would not drinke. No quoth <persName type="man"
+                     >Tarlton</persName>, it shal be <trait>
+                     <desc type="burned">burnt</desc>
+                  </trait>, for thou canst <trait>
+                     <desc type="burned">burn</desc>
+                  </trait> it without <objectName type="fire">fire</objectName>: as how sir? (quoth
+                  she) marry thus, take the <objectName type="cup">Cup</objectName> in thine hand
+                  &amp; I will tell thée: So he filling the <objectName type="cup">cup</objectName>
+                  in her <objectName type="bodypart">hand</objectName>, said it was <trait>
+                     <desc type="burned">burnt</desc>
+                  </trait> sufficiently in so <trait>
+                     <desc type="firey">fiery</desc>
+                  </trait> a <placeName type="location">place</placeName>: she perceiuing her selfe
+                  so flouted, hyred me to be her Champion to reuenge her quarrell.</ab>
+            </div>
+            <div type="modern">
+               <head><title>The Fight Between Tarlton and Black Davie</title></head>
+               <ab>Not long ago, lived a <state>
+                     <desc type="confidence">boaster</desc>
+                  </state> named <persName type="man_two">Black Davie</persName> who would <name
+                     type="sport">fence</name> with any gentleman for <objectName type="currency"
+                     >money</objectName>. He was hired to draw upon <persName type="man"
+                     >Tarlton</persName>, for breaking a jest upon <persName type="woman"
+                     >Kate</persName>, a “punk” men called her. One evening <persName type="man"
+                     >Tarlton</persName> arrived at the <placeName type="location">court
+                     gate</placeName> at <placeName type="location">Whitehall</placeName>. He walked
+                  toward the <placeName type="location">Tilt-yard</placeName> and <persName
+                     type="man_two">Davie</persName> immediately drew upon <persName type="man"
+                     >Tarlton</persName>, who although he was <state>
+                     <desc type="awe">amazed</desc>
+                  </state>, <trait>
+                     <desc type="action">fought</desc>
+                  </trait> back. <persName type="man">Tarlton</persName>
+                  <state>
+                     <desc type="brave">couragiously</desc>
+                  </state> took him in his <objectName type="body">arms</objectName> and <state>
+                     <desc type="action">threw</desc>
+                  </state> him into the <placeName type="location">Tilt-yard</placeName>. <persName
+                     type="man_two">Davie</persName>
+                  <state>
+                     <desc type="action">fell</desc>
+                  </state> on his <objectName type="body">nose</objectName>, and <trait>
+                     <desc type="broken">broke</desc>
+                  </trait> it. <persName type="man_two">Davie</persName> spent all <name type="time"
+                     >night</name>
+                  <trait>
+                     <desc type="action">laying</desc>
+                  </trait> in the <placeName type="location">Tilt-yard</placeName>, <state>
+                     <desc type="action">waiting</desc>
+                  </state> for the <objectName type="door">doors</objectName> to <trait>
+                     <desc type="action">open</desc>
+                  </trait>. The <orgName type="group">Barber surgeons</orgName> told him what
+                  happened, since <persName type="man">Tarlton</persName> was at a <placeName
+                     type="location">taverne</placeName> with Cockatrice huffing <persName
+                     type="woman">Kate</persName>. <persName type="man">Tarlton</persName> asked for
+                     <objectName type="alcohol">wine</objectName>, but she told him that he would <trait>
+                     <desc type="burn">burn</desc>
+                  </trait> without it so she would not <trait>
+                     <desc type="action">drink</desc>
+                  </trait> it. He then <trait>
+                     <desc type="action">answered</desc>
+                  </trait>, “how shall I be burned, as you cannot burn without fire?” She then <trait>
+                     <desc type="action">replied</desc>
+                  </trait>, “Marry me, take the cup in your hand and I will tell you.” He <trait>
+                     <desc type="action">filled</desc>
+                  </trait> the <objectName type="cup">cup</objectName> in her <objectName
+                     type="body">hand</objectName> and said it was <trait>
+                     <desc type="burn">burned</desc>
+                  </trait> sufficiently in a fiery place. She perceived herself in such a way that
+                  she <state>
+                     <desc type="action">hired</desc>
+                  </state> me to win the fight against herself. </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarlton's Jests</title>
+            <principal>
+               <persName xml:id="JAKA1">Diane K. Jakacki</persName>
+            </principal>
+            <respStmt>
+               <persName xml:id="BAZA1">Riley Bazaar</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BEAR1">Haley Beardsley</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="BROO1">Aden Brooks</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="CALD1">Julia Calderone</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="DERR1">Luke Derr</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HASF1">Andrew Hasfal</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="HEIN1">Rebecca Heintzelman</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KIZI1">Jackson Kizilbash</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KRES1">Megan Krestinski</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KURU1">Viveka Kurup</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="KYAW1"> Wera Kyaw Kyaw</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MIYA1">Tsugunobu Miyake</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MUEL1">Nick Mueller</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="MURR1">James Murray</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="YIGA1">Quinton Nsamba Yiga</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="OLDF1">Morgan Oldfield</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PAPA1">Lucas Papaleo</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PURI1">Livy Puri</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="PYON1">Jason Pyon</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ROBE1">Jack Roberto</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHA1">Katie Schaefer</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SCHM1">Caleb Schmidt</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SIMS1">Sullivan Sims</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="SOTI1">Harrison Sotir</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="WARD1">Lily Ward</persName>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="ZELI1">Tim Zelikovsky</persName>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>HUMN100: Digging into the Digital</publisher>
+            <authority>Bucknell University</authority>
+            <pubPlace>Lewisburg, PA</pubPlace>
+            <date when-iso="2022-10">October 2022</date>
+            <availability>
+               <licence>Creative Commons License - Attribution-NonCommercial-ShareAlike 4.0
+                  International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <biblScope>
+                        <title type="main">Tarltons Ie∫ts.</title>
+                        <title type="sub">Drawne into three parts</title>
+                        <title type="section">1 His Court-wittie Ie∫ts</title>
+                        <title type="section">2 His ∫ound Cittie Ie∫ts.</title>
+                        <title type="section">3 His Country prettie Ie∫ts.</title>
+                        <title type="sub">Full of Delight, Wit, and hone∫t Myrth.</title>
+                        <figure/>
+                     </biblScope>
+                     <pubPlace>LONDON.</pubPlace>
+                     <distributor> Printed for <persName type="publisher">Iohn Budge</persName>, and
+                        are to be ∫old at his shop, at the <placeName>great South doore at
+                           Paules</placeName>. <date when-custom="1613">1613</date>. </distributor>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="jest" xml:id="COUN08">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton escaped imprisonment.</title></head>
+               <ab><persName type="main">TArlton</persName> hauing béene dominéering very late one Night, with two of his <orgName type="group">friends,</orgName>
+                  and comming homewards along <placeName type="location">Cheapside,</placeName> the watch being then set:
+                  <persName type="man">Master Constable</persName> asked, who goes there? <orgName type="group">thrée merry men</orgName>, quoth <persName type="main">Tarlton</persName>: that is not
+                  sufficient, what are you, quoth <persName type="man">M. Constable</persName>? why saies <persName type="main">Tarlton</persName>, one of vs is
+                  an <persName type="occupation">eye-maker,</persName> and the other a <persName type="occupation">light maker:</persName> what sayst thou knaue, doest mocke
+                  me? the one is an <persName type="occupation">eye-maker</persName>, the other a <persName type="occupation">light maker</persName>, which two properties
+                  belong vnto God onely: commit these blasphemers quoth the <persName type="man">Constable:</persName> Nay, I
+                  pray you good <persName type="man">M. Constable</persName> be good in your Office, I will approue what I haue
+                  sayd to be true. If thou canst, sayes the<persName type="man">Constable</persName>, you shall passe, otherwise
+                  you shall be all thrée punished. Why quoth <persName type="main">Tarlton,</persName> this <persName type="man">fellow</persName> is an
+             <persName type="occupation">eye-maker</persName>, because a <persName type="occupation">Spectacle maker</persName>, and this other a maker of light, because
+                  a <objectName>Chandler</objectName>, that makes your darkest night as light as your <objectName>Lanthorne.</objectName> The
+                 <persName type="man">Constable</persName> séeing them so <state type="emotion"><desc>pleasant</desc></state>, was we'l <state><desc type="emotion">contented</desc></state>, the rest of the <orgName type="group">Watchmen</orgName>
+                  laughed, and <persName type="main">Tarlton</persName> with his two <orgName type="group">companions</orgName> went <placeName type="location">home</placeName><state type="characterization"><desc>quietly</desc></state>.</ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>While heading home,<persName type="main">Tarlton</persName> had been domineering very late one night with two of his <orgName type="group">friends</orgName> along <placeName type="location">Cheapside</placeName> when the <orgName type="group">men</orgName> were stopped by <persName type="man">Master Constable.</persName> 
+                  <persName type="man">Master Constable</persName> asked, “who goes there? “Three merry men,” responded <persName type="main">Tarlton</persName>. “That is not sufficient, what are you?” said <persName type="man">master constable</persName>. 
+                  “Why,” says <persName type="main">Tarlton</persName>,“one of us is an <persName type="occupation">eye maker,</persName> and the other a <persName type="occupation">light maker</persName>.” “What are you saying? 
+                  Are you mocking me? The one is an <persName type="occupation">eye maker,</persName> the other a <persName type="occupation">light maker</persName>, which two properties belong onto god only, commit these blasphemers,” says <persName type="man">constable</persName>.
+                  “No, I ask you <persName type="man"> Mr Constable</persName> be good in your office, I will prove what I have said to be true,” replies <persName type="main">Tarlton</persName>. 
+                  “If you can’t,” says the<persName type="man"> constable,</persName> “you shall pass, otherwise you three will all be punished.” “Why?” asks <persName type="main">Tarlton</persName>, “this <persName type="man">fellow</persName> is an <persName type="occupation">eye-maker</persName>, because he is an <persName type="occupation">eyeglasses maker</persName>, and this other a maker of light, because he is a <persName type="occupation">candlemaker</persName>, that makes your darkest night as light as your <objectName>lantern</objectName>.” 
+                 <persName type="man"> Constable,</persName> seeing the <orgName type="group">three men</orgName> so <state type="emotion"><desc>pleasant</desc></state>, was <state type="emotion"><desc>satisfied</desc></state>. The other<orgName type="group"> Watchmen</orgName> laughed and <persName type="main">Tarlton</persName>, with his two <orgName type="group">companions</orgName>, went<placeName type="location"> home</placeName> <state type="characterization"><desc>quietly</desc></state>.</ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN09">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton deceiued a Countrey wench.</title></head>
+               <ab>THe <orgName type="group">Quéenes Plaiers</orgName> trauelling into the <placeName type="location">West country</placeName> to play, 
+                  and <state type="emplacement"><desc>lodging </desc></state>in a <placeName type="location">little village,</placeName> some ten miles from <placeName type="location">Bristow,</placeName> in which <placeName type="location">village</placeName> <state type="emplacement"><desc>dwelt</desc></state> a <trait type="characterization"><desc>pretty
+                  nut-browne</desc></trait> <persName type="woman">Lasse▪</persName> to whom <persName type="main">Tarlton</persName> made proffer of marriage, protesting that he
+                  came from <placeName type="place">London,</placeName> purposely to marry her: the <trait type="characterization"><desc>simple</desc></trait> <persName type="woman">Maide</persName> being <state type="emotion"><desc>proud,</desc></state> to be
+                  beloued by such a one, whom she knew to be the <persName>Quéenes man,</persName> without more
+                  intreaty yéelded, &amp; being both at the <placeName type="location">Church</placeName> together, and <persName type="man">M. Parson</persName> ready
+                  to performe his dutie, and comming to the words of <persName type="man">I Richard</persName> take thée <persName type="woman">Ioane</persName>:
+                  nay, stay good <persName type="man">Master Parson</persName>, I will goe and call my <orgName type="group">fellowes</orgName>, and come to you
+                  againe: so going out of the <placeName type="location">Church</placeName> in haste, returned at leisure; for hauing
+                  his <objectName type="animal">horse</objectName> ready sadled, hee rode toward <placeName type="location">Bristow,</placeName> and by the way told his
+                  <orgName type="group">fellowes▪</orgName> of his successe with his <persName type="woman">wench.</persName></ab>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>The <orgName type="group">Queen’s men</orgName> were traveling into the <placeName type="location">West country</placeName> to perform, and were <state type="emplacement"><desc>staying</desc></state> in a <placeName type="location">small village</placeName> nearly ten miles from <placeName type="location">Bristow.</placeName>
+                  In the <placeName type="location">village</placeName> was a <trait type="characterization"><desc>pretty brown haired </desc></trait> <persName type="woman">girl</persName>, who <persName type="main">Tarlton</persName> decided to propose to, claiming that he had come all the way from <placeName type="location">London</placeName> just to marry her. 
+                  The <trait type="characterization"><desc>simple</desc></trait> <persName type="woman">maid</persName> was <trait type="emotion"><desc>proud</desc></trait> to be beloved by one of the <persName>Queen’s men</persName> and quickly agreed to marriage. 
+                  While at the <placeName type="location">Church</placeName>, with <persName type="man">M.Parson </persName>ready to perform his duty as officiator began to say, “I <persName type="man">Richard </persName>take thée <persName type="woman">Ioane</persName>,” but was interrupted by <persName type="main">Tarlton</persName> who interjected saying,“ I will go and call my <orgName type="group">fellowes</orgName>, and come back to you again.” 
+                  He hastily left the <placeName type="location">church</placeName>, and with his <objectName type="animal">horse</objectName> ,who was ready and saddled, rode towards <placeName type="location">Bristow </placeName>to tell his <orgName type="group">friends</orgName> of his success with his <persName type="woman">wench.</persName> </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+         <div type="jest" xml:id="COUN10">
+            <byline resp="#PURI1"><persName>Livy Puri</persName></byline>
+            <div type="old">
+               <head><title>How Tarlton went to kill Crowes.</title></head>
+               <ab>IT chanced vpon a time, as <persName type="main">Tarlton</persName> went foorth with a <objectName>birding péece</objectName> into the
+                  <placeName type="location">fields</placeName> to kill <objectName type="animal">Crowes</objectName>, hée espied a <objectName type="animal">Daw</objectName> <state type="emplacement"><desc>sitting in a Trée</desc></state>, at which he meant to
+                  shoot; but at the same instant, there came one by, to whom he spake in this
+                  manner: Sir, quoth he, yonder I sée a <objectName type="animal">Daw</objectName>, which I will shoot at if shée sit:
+                  if shée sit, said the other, then she is a <objectName type="animal">Daw</objectName> indéed: but quoth <persName type="main">Tarlton</persName>, if
+                  she sit not, what is she then? Marry quoth the other, a <objectName type="animal">Daw</objectName> also: at which
+                  words shée immediatly flew away: whereupon <persName type="main">Tarlton</persName> spake <state type="emotion"><desc>merrily</desc></state> in a Rime, as
+                  followeth:</ab>
+               <lg>
+                  <l>Whether a <objectName type="animal">Daw</objectName> sit, or whether a <objectName type="animal">Daw</objectName> flie,</l>
+                  <l>Whether a <objectName type="animal">Daw</objectName> stand, or whether a <objectName type="animal">Daw</objectName> lie,</l>
+                  <l>Whether a <objectName type="animal">daw</objectName> creeke, or whether a <objectName type="animal">Daw</objectName> crie,</l>
+                  <l>In what case soeuer a <objectName type="animal">Daw </objectName>perseuer.</l>
+                  <l>A <objectName type="animal">Daw</objectName> is a <objectName type="animal">Daw,</objectName> and a <objectName type="animal">Daw</objectName> shall be euer.</l>
+               </lg>
+            </div>
+            <div type="modern">
+               <head><title>TITLE-MODERNIZED</title></head>
+               <ab>As <persName type="main">Tarlton</persName> was going into the <placeName type="location">fields</placeName> with his <objectName >rifle</objectName> to kill <objectName type="animal">crows</objectName>, he spotted a <objectName type="animal">Daw</objectName> sitting in a <objectName>tree</objectName> which he intended to shoot when he was approached by a <persName type="man">stranger</persName>. 
+                  <persName type="main">Tarlton</persName> said, “Sir, I see a <objectName type="animal">Daw</objectName> there, which I will shoot at if she sits.” To which the <persName type="man">stranger</persName> responded, “If she sits then she is indeed a <objectName type="animal">Daw</objectName>.” “But,” said <persName type="main">Tarlton,</persName> “if she doesn’t sit, what is she then?” “Marry,” said the <persName type="man">stranger</persName>, “also a <objectName type="animal">Daw</objectName>,” upon which the <objectName type="animal">Daw</objectName> flew away immediately. 
+                  <persName type="main">Tarlton,</persName> then <state type="emotion"><desc>merrily</desc></state> spoke a rime, saying: 
+                  
+                  Whether a <objectName type="animal">Daw</objectName> sit, or whether a <objectName type="animal">Daw</objectName> fly, 
+                  Whether a <objectName type="animal">Daw</objectName> stand, or whether a <objectName type="animal">Daw</objectName> lie, 
+                  Whether a a <objectName type="animal">daw</objectName> creeke, or whether a <objectName type="animal">daw </objectName>cry,
+                  
+                  In what case soeuer a <objectName type="animal">Daw </objectName>perseuer.  
+                  A <objectName type="animal">Daw</objectName> is a <objectName type="animal">Daw,</objectName> and a <objectName type="animal">Daw</objectName> shall be yours.
+               </ab>
+            </div>
+            <div type="endnote">
+               <p/>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
