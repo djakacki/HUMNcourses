@@ -1,0 +1,22 @@
+{
+    "editionTitle": "Mrs Dalloway in Bond Street",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/djakacki/DH-Course-Files/master/dalloway_exercise_dtoc.xml?token=GHSAT0AAAAAACLPCC77IVZTAKX3DWGMFMAQZNNTY4A"
+    ],
+    "curation": {
+        "markup": [],
+        "toc": [
+            "d46339f126f6b552bfa2be1ab32dfae83ee770beb2c7509d47891ac6c1fe5529"
+        ]
+    }
+}
