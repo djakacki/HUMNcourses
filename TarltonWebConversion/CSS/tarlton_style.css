@@ -1,7 +1,7 @@
 html {
     margin: 3em;
     padding: 3em;
-    background: #FFF;
+    background: #000;
     overflow: scroll;
     /*    border: 5px solid;
   border-color: black; */
@@ -26,15 +26,13 @@ body {
     padding: 2em;
     border: 1px solid;
     border-color: black;
-    width: 70%;
+    width: 100%;
 }
 
-br {
-    line-height: .2;
-}
+/*br {
+    line-height: .2em;
+}*/
 
-em {
-}
 
 h1 {
     color: black;
@@ -82,8 +80,9 @@ h5 {
 
 p {
     font-family: "Times New Roman", sans-serif;
-    line-height: 3px;
     padding-left: 50px;
+    font-size: larger;
+    font-style: inherit;
 }
 
 persName {
@@ -105,7 +104,11 @@ l {
     padding-left: 10em;
 }
 
-/* The following creates a hovertext tooltip for all semantic tags */
+blockquote {
+    text-decoration: aliceblue;
+}
+
+/* The following creates a hovertext tooltip for all semantic tags 
 .hovertext {
   position: relative;
   border-bottom: 1px dotted black;
@@ -132,4 +135,4 @@ l {
 .hovertext:hover:before {
   opacity: 1;
   visibility: visible;
-}
+}*/
